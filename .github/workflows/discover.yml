@@ -3,6 +3,9 @@ name: 지원금 페이지 구조 탐색
 on:
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   discover:
     runs-on: ubuntu-latest
@@ -24,10 +27,13 @@ jobs:
           CONTACT_EMAIL: ${{ vars.CONTACT_EMAIL }}
         run: python scripts/collectors/discover.py
 
-      - name: 결과 업로드
+      - name: 결과를 discovery-results 브랜치에 저장
         if: always()
-        uses: actions/upload-artifact@v4
-        with:
-          name: discovery
-          path: discovery/
-          retention-days: 7
+        run: |
+          git config user.name "subsidy-bot"
+          git config user.email "subsidy-bot@users.noreply.github.com"
+          git checkout --orphan discovery-results
+          git rm -r --cached . -q
+          git add -f discovery/
+          git commit -m "탐색 결과 $(date -u +%FT%TZ)"
+          git push -f origin discovery-results
