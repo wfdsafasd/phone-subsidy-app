@@ -1,0 +1,49 @@
+# [shop.kt.com Official robots.txt]
+User-agent: *
+Allow: /
+
+# --------------------------------------------------
+# Search Engine Optimization (SEO)
+# --------------------------------------------------
+User-agent: Googlebot
+User-agent: Yeti
+User-agent: Bingbot
+User-agent: Daumoa
+User-agent: DuckDuckBot
+Allow: /
+
+# --------------------------------------------------
+# AI & GEO (Generative Engine Optimization) Strategy
+# --------------------------------------------------
+User-agent: GPTBot
+User-agent: ChatGPT-User
+User-agent: OAI-SearchBot
+User-agent: Google-Extended
+User-agent: ClaudeBot
+User-agent: anthropic-ai
+User-agent: Applebot-Extended
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+User-agent: YouBot
+User-agent: ByteSpider
+User-agent: FacebookBot
+User-agent: meta-externalagent
+User-agent: Amazonbot
+User-agent: CCBot
+User-agent: cohere-ai
+Allow: /
+
+# --------------------------------------------------
+# Social Media Preview (Link Share)
+# --------------------------------------------------
+User-agent: facebookexternalhit
+User-agent: Twitterbot
+User-agent: LinkedInBot
+User-agent: kakaotalk-scrap
+Allow: /
+
+# --------------------------------------------------
+# Knowledge Assets (Indexing & Learning)
+# --------------------------------------------------
+Sitemap: https://shop.kt.com/sitemap.xml
+

@@ -1,0 +1,74 @@
+#google
+User-agent: AdsBot-Google
+User-agent: AdsBot-Google-Mobile
+Allow: /
+Allow: /shop/main  
+Allow: /buyproc/
+Allow: /wireless/
+Allow: /wire/main
+Allow: /dsds/
+Allow: /exhibition/
+Allow: /notice
+Allow: /foreigner-counseling/
+Allow: /nf/
+Disallow: /false/
+Disallow: /login/
+Disallow: /my/
+Allow: /accessory/
+Disallow: /order/
+Disallow: /api/
+Disallow: /scrn-module/
+Disallow: /scrn-module-rest/
+Disallow: /Dantong-SKT.html
+
+User-agent: Googlebot
+User-agent: Googlebot-Mobile
+Allow: /
+Allow: /shop/main  
+Allow: /buyproc/
+Allow: /wireless/
+Allow: /wire/main
+Allow: /dsds/
+Allow: /exhibition/
+Allow: /notice
+Allow: /foreigner-counseling/
+Allow: /nf/
+Disallow: /false/
+Disallow: /login/
+Disallow: /my/
+Allow: /accessory/
+Disallow: /order/
+Disallow: /api/
+Disallow: /scrn-module/
+Disallow: /scrn-module-rest/
+Disallow: /Dantong-SKT.html
+
+#naver
+User-agent: Yeti
+Allow: /
+Allow: /shop/main  
+Allow: /buyproc/
+Allow: /wireless/
+Allow: /wire/main
+Allow: /dsds/
+Allow: /exhibition/
+Allow: /notice
+Allow: /foreigner-counseling/
+Allow: /nf/
+Disallow: /false/
+Disallow: /login/
+Disallow: /my/
+Allow: /accessory/
+Disallow: /order/
+Disallow: /api/
+Disallow: /scrn-module/
+Disallow: /scrn-module-rest/
+Disallow: /Dantong-SKT.html
+
+User-agent: OAI-AdsBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+Sitemap:https://shop.tworld.co.kr/web-sitemap.xml

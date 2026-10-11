@@ -1,0 +1,1 @@
+{"apiMaskIpInfo":"#31","returnCode":"ok","serverTime":"2026.10.11 13:22:40.150","data":{"menuCd":"FAL000","scrnStatInfo":"^www^Shop^모바일기기^공시지원금","recMenuYn":"Y","storeFindYn":"N","tabBarYn":"Y","stsfcSurveyYn":"N","ktalkYn":"Y"},"apiResCode":"","apiTransactionId":"037e21a3-bdec-4a94-9a54-d7648804e023"}

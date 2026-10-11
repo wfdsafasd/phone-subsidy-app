@@ -1,0 +1,1 @@
+{"status":false,"redirectUrl":"","redirectUrl_g":"","redirectUrl_k":"","send_rtb_date":"","msg":"au_id가 존재하지 않습니다."}

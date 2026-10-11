@@ -1,0 +1,2658 @@
+[
+  {
+    "carrier": "SKT",
+    "url": "https://shop.tworld.co.kr/notice",
+    "robotsAllowed": true,
+    "blocked403": 0,
+    "requests": [
+      {
+        "url": "https://shop.tworld.co.kr/notice",
+        "method": "GET",
+        "resourceType": "document",
+        "status": 200,
+        "contentType": "text/html;charset=UTF-8",
+        "postData": ""
+      },
+      {
+        "url": "https://dev.visualwebsiteoptimizer.com/j.php?a=958710&u=https%3A%2F%2Fshop.tworld.co.kr%2Fnotice&vn=2.1&x=true",
+        "method": "GET",
+        "resourceType": "xhr",
+        "status": 200,
+        "contentType": "application/javascript; charset=UTF-8",
+        "postData": "",
+        "bodyLength": 14302,
+        "keywordHit": false,
+        "botChallenge": false,
+        "bodyFile": "resp_001.txt"
+      },
+      {
+        "url": "https://try.abtasty.com/ac1f939bc7c66df1fb38887a69dc441f.js",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript; charset=utf-8",
+        "postData": ""
+      },
+      {
+        "url": "https://t1.daumcdn.net/adfit/static/kp.js",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "text/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://shop.tworld.co.kr/public/js/nonwireless/jsrender-0.9.90.min.js?202610080129",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://shop.tworld.co.kr/public/js/notice/notice.js?202610080129",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://shop.tworld.co.kr/public/js/jquery.validate.js?202610080129",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://shop.tworld.co.kr/public/js/buyproc/common.js?202610080129",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://shop.tworld.co.kr/public/js/notice/moment-2.30.1.min.js?202610080129",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://shop.tworld.co.kr/public/js/common/trgt-supm-evt.js?202610080129",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://shop.tworld.co.kr/public/js/buyproc/lodash.min.js?202610080129",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://shop.tworld.co.kr/public/js/netfunnel/netfunnel-debug.js",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://xtr.tos.sktelecom.com/js/xtractor_script.js",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://cdnw.shop.tworld.co.kr/public/js/jquery.min.js?202610080129",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://cdnw.shop.tworld.co.kr/public/js/placeholders.js?202610080129",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://cdnw.shop.tworld.co.kr/public/js/swiper.min.js?202610080129",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://cdnw.shop.tworld.co.kr/public/js/select2.js?202610080129",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://xtr.tos.sktelecom.com/xtractor/userScript/UserInfoGet?&url=shop.tworld.co.kr%2Fnotice&req_type=xml&ua=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F138.0.0.0%20Safari%2F537.36%20PhoneSubsidyCompareBot%2F0.1%20(%2Bmailto%3A)&dc=_vwo_uuid_v2%3DD7F59F712BED3F2FF8F8AE126D8C09ED6%7C668ede699aaecc729635003100cb29d5%3B%20XTVID%3DA261011042211176515313%3B%20XTSID%3DA261011042211177413693%3B%20XTRID%3D%3B%20XTREF%3D%3B%20XTCATE%3D%3B%20XTKW%3D%3B%20xloc%3D1400X1000&xtuid=&httpstatus=200&method=GET&logApiVersion=2.7.2&gvhost=",
+        "method": "GET",
+        "resourceType": "fetch",
+        "status": 200,
+        "contentType": "application/xml;charset=utf-8",
+        "postData": "",
+        "bodyLength": 17,
+        "keywordHit": true,
+        "botChallenge": false,
+        "bodyFile": "resp_017.txt"
+      },
+      {
+        "url": "https://cdnw.shop.tworld.co.kr/pimg/menu/gnb/pc.js?202610111322",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://shop.tworld.co.kr/public/js/common/gnb_twd.js?202610080129",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://shop.tworld.co.kr/nf/index_nf_yp_subscribe.html",
+        "method": "GET",
+        "resourceType": "document",
+        "status": 200,
+        "contentType": "text/html;charset=UTF-8",
+        "postData": ""
+      },
+      {
+        "url": "https://shop.tworld.co.kr/public/js/netfunnel/netfunnel-debug.js",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://cdnw.shop.tworld.co.kr/public/js/jquery.min.js?202610080129",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 304,
+        "contentType": "",
+        "postData": ""
+      },
+      {
+        "url": "https://netfunnel4.tworlddirect.com/ts.wseq?opcode=5101&nfid=0&prefix=NetFunnel.gRtype=5101;&sid=service_1&aid=act_tds_subscribe&js=yes&1791692531933",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://shop.tworld.co.kr/notice",
+        "method": "GET",
+        "resourceType": "document",
+        "status": 200,
+        "contentType": "text/html;charset=UTF-8",
+        "postData": ""
+      },
+      {
+        "url": "https://shop.tworld.co.kr/public/js/jquery.validate.js?202610080129",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://shop.tworld.co.kr/public/js/common/trgt-supm-evt.js?202610080129",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://xtr.tos.sktelecom.com/js/xtractor_script.js",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://t1.daumcdn.net/adfit/static/kp.js",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "text/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://shop.tworld.co.kr/public/js/nonwireless/jsrender-0.9.90.min.js?202610080129",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://shop.tworld.co.kr/public/js/notice/notice.js?202610080129",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://shop.tworld.co.kr/public/js/notice/moment-2.30.1.min.js?202610080129",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://shop.tworld.co.kr/public/js/buyproc/lodash.min.js?202610080129",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://shop.tworld.co.kr/public/js/buyproc/common.js?202610080129",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://shop.tworld.co.kr/public/js/netfunnel/netfunnel-debug.js",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://try.abtasty.com/ac1f939bc7c66df1fb38887a69dc441f.js",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 304,
+        "contentType": "",
+        "postData": ""
+      },
+      {
+        "url": "https://dev.visualwebsiteoptimizer.com/j.php?a=958710&u=https%3A%2F%2Fshop.tworld.co.kr%2Fnotice&vn=2.1&x=true",
+        "method": "GET",
+        "resourceType": "xhr",
+        "status": 200,
+        "contentType": "application/javascript; charset=UTF-8",
+        "postData": "",
+        "bodyLength": 14302,
+        "keywordHit": false,
+        "botChallenge": false,
+        "bodyFile": "resp_036.txt"
+      },
+      {
+        "url": "https://cdnw.shop.tworld.co.kr/public/js/jquery.min.js?202610080129",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 304,
+        "contentType": "",
+        "postData": ""
+      },
+      {
+        "url": "https://cdnw.shop.tworld.co.kr/public/js/select2.js?202610080129",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 304,
+        "contentType": "",
+        "postData": ""
+      },
+      {
+        "url": "https://cdnw.shop.tworld.co.kr/public/js/swiper.min.js?202610080129",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 304,
+        "contentType": "",
+        "postData": ""
+      },
+      {
+        "url": "https://cdnw.shop.tworld.co.kr/public/js/placeholders.js?202610080129",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 304,
+        "contentType": "",
+        "postData": ""
+      },
+      {
+        "url": "https://shop.tworld.co.kr/public/js/common/gnb_twd.js?202610080129",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://cdnw.shop.tworld.co.kr/pimg/menu/gnb/pc.js?202610111322",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://shop.tworld.co.kr/public/js/common/trgt-supm-offer.js?202610080129",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://www.google.com/recaptcha/api.js?&render=6Lcn7aIdAAAAAAJr0BRie0l5KvzFOm14QW5zTadd",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "text/javascript; charset=utf-8",
+        "postData": ""
+      },
+      {
+        "url": "https://connect.facebook.net/en_US/fbevents.js",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/x-javascript; charset=utf-8",
+        "postData": ""
+      },
+      {
+        "url": "https://shop.tworld.co.kr/public/js/common/search.js?202610080129",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://shop.tworld.co.kr/public/js/poc/gnb/inc/cmn/gnb_cmn.js?202610080129",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://shop.tworld.co.kr/public/js/captcha/captcha.js",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://shop.tworld.co.kr/public/js/common/jquery.cookie.search.js?202610080129",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://shop.tworld.co.kr/public/js/common/gnb_search.js?202610080129",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://xtr.tos.sktelecom.com/xtractor/userScript/UserInfoGet?&url=shop.tworld.co.kr%2Fnotice&ref=shop.tworld.co.kr%252Fnf%252Findex_nf_yp_subscribe.html&req_type=xml&ua=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F138.0.0.0%20Safari%2F537.36%20PhoneSubsidyCompareBot%2F0.1%20(%2Bmailto%3A)&dc=_vwo_uuid_v2%3DD7F59F712BED3F2FF8F8AE126D8C09ED6%7C668ede699aaecc729635003100cb29d5%3B%20XTVID%3DA261011042211176515313%3B%20XTSID%3DA261011042211177413693%3B%20XTRID%3D%3B%20XTREF%3D%3B%20XTCATE%3D%3B%20XTKW%3D%3B%20xloc%3D1400X1000%3B%20NetFunnel_ID%3D5002%253A200%253Akey%253DD6A82CD19D2E6AD847B352B02A0B24059E48AC7960EDE23C7742DB8617C3DAC98F926718CDAEEBE1B7C18E780386CC687CFAC2BB3E8F3793E2FE11ABB1CE7D57F2C035CCE90B9AEAF9DC03103F571A1ADF68C93C774D1A495A1D192BAAF0A8D0D43DCCDC7D4F0A52760A956FE20DA81D62652C302C352C312C302C30%2526nwait%253D0%2526nnext%253D0%2526tps%253D0.000000%2526ttl%253D0%2526ip%253Dnetfunnel4.tworlddirect.com%2526port%253D443%2526sticky%253Dnf1&xtuid=&httpstatus=200&method=GET&logApiVersion=2.7.2&gvhost=",
+        "method": "GET",
+        "resourceType": "fetch",
+        "status": 200,
+        "contentType": "application/xml;charset=utf-8",
+        "postData": "",
+        "bodyLength": 17,
+        "keywordHit": true,
+        "botChallenge": false,
+        "bodyFile": "resp_051.txt"
+      },
+      {
+        "url": "https://netfunnel4.tworlddirect.com/ts.wseq?opcode=5004&key=D6A82CD19D2E6AD847B352B02A0B24059E48AC7960EDE23C7742DB8617C3DAC98F926718CDAEEBE1B7C18E780386CC687CFAC2BB3E8F3793E2FE11ABB1CE7D57F2C035CCE90B9AEAF9DC03103F571A1ADF68C93C774D1A495A1D192BAAF0A8D0D43DCCDC7D4F0A52760A956FE20DA81D62652C302C352C312C302C30&nfid=0&prefix=NetFunnel.gRtype=5004;&js=yes&1791692533630",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://www.googletagmanager.com/gtm.js?id=GTM-TWDR9N",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript; charset=UTF-8",
+        "postData": ""
+      },
+      {
+        "url": "https://www.googletagmanager.com/gtm.js?id=GTM-TLK5J5Q",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript; charset=UTF-8",
+        "postData": ""
+      },
+      {
+        "url": "https://www.googletagmanager.com/gtm.js?id=GTM-PZN5B9DM",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript; charset=UTF-8",
+        "postData": ""
+      },
+      {
+        "url": "https://xtr.tos.sktelecom.com/xtractor/userScript/UserInfoGet?&url=shop.tworld.co.kr%2FeventDummy%3FAREA%3Dpc_price%26EVENT_ID%3Dpc_price%26TYPE%3Dexp&ref=shop.tworld.co.kr/nf/index_nf_yp_subscribe.html&req_type=xml&ua=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F138.0.0.0%20Safari%2F537.36%20PhoneSubsidyCompareBot%2F0.1%20(%2Bmailto%3A)&dc=_vwo_uuid_v2%3DD7F59F712BED3F2FF8F8AE126D8C09ED6%7C668ede699aaecc729635003100cb29d5%3B%20XTVID%3DA261011042211176515313%3B%20XTSID%3DA261011042211177413693%3B%20XTRID%3D%3B%20XTREF%3D%3B%20XTCATE%3D%3B%20XTKW%3D%3B%20xloc%3D1400X1000%3B%20NetFunnel_ID%3D5002%253A200%253Akey%253DD6A82CD19D2E6AD847B352B02A0B24059E48AC7960EDE23C7742DB8617C3DAC98F926718CDAEEBE1B7C18E780386CC687CFAC2BB3E8F3793E2FE11ABB1CE7D57F2C035CCE90B9AEAF9DC03103F571A1ADF68C93C774D1A495A1D192BAAF0A8D0D43DCCDC7D4F0A52760A956FE20DA81D62652C302C352C312C302C30%2526nwait%253D0%2526nnext%253D0%2526tps%253D0.000000%2526ttl%253D0%2526ip%253Dnetfunnel4.tworlddirect.com%2526port%253D443%2526sticky%253Dnf1&xtuid=&httpstatus=200&method=GET&gvhost=",
+        "method": "GET",
+        "resourceType": "fetch",
+        "status": 200,
+        "contentType": "application/xml;charset=utf-8",
+        "postData": "",
+        "bodyLength": 17,
+        "keywordHit": true,
+        "botChallenge": false,
+        "bodyFile": "resp_056.txt"
+      },
+      {
+        "url": "https://static.criteo.net/js/ld/ld.js",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript; charset=utf-8",
+        "postData": ""
+      },
+      {
+        "url": "https://cdnw.shop.tworld.co.kr/public/js/common_url.js?202610080129",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://t1.daumcdn.net/kas/static/kp.js",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "text/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://connect.facebook.net/signals/config/728474890654824?v=2.9.415&r=stable&domain=shop.tworld.co.kr&hme=a4c28c8787325ac3f8f9eac68364f47df2a8c4266e43177443e5d7f6289c9774&ex_m=117%2C240%2C170%2C27%2C81%2C82%2C161%2C77%2C76%2C11%2C180%2C101%2C20%2C152%2C140%2C46%2C84%2C89%2C148%2C175%2C182%2C8%2C4%2C5%2C7%2C6%2C3%2C102%2C114%2C32%2C17%2C31%2C18%2C33%2C34%2C35%2C37%2C55%2C162%2C86%2C125%2C22%2C24%2C51%2C47%2C49%2C48%2C94%2C103%2C107%2C123%2C159%2C163%2C53%2C124%2C29%2C26%2C132%2C78%2C43%2C165%2C164%2C166%2C156%2C154%2C30%2C42%2C66%2C122%2C177%2C79%2C21%2C127%2C92%2C75%2C23%2C96%2C97%2C129%2C95%2C150%2C149%2C153%2C108%2C176%2C179%2C41%2C56%2C126%2C54%2C160%2C71%2C184%2C109%2C183%2C209%2C254%2C83%2C273%2C272%2C271%2C14%2C25%2C28%2C40%2C62%2C116%2C68%2C10%2C72%2C110%2C111%2C112%2C118%2C143%2C38%2C36%2C145%2C146%2C147%2C142%2C141%2C171%2C85%2C174%2C172%2C173%2C57%2C67%2C136%2C19%2C178%2C52%2C322%2C323%2C324%2C321%2C337%2C359%2C247%2C236%2C69%2C237%2C235%2C362%2C353%2C59%2C248%2C120%2C144%2C91%2C134%2C61%2C133%2C139%2C138%2C65%2C73%2C167%2C87%2C88%2C128%2C44%2C39%2C60%2C63%2C113%2C181%2C1%2C137%2C16%2C135%2C12%2C2%2C64%2C104%2C15%2C74%2C70%2C131%2C100%2C99%2C186%2C187%2C105%2C106%2C9%2C115%2C185%2C58%2C157%2C98%2C90%2C80%2C130%2C119%2C168%2C50%2C158%2C0%2C93%2C151%2C155%2C169%2C45%2C121%2C13%2C188",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/x-javascript; charset=utf-8",
+        "postData": ""
+      },
+      {
+        "url": "https://static.ads-twitter.com/uwt.js",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript; charset=utf-8",
+        "postData": ""
+      },
+      {
+        "url": "https://bzrcdn.openai.com/sdk/oaiq.min.js",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "text/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://karrot-pixel.business.daangn.com/0.1/karrot-pixel.umd.js",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "text/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://cdn-aitg.widerplanet.com/js/wp_astg_4.0.js",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://cdnw.shop.tworld.co.kr/public/js/godo2023.ui.js?202610080129",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://www.google.com/ccm/collect?rcb=13&frm=0&apvc=1&ae=g&auid=404461752.1791692534&dt=%EC%9A%94%EA%B8%88%20%ED%95%A0%EC%9D%B8%C2%B7%ED%9C%B4%EB%8C%80%ED%8F%B0%20%EC%A7%80%EC%9B%90%EA%B8%88%20%EC%A1%B0%ED%9A%8C%20-%20%EA%B3%B5%ED%86%B5%EC%A7%80%EC%9B%90%EA%B8%88%C2%B7%EC%B6%94%EA%B0%80%EC%A7%80%EC%9B%90%EA%B8%88%20%EB%B9%84%EA%B5%90%20%7C%20&en=page_view&dl=https%3A%2F%2Fshop.tworld.co.kr%2Fnotice&dr=https%3A%2F%2Fshop.tworld.co.kr%2Fnf%2Findex_nf_yp_subscribe.html&scrsrc=www.googletagmanager.com&rnd=763797210.1791692534&navt=n&npa=0&ep.ads_data_redaction=0&gtm=45He6a72v77524233za200zd77524233xeaxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616986~115938465~115938468~118897920~118897930~120385423~120469145~120469153~121046263~121046271~121049589~121246026~121246034&tft=1791692534058&tfd=1284&fmt=8",
+        "method": "POST",
+        "resourceType": "fetch",
+        "status": 200,
+        "contentType": "",
+        "postData": "",
+        "bodyLength": 17,
+        "keywordHit": false,
+        "botChallenge": false,
+        "bodyFile": "resp_066.txt"
+      },
+      {
+        "url": "https://ad.doubleclick.net/ccm/s/collect?auid=404461752.1791692534&gtm=45He6a72v77524233za200zd77524233xeaxf1&fmt=8",
+        "method": "POST",
+        "resourceType": "fetch",
+        "status": 204,
+        "contentType": "",
+        "postData": "",
+        "bodyLength": 17,
+        "keywordHit": false,
+        "botChallenge": false,
+        "bodyFile": "resp_067.txt"
+      },
+      {
+        "url": "https://dynamic.criteo.com/js/ld/ld.js?a=127433",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript; charset=utf-8",
+        "postData": ""
+      },
+      {
+        "url": "https://www.googletagmanager.com/gtag/js?id=AW-783076402&cx=c&gtm=4e6a72",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript; charset=UTF-8",
+        "postData": ""
+      },
+      {
+        "url": "https://www.googletagmanager.com/gtag/js?id=AW-622980307&cx=c&gtm=4e6a72",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript; charset=UTF-8",
+        "postData": ""
+      },
+      {
+        "url": "https://www.googletagmanager.com/gtag/js?id=AW-996767803&cx=c&gtm=4e6a72",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript; charset=UTF-8",
+        "postData": ""
+      },
+      {
+        "url": "https://www.googletagmanager.com/gtag/js?id=AW-737948529&cx=c&gtm=4e6a72",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript; charset=UTF-8",
+        "postData": ""
+      },
+      {
+        "url": "https://www.googletagmanager.com/gtag/js?id=AW-827333385&cx=c&gtm=4e6a72",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript; charset=UTF-8",
+        "postData": ""
+      },
+      {
+        "url": "https://static.toss.im/lex/v1.js",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript; charset=utf-8",
+        "postData": ""
+      },
+      {
+        "url": "https://www.gstatic.com/recaptcha/releases/nY0xPItgwtlvjEjk2TqdwOQz/recaptcha__ko.js",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "text/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://xtr.tos.sktelecom.com/server_chk.jsp",
+        "method": "GET",
+        "resourceType": "xhr",
+        "status": 200,
+        "contentType": "text/html;charset=EUC-KR",
+        "postData": "",
+        "bodyLength": 60,
+        "keywordHit": false,
+        "botChallenge": false,
+        "bodyFile": "resp_076.txt"
+      },
+      {
+        "url": "https://www.googletagmanager.com/gtag/js?id=G-ZFVS6J60C3&cx=c&gtm=4e6a72",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript; charset=UTF-8",
+        "postData": ""
+      },
+      {
+        "url": "https://wcs.naver.net/wcslog.js",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://connect.facebook.net/signals/config/2861648447537422?v=2.9.415&r=stable&domain=shop.tworld.co.kr&hme=a4c28c8787325ac3f8f9eac68364f47df2a8c4266e43177443e5d7f6289c9774&ex_m=117%2C240%2C170%2C27%2C81%2C82%2C161%2C77%2C76%2C11%2C180%2C101%2C20%2C152%2C140%2C46%2C84%2C89%2C148%2C175%2C182%2C8%2C4%2C5%2C7%2C6%2C3%2C102%2C114%2C32%2C17%2C31%2C18%2C33%2C34%2C35%2C37%2C55%2C162%2C86%2C125%2C22%2C24%2C51%2C47%2C49%2C48%2C94%2C103%2C107%2C123%2C159%2C163%2C53%2C124%2C29%2C26%2C132%2C78%2C43%2C165%2C164%2C166%2C156%2C154%2C30%2C42%2C66%2C122%2C177%2C79%2C21%2C127%2C92%2C75%2C23%2C96%2C97%2C129%2C95%2C150%2C149%2C153%2C108%2C176%2C179%2C41%2C56%2C126%2C54%2C160%2C71%2C184%2C109%2C183%2C209%2C254%2C83%2C273%2C272%2C271%2C14%2C25%2C28%2C40%2C62%2C116%2C68%2C10%2C72%2C110%2C111%2C112%2C118%2C143%2C38%2C36%2C145%2C146%2C147%2C142%2C141%2C171%2C85%2C174%2C172%2C173%2C57%2C67%2C136%2C19%2C178%2C52%2C322%2C323%2C324%2C321%2C337%2C359%2C247%2C236%2C69%2C237%2C235%2C362%2C353%2C59%2C248%2C120%2C144%2C91%2C134%2C61%2C133%2C139%2C138%2C65%2C73%2C167%2C87%2C88%2C128%2C44%2C39%2C60%2C63%2C113%2C181%2C1%2C137%2C16%2C135%2C12%2C2%2C64%2C104%2C15%2C74%2C70%2C131%2C100%2C99%2C186%2C187%2C105%2C106%2C9%2C115%2C185%2C58%2C157%2C98%2C90%2C80%2C130%2C119%2C168%2C50%2C158%2C0%2C93%2C151%2C155%2C169%2C45%2C121%2C13%2C188%2C267%2C265%2C260%2C262%2C263%2C264%2C261%2C259%2C246%2C266%2C268%2C258%2C216%2C217%2C269%2C270%2C257%2C256%2C351%2C352%2C199%2C201%2C202%2C206%2C205%2C207%2C203%2C204%2C200%2C198%2C197%2C275%2C229%2C224%2C227%2C228%2C222%2C387%2C303%2C307%2C310%2C311%2C312%2C308%2C313%2C306%2C301%2C315%2C316%2C305%2C314%2C318%2C309%2C304%2C317%2C319%2C302%2C239%2C300%2C225%2C226%2C250%2C223%2C221%2C245%2C277%2C241%2C214%2C215%2C211%2C212%2C213%2C210%2C208%2C219%2C220%2C218%2C325%2C380%2C345%2C346%2C348%2C349%2C347%2C344%2C343%2C230%2C280%2C287%2C288%2C281%2C283%2C286%2C284%2C285%2C282%2C279%2C298%2C292%2C295%2C291%2C299%2C296%2C290%2C294%2C297%2C293%2C289%2C339%2C356",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/x-javascript; charset=utf-8",
+        "postData": ""
+      },
+      {
+        "url": "https://gum.criteo.com/syncframe?topUrl=shop.tworld.co.kr&origin=onetag&ceid=c343fd90-5e73-42c1-8ce4-f67ca64edaf5",
+        "method": "GET",
+        "resourceType": "document",
+        "status": 200,
+        "contentType": "text/html; charset=utf-8",
+        "postData": ""
+      },
+      {
+        "url": "https://www.google.com/ccm/collect?rcb=3&frm=0&apvc=0&auid=404461752.1791692534&dt=%EC%9A%94%EA%B8%88%20%ED%95%A0%EC%9D%B8%C2%B7%ED%9C%B4%EB%8C%80%ED%8F%B0%20%EC%A7%80%EC%9B%90%EA%B8%88%20%EC%A1%B0%ED%9A%8C%20-%20%EA%B3%B5%ED%86%B5%EC%A7%80%EC%9B%90%EA%B8%88%C2%B7%EC%B6%94%EA%B0%80%EC%A7%80%EC%9B%90%EA%B8%88%20%EB%B9%84%EA%B5%90%20%7C%20&tid=AW-783076402&en=page_view&dl=https%3A%2F%2Fshop.tworld.co.kr%2Fnotice&dr=https%3A%2F%2Fshop.tworld.co.kr%2Fnf%2Findex_nf_yp_subscribe.html&scrsrc=www.googletagmanager.com&rnd=763797210.1791692534&navt=n&npa=0&gtm=45be6a72v9255532853za20ozb77524233zd77524233xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616986~115938465~115938468~118012007~118897920~118897930~120213116~120385423~120412527~120469145~120469153~121046263~121046271~121246026~121246034~121284208&tft=1791692534518&tfd=1744&tids=AW-783076402&fmt=8",
+        "method": "POST",
+        "resourceType": "fetch",
+        "status": 200,
+        "contentType": "",
+        "postData": "",
+        "bodyLength": 17,
+        "keywordHit": false,
+        "botChallenge": false,
+        "bodyFile": "resp_081.txt"
+      },
+      {
+        "url": "https://www.google.com/rmkt/collect/783076402/?random=1791692534463&cv=11&fst=1791692534463&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a72v9255532853za20ozb77524233zd77524233xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616986~115938465~115938468~118012007~118897920~118897930~120213116~120385423~120412527~120469145~120469153~121046263~121046271~121246026~121246034~121284208&u_w=1400&u_h=1000&url=https%3A%2F%2Fshop.tworld.co.kr%2Fnotice&ref=https%3A%2F%2Fshop.tworld.co.kr%2Fnf%2Findex_nf_yp_subscribe.html&rcb=3&frm=0&tiba=%EC%9A%94%EA%B8%88%20%ED%95%A0%EC%9D%B8%C2%B7%ED%9C%B4%EB%8C%80%ED%8F%B0%20%EC%A7%80%EC%9B%90%EA%B8%88%20%EC%A1%B0%ED%9A%8C%20-%20%EA%B3%B5%ED%86%B5%EC%A7%80%EC%9B%90%EA%B8%88%C2%B7%EC%B6%94%EA%B0%80%EC%A7%80%EC%9B%90%EA%B8%88%20%EB%B9%84%EA%B5%90%20%7C%20&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=404461752.1791692534&uaa=x86&uab=64&uafvl=Not%253BA%253DBrand%3B99.0.0.0%7CHeadlessChrome%3B139.0.7258.5%7CChromium%3B139.0.7258.5&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=68&gcp=5",
+        "method": "POST",
+        "resourceType": "fetch",
+        "status": 200,
+        "contentType": "",
+        "postData": "",
+        "bodyLength": 17,
+        "keywordHit": false,
+        "botChallenge": false,
+        "bodyFile": "resp_082.txt"
+      },
+      {
+        "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/783076402/?random=1791692534463&cv=11&fst=1791692534463&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a72v9255532853za20ozb77524233zd77524233xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616986~115938465~115938468~118012007~118897920~118897930~120213116~120385423~120412527~120469145~120469153~121046263~121046271~121246026~121246034~121284208&u_w=1400&u_h=1000&url=https%3A%2F%2Fshop.tworld.co.kr%2Fnotice&ref=https%3A%2F%2Fshop.tworld.co.kr%2Fnf%2Findex_nf_yp_subscribe.html&rcb=3&frm=0&tiba=%EC%9A%94%EA%B8%88%20%ED%95%A0%EC%9D%B8%C2%B7%ED%9C%B4%EB%8C%80%ED%8F%B0%20%EC%A7%80%EC%9B%90%EA%B8%88%20%EC%A1%B0%ED%9A%8C%20-%20%EA%B3%B5%ED%86%B5%EC%A7%80%EC%9B%90%EA%B8%88%C2%B7%EC%B6%94%EA%B0%80%EC%A7%80%EC%9B%90%EA%B8%88%20%EB%B9%84%EA%B5%90%20%7C%20&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=404461752.1791692534&uaa=x86&uab=64&uafvl=Not%253BA%253DBrand%3B99.0.0.0%7CHeadlessChrome%3B139.0.7258.5%7CChromium%3B139.0.7258.5&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "text/javascript; charset=UTF-8",
+        "postData": ""
+      },
+      {
+        "url": "https://bzrcdn.openai.com/pixel-config/v1/24sXm42tJm5uu1cXEmgnnr.json",
+        "method": "GET",
+        "resourceType": "fetch",
+        "status": 200,
+        "contentType": "application/json",
+        "postData": "",
+        "bodyLength": 44,
+        "keywordHit": false,
+        "botChallenge": false,
+        "bodyFile": "resp_084.txt"
+      },
+      {
+        "url": "https://rum.beusable.net/script/b190502e140254u234/1e75c800b6",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript; charset=utf-8",
+        "postData": ""
+      },
+      {
+        "url": "https://pixelfnt-us.dsp-api.moloco.com/v1/cm/init?source=MOLOCO_PIXEL?mlc_cm",
+        "method": "GET",
+        "resourceType": "document",
+        "status": 200,
+        "contentType": "text/html; charset=utf-8",
+        "postData": ""
+      },
+      {
+        "url": "https://gum.criteo.com/sid/json?origin=onetag&domain=tworld.co.kr&sn=ChromeSyncframe&so=undefined&topUrl=shop.tworld.co.kr&ceid=c343fd90-5e73-42c1-8ce4-f67ca64edaf5",
+        "method": "GET",
+        "resourceType": "fetch",
+        "status": 200,
+        "contentType": "application/json; charset=utf-8",
+        "postData": "",
+        "bodyLength": 433,
+        "keywordHit": false,
+        "botChallenge": false,
+        "bodyFile": "resp_087.txt"
+      },
+      {
+        "url": "https://7s-d309b5b93ece4e188e0aa4e9c7906f0f.ecs.us-west-1.on.aws/events?cee=no",
+        "method": "POST",
+        "resourceType": "fetch",
+        "status": 200,
+        "contentType": "application/json",
+        "postData": "{\"event_name\":\"PageView\",\"smart_setup\":{\"auto_web_details_data\":\"{\\\"availability\\\":[{\\\"rid\\\":\\\"1829502471744193\\\",\\\"v\\\":[\\\"in stock\\\"]}],\\\"price\\\":[{\\\"rid\\\":\\\"1577917773967048\\\",\\\"v\\\":[\\\"지원금\\\"]}],\\\"page_description\\\":[{\\\"rid\\\":\\\"1076391981696169\\\",\\\"v\\\":[\\\"가입 유형\\\\n기기변경\\\\n번호이동\\\\n신규가입\\\"]}],\\\"variant_presence\\\":[{\\\"rid\\\":\\\"1799837954697607\\\",\\\"v\\\":[\\\"no_variant\\\"]}],\\\"free_shipping\\\":[{\\\"rid\\\":\\\"1772536060452103\\\",\\\"v\\\":[\\\"false\\\"]}]}\",\"is_auto_web_details\":true,\"auto_web_details_filtered_fields\":\"{\\\"currency\\\":{\\\"tv\\\":2,\\\"rules\\\":{\\\"1352300576289742\\\":1,\\\"1373487814902320\\\":1}}}\"},\"event_id\":\"ob3_plugin-set_5eef57d8f5e55410d5c2cf0ac95ebd14244f05a33b239e48c8d5da246222d6dd\",\"fb.pixel_id\":\"728474890654824\",\"website_context\":{\"location\":\"https://shop.tworld.co.kr/notice\",\"referrer\":\"https://shop.tworld.co.kr/nf/index_nf_yp_subscribe.html\",\"isInIFrame\":false},\"fb.fbp\":\"fb.2.1791692534359.82715388262717807\",\"event_meta_info\":{\"cs_est\":true}}",
+        "bodyLength": 17,
+        "keywordHit": false,
+        "botChallenge": false,
+        "bodyFile": "resp_088.txt"
+      },
+      {
+        "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/622980307/?random=1791692534649&cv=11&fst=1791692534649&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a72v9196958418za20ozb77524233zd77524233xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121246026~121246034&u_w=1400&u_h=1000&url=https%3A%2F%2Fshop.tworld.co.kr%2Fnotice&ref=https%3A%2F%2Fshop.tworld.co.kr%2Fnf%2Findex_nf_yp_subscribe.html&rcb=4&frm=0&tiba=%EC%9A%94%EA%B8%88%20%ED%95%A0%EC%9D%B8%C2%B7%ED%9C%B4%EB%8C%80%ED%8F%B0%20%EC%A7%80%EC%9B%90%EA%B8%88%20%EC%A1%B0%ED%9A%8C%20-%20%EA%B3%B5%ED%86%B5%EC%A7%80%EC%9B%90%EA%B8%88%C2%B7%EC%B6%94%EA%B0%80%EC%A7%80%EC%9B%90%EA%B8%88%20%EB%B9%84%EA%B5%90%20%7C%20&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=404461752.1791692534&uaa=x86&uab=64&uafvl=Not%253BA%253DBrand%3B99.0.0.0%7CHeadlessChrome%3B139.0.7258.5%7CChromium%3B139.0.7258.5&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "text/javascript; charset=UTF-8",
+        "postData": ""
+      },
+      {
+        "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/880247897/?random=1791692534698&cv=11&fst=1791692534698&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a72v9196958418za20ozb77524233zd77524233xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121246026~121246034&u_w=1400&u_h=1000&url=https%3A%2F%2Fshop.tworld.co.kr%2Fnotice&ref=https%3A%2F%2Fshop.tworld.co.kr%2Fnf%2Findex_nf_yp_subscribe.html&rcb=4&frm=0&tiba=%EC%9A%94%EA%B8%88%20%ED%95%A0%EC%9D%B8%C2%B7%ED%9C%B4%EB%8C%80%ED%8F%B0%20%EC%A7%80%EC%9B%90%EA%B8%88%20%EC%A1%B0%ED%9A%8C%20-%20%EA%B3%B5%ED%86%B5%EC%A7%80%EC%9B%90%EA%B8%88%C2%B7%EC%B6%94%EA%B0%80%EC%A7%80%EC%9B%90%EA%B8%88%20%EB%B9%84%EA%B5%90%20%7C%20&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=404461752.1791692534&uaa=x86&uab=64&uafvl=Not%253BA%253DBrand%3B99.0.0.0%7CHeadlessChrome%3B139.0.7258.5%7CChromium%3B139.0.7258.5&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "text/javascript; charset=UTF-8",
+        "postData": ""
+      },
+      {
+        "url": "https://www.google.com/rmkt/collect/622980307/?random=1791692534649&cv=11&fst=1791692534649&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a72v9196958418za20ozb77524233zd77524233xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121246026~121246034&u_w=1400&u_h=1000&url=https%3A%2F%2Fshop.tworld.co.kr%2Fnotice&ref=https%3A%2F%2Fshop.tworld.co.kr%2Fnf%2Findex_nf_yp_subscribe.html&rcb=4&frm=0&tiba=%EC%9A%94%EA%B8%88%20%ED%95%A0%EC%9D%B8%C2%B7%ED%9C%B4%EB%8C%80%ED%8F%B0%20%EC%A7%80%EC%9B%90%EA%B8%88%20%EC%A1%B0%ED%9A%8C%20-%20%EA%B3%B5%ED%86%B5%EC%A7%80%EC%9B%90%EA%B8%88%C2%B7%EC%B6%94%EA%B0%80%EC%A7%80%EC%9B%90%EA%B8%88%20%EB%B9%84%EA%B5%90%20%7C%20&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=404461752.1791692534&uaa=x86&uab=64&uafvl=Not%253BA%253DBrand%3B99.0.0.0%7CHeadlessChrome%3B139.0.7258.5%7CChromium%3B139.0.7258.5&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=68&gcp=5",
+        "method": "POST",
+        "resourceType": "fetch",
+        "status": 200,
+        "contentType": "",
+        "postData": "",
+        "bodyLength": 17,
+        "keywordHit": false,
+        "botChallenge": false,
+        "bodyFile": "resp_091.txt"
+      },
+      {
+        "url": "https://www.google.com/rmkt/collect/880247897/?random=1791692534698&cv=11&fst=1791692534698&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a72v9196958418za20ozb77524233zd77524233xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121246026~121246034&u_w=1400&u_h=1000&url=https%3A%2F%2Fshop.tworld.co.kr%2Fnotice&ref=https%3A%2F%2Fshop.tworld.co.kr%2Fnf%2Findex_nf_yp_subscribe.html&rcb=4&frm=0&tiba=%EC%9A%94%EA%B8%88%20%ED%95%A0%EC%9D%B8%C2%B7%ED%9C%B4%EB%8C%80%ED%8F%B0%20%EC%A7%80%EC%9B%90%EA%B8%88%20%EC%A1%B0%ED%9A%8C%20-%20%EA%B3%B5%ED%86%B5%EC%A7%80%EC%9B%90%EA%B8%88%C2%B7%EC%B6%94%EA%B0%80%EC%A7%80%EC%9B%90%EA%B8%88%20%EB%B9%84%EA%B5%90%20%7C%20&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=404461752.1791692534&uaa=x86&uab=64&uafvl=Not%253BA%253DBrand%3B99.0.0.0%7CHeadlessChrome%3B139.0.7258.5%7CChromium%3B139.0.7258.5&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=68&gcp=5",
+        "method": "POST",
+        "resourceType": "fetch",
+        "status": 200,
+        "contentType": "",
+        "postData": "",
+        "bodyLength": 17,
+        "keywordHit": false,
+        "botChallenge": false,
+        "bodyFile": "resp_092.txt"
+      },
+      {
+        "url": "https://www.google.com/ccm/collect?rcb=4&frm=0&apvc=0&auid=404461752.1791692534&dt=%EC%9A%94%EA%B8%88%20%ED%95%A0%EC%9D%B8%C2%B7%ED%9C%B4%EB%8C%80%ED%8F%B0%20%EC%A7%80%EC%9B%90%EA%B8%88%20%EC%A1%B0%ED%9A%8C%20-%20%EA%B3%B5%ED%86%B5%EC%A7%80%EC%9B%90%EA%B8%88%C2%B7%EC%B6%94%EA%B0%80%EC%A7%80%EC%9B%90%EA%B8%88%20%EB%B9%84%EA%B5%90%20%7C%20&tid=AW-622980307&en=page_view&dl=https%3A%2F%2Fshop.tworld.co.kr%2Fnotice&dr=https%3A%2F%2Fshop.tworld.co.kr%2Fnf%2Findex_nf_yp_subscribe.html&scrsrc=www.googletagmanager.com&rnd=763797210.1791692534&navt=n&npa=0&gtm=45be6a72v9196958418za20ozb77524233zd77524233xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121246026~121246034&tft=1791692534712&tfd=1939&tids=AW-622980307~AW-880247897&fmt=8",
+        "method": "POST",
+        "resourceType": "fetch",
+        "status": 200,
+        "contentType": "",
+        "postData": "",
+        "bodyLength": 17,
+        "keywordHit": false,
+        "botChallenge": false,
+        "bodyFile": "resp_093.txt"
+      },
+      {
+        "url": "https://cdnw.shop.tworld.co.kr/public/js/tdirect-ui.js?202610080129",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/996767803/?random=1791692534787&cv=11&fst=1791692534787&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a72v9112365071za20ozb77524233zd77524233xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616986~115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121246026~121246034&u_w=1400&u_h=1000&url=https%3A%2F%2Fshop.tworld.co.kr%2Fnotice&ref=https%3A%2F%2Fshop.tworld.co.kr%2Fnf%2Findex_nf_yp_subscribe.html&rcb=3&frm=0&tiba=%EC%9A%94%EA%B8%88%20%ED%95%A0%EC%9D%B8%C2%B7%ED%9C%B4%EB%8C%80%ED%8F%B0%20%EC%A7%80%EC%9B%90%EA%B8%88%20%EC%A1%B0%ED%9A%8C%20-%20%EA%B3%B5%ED%86%B5%EC%A7%80%EC%9B%90%EA%B8%88%C2%B7%EC%B6%94%EA%B0%80%EC%A7%80%EC%9B%90%EA%B8%88%20%EB%B9%84%EA%B5%90%20%7C%20&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=404461752.1791692534&uaa=x86&uab=64&uafvl=Not%253BA%253DBrand%3B99.0.0.0%7CHeadlessChrome%3B139.0.7258.5%7CChromium%3B139.0.7258.5&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "text/javascript; charset=UTF-8",
+        "postData": ""
+      },
+      {
+        "url": "https://ssl.pstatic.net/melona/libs/gfp-nac-module/synchronizer.js",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/737948529/?random=1791692534877&cv=11&fst=1791692534877&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a72v878374199za20ozb77524233zd77524233xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271~121246026~121246034&u_w=1400&u_h=1000&url=https%3A%2F%2Fshop.tworld.co.kr%2Fnotice&ref=https%3A%2F%2Fshop.tworld.co.kr%2Fnf%2Findex_nf_yp_subscribe.html&rcb=14&frm=0&tiba=%EC%9A%94%EA%B8%88%20%ED%95%A0%EC%9D%B8%C2%B7%ED%9C%B4%EB%8C%80%ED%8F%B0%20%EC%A7%80%EC%9B%90%EA%B8%88%20%EC%A1%B0%ED%9A%8C%20-%20%EA%B3%B5%ED%86%B5%EC%A7%80%EC%9B%90%EA%B8%88%C2%B7%EC%B6%94%EA%B0%80%EC%A7%80%EC%9B%90%EA%B8%88%20%EB%B9%84%EA%B5%90%20%7C%20&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=404461752.1791692534&uaa=x86&uab=64&uafvl=Not%253BA%253DBrand%3B99.0.0.0%7CHeadlessChrome%3B139.0.7258.5%7CChromium%3B139.0.7258.5&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "text/javascript; charset=UTF-8",
+        "postData": ""
+      },
+      {
+        "url": "https://www.google.com/ccm/collect?rcb=3&frm=0&apvc=0&auid=404461752.1791692534&dt=%EC%9A%94%EA%B8%88%20%ED%95%A0%EC%9D%B8%C2%B7%ED%9C%B4%EB%8C%80%ED%8F%B0%20%EC%A7%80%EC%9B%90%EA%B8%88%20%EC%A1%B0%ED%9A%8C%20-%20%EA%B3%B5%ED%86%B5%EC%A7%80%EC%9B%90%EA%B8%88%C2%B7%EC%B6%94%EA%B0%80%EC%A7%80%EC%9B%90%EA%B8%88%20%EB%B9%84%EA%B5%90%20%7C%20&tid=AW-996767803&en=page_view&dl=https%3A%2F%2Fshop.tworld.co.kr%2Fnotice&dr=https%3A%2F%2Fshop.tworld.co.kr%2Fnf%2Findex_nf_yp_subscribe.html&scrsrc=www.googletagmanager.com&rnd=763797210.1791692534&navt=n&npa=0&gtm=45be6a72v9112365071za20ozb77524233zd77524233xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616986~115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121246026~121246034&tft=1791692534845&tfd=2072&tids=AW-996767803&fmt=8",
+        "method": "POST",
+        "resourceType": "fetch",
+        "status": 200,
+        "contentType": "",
+        "postData": "",
+        "bodyLength": 17,
+        "keywordHit": false,
+        "botChallenge": false,
+        "bodyFile": "resp_098.txt"
+      },
+      {
+        "url": "https://www.google.com/rmkt/collect/996767803/?random=1791692534787&cv=11&fst=1791692534787&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a72v9112365071za20ozb77524233zd77524233xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616986~115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121246026~121246034&u_w=1400&u_h=1000&url=https%3A%2F%2Fshop.tworld.co.kr%2Fnotice&ref=https%3A%2F%2Fshop.tworld.co.kr%2Fnf%2Findex_nf_yp_subscribe.html&rcb=3&frm=0&tiba=%EC%9A%94%EA%B8%88%20%ED%95%A0%EC%9D%B8%C2%B7%ED%9C%B4%EB%8C%80%ED%8F%B0%20%EC%A7%80%EC%9B%90%EA%B8%88%20%EC%A1%B0%ED%9A%8C%20-%20%EA%B3%B5%ED%86%B5%EC%A7%80%EC%9B%90%EA%B8%88%C2%B7%EC%B6%94%EA%B0%80%EC%A7%80%EC%9B%90%EA%B8%88%20%EB%B9%84%EA%B5%90%20%7C%20&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=404461752.1791692534&uaa=x86&uab=64&uafvl=Not%253BA%253DBrand%3B99.0.0.0%7CHeadlessChrome%3B139.0.7258.5%7CChromium%3B139.0.7258.5&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=68&gcp=5",
+        "method": "POST",
+        "resourceType": "fetch",
+        "status": 200,
+        "contentType": "",
+        "postData": "",
+        "bodyLength": 17,
+        "keywordHit": false,
+        "botChallenge": false,
+        "bodyFile": "resp_099.txt"
+      },
+      {
+        "url": "https://pixelfnt-us.dsp-api.moloco.com/v1/pixels/moloco/events?pixel_id=nxt-squidpxl",
+        "method": "POST",
+        "resourceType": "fetch",
+        "status": 200,
+        "contentType": "application/json",
+        "postData": "{\"mtid\":\"\",\"event_id\":\"6b4dd775-0f85-4038-bbeb-a470979026ab\",\"event_name\":\"Home\",\"client_id\":\".\",\"event_timestamp\":1791692534540,\"event_elapsed_time\":7,\"event_props\":\"{\\\"page_type\\\":\\\"Home\\\",\\\"advertiser_id\\\":\\\"54428\\\"}\",\"source_url\":\"https://shop.tworld.co.kr/notice\",\"referrer_url\":\"https://shop.tworld.co.kr/nf/index_nf_yp_subscribe.html\",\"user\":{},\"device\":{\"user_agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 PhoneSubsidyCompareBot/0.1 (+mailto:)\",\"screen_width\":1400,\"screen_height\":1000,\"language\":\"ko-KR\"},\"sdk\":{\"version\":\"4.0.0\",\"storage_source\":\"c\",\"init_timestamp\":1791692534533,\"bundle_id\":\"wp_astg_4.0\"},\"context_data\":{},\"event_seq_count\":1,\"client_event_seq_count\":1}",
+        "bodyLength": 2,
+        "keywordHit": false,
+        "botChallenge": false,
+        "bodyFile": "resp_100.txt"
+      },
+      {
+        "url": "https://www.google.com/rmkt/collect/737948529/?random=1791692534877&cv=11&fst=1791692534877&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a72v878374199za20ozb77524233zd77524233xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271~121246026~121246034&u_w=1400&u_h=1000&url=https%3A%2F%2Fshop.tworld.co.kr%2Fnotice&ref=https%3A%2F%2Fshop.tworld.co.kr%2Fnf%2Findex_nf_yp_subscribe.html&rcb=14&frm=0&tiba=%EC%9A%94%EA%B8%88%20%ED%95%A0%EC%9D%B8%C2%B7%ED%9C%B4%EB%8C%80%ED%8F%B0%20%EC%A7%80%EC%9B%90%EA%B8%88%20%EC%A1%B0%ED%9A%8C%20-%20%EA%B3%B5%ED%86%B5%EC%A7%80%EC%9B%90%EA%B8%88%C2%B7%EC%B6%94%EA%B0%80%EC%A7%80%EC%9B%90%EA%B8%88%20%EB%B9%84%EA%B5%90%20%7C%20&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=404461752.1791692534&uaa=x86&uab=64&uafvl=Not%253BA%253DBrand%3B99.0.0.0%7CHeadlessChrome%3B139.0.7258.5%7CChromium%3B139.0.7258.5&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=68&gcp=5",
+        "method": "POST",
+        "resourceType": "fetch",
+        "status": 200,
+        "contentType": "",
+        "postData": "",
+        "bodyLength": 17,
+        "keywordHit": false,
+        "botChallenge": false,
+        "bodyFile": "resp_101.txt"
+      },
+      {
+        "url": "https://www.google.com/ccm/collect?rcb=14&frm=0&apvc=0&auid=404461752.1791692534&dt=%EC%9A%94%EA%B8%88%20%ED%95%A0%EC%9D%B8%C2%B7%ED%9C%B4%EB%8C%80%ED%8F%B0%20%EC%A7%80%EC%9B%90%EA%B8%88%20%EC%A1%B0%ED%9A%8C%20-%20%EA%B3%B5%ED%86%B5%EC%A7%80%EC%9B%90%EA%B8%88%C2%B7%EC%B6%94%EA%B0%80%EC%A7%80%EC%9B%90%EA%B8%88%20%EB%B9%84%EA%B5%90%20%7C%20&tid=AW-737948529&en=page_view&dl=https%3A%2F%2Fshop.tworld.co.kr%2Fnotice&dr=https%3A%2F%2Fshop.tworld.co.kr%2Fnf%2Findex_nf_yp_subscribe.html&scrsrc=www.googletagmanager.com&rnd=763797210.1791692534&navt=n&npa=0&gtm=45be6a72v878374199za20ozb77524233zd77524233xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271~121246026~121246034&tft=1791692534961&tfd=2188&tids=AW-737948529&fmt=8",
+        "method": "POST",
+        "resourceType": "fetch",
+        "status": 200,
+        "contentType": "",
+        "postData": "",
+        "bodyLength": 17,
+        "keywordHit": false,
+        "botChallenge": false,
+        "bodyFile": "resp_102.txt"
+      },
+      {
+        "url": "https://www.googleadservices.com/pagead/conversion/737948529/?random=1791692534952&cv=11&fst=1791692534952&fmt=7&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be6a72v878374199z877524233za20gzb77524233zd77524233xeaxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271~121246026~121246034&u_w=1400&u_h=1000&url=https%3A%2F%2Fshop.tworld.co.kr%2Fnotice&ref=https%3A%2F%2Fshop.tworld.co.kr%2Fnf%2Findex_nf_yp_subscribe.html&rcb=14&label=ZRyYCNiI4fEBEPHm8N8C&capi=1&frm=0&tiba=%EC%9A%94%EA%B8%88%20%ED%95%A0%EC%9D%B8%C2%B7%ED%9C%B4%EB%8C%80%ED%8F%B0%20%EC%A7%80%EC%9B%90%EA%B8%88%20%EC%A1%B0%ED%9A%8C%20-%20%EA%B3%B5%ED%86%B5%EC%A7%80%EC%9B%90%EA%B8%88%C2%B7%EC%B6%94%EA%B0%80%EC%A7%80%EC%9B%90%EA%B8%88%20%EB%B9%84%EA%B5%90%20%7C%20&bttype=purchase&value=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=404461752.1791692534&uaa=x86&uab=64&uafvl=Not%253BA%253DBrand%3B99.0.0.0%7CHeadlessChrome%3B139.0.7258.5%7CChromium%3B139.0.7258.5&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&ec_m=body%3E.wrap%3Anth-child(16)%3E.footer%3Anth-child(38)%3E.l-*SPAN%3Atrue%3A25%3Afalse*1&ec_sel=body%3E.wrap%3Anth-child(16)%3E.footer%3Anth-child(38)%3E.l-&ec_meta=SPAN%3Atrue%3A25%3Afalse&ec_lat=0&ec_s=1&ec_mode=a&oid=GG_2615633.1791692535&oidsrc=3&ecsid2=1120818059.1791692535&_tu=CBA&gcl_ctr=1~0~0~0&gap.last_random=0&gap.last_label=0&category=acrcp_v1_512&em=tv.1~em.kcAWPRuvZtZdAkVfGlS5h9jMygNjJ8lO9iNta3jV-xA&emd=tvd.1~i1.fem.ma.r25.n25.lSPAN.s!b64!Ym9keT4ud3JhcDpudGgtY2hpbGQoMTYpPi5mb290ZXI6bnRoLWNoaWxkKDM4KT4ubC0&ept=5",
+        "method": "GET",
+        "resourceType": "fetch",
+        "status": 200,
+        "contentType": "application/json; charset=UTF-8",
+        "postData": "",
+        "bodyLength": 4778,
+        "keywordHit": false,
+        "botChallenge": false,
+        "bodyFile": "resp_103.txt"
+      },
+      {
+        "url": "https://dynamic.criteo.com/js/ld/ld.js?a=58841",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript; charset=utf-8",
+        "postData": ""
+      },
+      {
+        "url": "https://dynamic.criteo.com/js/ld/ld.js?a=100723",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript; charset=utf-8",
+        "postData": ""
+      },
+      {
+        "url": "https://shop.tworld.co.kr/api/cart/getCartCnt",
+        "method": "GET",
+        "resourceType": "xhr",
+        "status": 200,
+        "contentType": "application/json;charset=UTF-8",
+        "postData": "",
+        "bodyLength": 217,
+        "keywordHit": false,
+        "botChallenge": false,
+        "bodyFile": "resp_106.txt"
+      },
+      {
+        "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/827333385/?random=1791692535179&cv=11&fst=1791692535179&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a72z8d_AW-827333385za20ozb77524233zd77524233xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938465~115938469~118897920~118897930~120385423~120469145~120469153~121046263~121046271~121246026~121246034&u_w=1400&u_h=1000&url=https%3A%2F%2Fshop.tworld.co.kr%2Fnotice&ref=https%3A%2F%2Fshop.tworld.co.kr%2Fnf%2Findex_nf_yp_subscribe.html&rcb=17&frm=0&tiba=%EC%9A%94%EA%B8%88%20%ED%95%A0%EC%9D%B8%C2%B7%ED%9C%B4%EB%8C%80%ED%8F%B0%20%EC%A7%80%EC%9B%90%EA%B8%88%20%EC%A1%B0%ED%9A%8C%20-%20%EA%B3%B5%ED%86%B5%EC%A7%80%EC%9B%90%EA%B8%88%C2%B7%EC%B6%94%EA%B0%80%EC%A7%80%EC%9B%90%EA%B8%88%20%EB%B9%84%EA%B5%90%20%7C%20&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=404461752.1791692534&uaa=x86&uab=64&uafvl=Not%253BA%253DBrand%3B99.0.0.0%7CHeadlessChrome%3B139.0.7258.5%7CChromium%3B139.0.7258.5&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "text/javascript; charset=UTF-8",
+        "postData": ""
+      },
+      {
+        "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/827333385/?random=1791692535226&cv=11&fst=1791692535226&bg=ffffff&guid=ON&async=1&gtm=45be6a72z877524233za20gzb77524233zd77524233xeaxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938465~115938469~118897920~118897930~120385423~120469145~120469153~121046263~121046271~121246026~121246034&u_w=1400&u_h=1000&url=https%3A%2F%2Fshop.tworld.co.kr%2Fnotice&ref=https%3A%2F%2Fshop.tworld.co.kr%2Fnf%2Findex_nf_yp_subscribe.html&rcb=17&frm=0&tiba=%EC%9A%94%EA%B8%88%20%ED%95%A0%EC%9D%B8%C2%B7%ED%9C%B4%EB%8C%80%ED%8F%B0%20%EC%A7%80%EC%9B%90%EA%B8%88%20%EC%A1%B0%ED%9A%8C%20-%20%EA%B3%B5%ED%86%B5%EC%A7%80%EC%9B%90%EA%B8%88%C2%B7%EC%B6%94%EA%B0%80%EC%A7%80%EC%9B%90%EA%B8%88%20%EB%B9%84%EA%B5%90%20%7C%20&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=404461752.1791692534&uaa=x86&uab=64&uafvl=Not%253BA%253DBrand%3B99.0.0.0%7CHeadlessChrome%3B139.0.7258.5%7CChromium%3B139.0.7258.5&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=CA&ept=9&rfmt=3&fmt=4",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "text/javascript; charset=UTF-8",
+        "postData": ""
+      },
+      {
+        "url": "https://astg.widerplanet.com/delivery/storage",
+        "method": "GET",
+        "resourceType": "document",
+        "status": 200,
+        "contentType": "text/html;charset=UTF-8",
+        "postData": ""
+      },
+      {
+        "url": "https://shop.tworld.co.kr/api/wireless/trgt-supm/default-info",
+        "method": "GET",
+        "resourceType": "xhr",
+        "status": 200,
+        "contentType": "application/json",
+        "postData": "",
+        "bodyLength": 43,
+        "keywordHit": false,
+        "botChallenge": false,
+        "bodyFile": "resp_110.txt"
+      },
+      {
+        "url": "https://www.google.com/ccm/collect?rcb=17&frm=0&apvc=0&auid=404461752.1791692534&dt=%EC%9A%94%EA%B8%88%20%ED%95%A0%EC%9D%B8%C2%B7%ED%9C%B4%EB%8C%80%ED%8F%B0%20%EC%A7%80%EC%9B%90%EA%B8%88%20%EC%A1%B0%ED%9A%8C%20-%20%EA%B3%B5%ED%86%B5%EC%A7%80%EC%9B%90%EA%B8%88%C2%B7%EC%B6%94%EA%B0%80%EC%A7%80%EC%9B%90%EA%B8%88%20%EB%B9%84%EA%B5%90%20%7C%20&tid=AW-827333385&en=page_view&dl=https%3A%2F%2Fshop.tworld.co.kr%2Fnotice&dr=https%3A%2F%2Fshop.tworld.co.kr%2Fnf%2Findex_nf_yp_subscribe.html&scrsrc=www.googletagmanager.com&rnd=763797210.1791692534&navt=n&npa=0&gtm=45be6a72z8d_AW-827333385za20ozb77524233zd77524233xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938465~115938469~118897920~118897930~120385423~120469145~120469153~121046263~121046271~121246026~121246034&tft=1791692535232&tfd=2458&tids=AW-827333385&fmt=8",
+        "method": "POST",
+        "resourceType": "fetch",
+        "status": 200,
+        "contentType": "",
+        "postData": "",
+        "bodyLength": 17,
+        "keywordHit": false,
+        "botChallenge": false,
+        "bodyFile": "resp_111.txt"
+      },
+      {
+        "url": "https://www.google.com/rmkt/collect/827333385/?random=1791692535179&cv=11&fst=1791692535179&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a72z8d_AW-827333385za20ozb77524233zd77524233xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938465~115938469~118897920~118897930~120385423~120469145~120469153~121046263~121046271~121246026~121246034&u_w=1400&u_h=1000&url=https%3A%2F%2Fshop.tworld.co.kr%2Fnotice&ref=https%3A%2F%2Fshop.tworld.co.kr%2Fnf%2Findex_nf_yp_subscribe.html&rcb=17&frm=0&tiba=%EC%9A%94%EA%B8%88%20%ED%95%A0%EC%9D%B8%C2%B7%ED%9C%B4%EB%8C%80%ED%8F%B0%20%EC%A7%80%EC%9B%90%EA%B8%88%20%EC%A1%B0%ED%9A%8C%20-%20%EA%B3%B5%ED%86%B5%EC%A7%80%EC%9B%90%EA%B8%88%C2%B7%EC%B6%94%EA%B0%80%EC%A7%80%EC%9B%90%EA%B8%88%20%EB%B9%84%EA%B5%90%20%7C%20&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=404461752.1791692534&uaa=x86&uab=64&uafvl=Not%253BA%253DBrand%3B99.0.0.0%7CHeadlessChrome%3B139.0.7258.5%7CChromium%3B139.0.7258.5&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=68&gcp=5",
+        "method": "POST",
+        "resourceType": "fetch",
+        "status": 200,
+        "contentType": "",
+        "postData": "",
+        "bodyLength": 17,
+        "keywordHit": false,
+        "botChallenge": false,
+        "bodyFile": "resp_112.txt"
+      },
+      {
+        "url": "https://www.google.com/ccm/collect?rcb=17&frm=0&apvc=0&ae=g&auid=404461752.1791692534&dt=%EC%9A%94%EA%B8%88%20%ED%95%A0%EC%9D%B8%C2%B7%ED%9C%B4%EB%8C%80%ED%8F%B0%20%EC%A7%80%EC%9B%90%EA%B8%88%20%EC%A1%B0%ED%9A%8C%20-%20%EA%B3%B5%ED%86%B5%EC%A7%80%EC%9B%90%EA%B8%88%C2%B7%EC%B6%94%EA%B0%80%EC%A7%80%EC%9B%90%EA%B8%88%20%EB%B9%84%EA%B5%90%20%7C%20&tid=AW-827333385&dl=https%3A%2F%2Fshop.tworld.co.kr%2Fnotice&dr=https%3A%2F%2Fshop.tworld.co.kr%2Fnf%2Findex_nf_yp_subscribe.html&scrsrc=www.googletagmanager.com&rnd=763797210.1791692534&navt=n&npa=0&_tu=CA&gtm=45be6a72z877524233za20gzb77524233zd77524233xeaxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938465~115938469~118897920~118897930~120385423~120469145~120469153~121046263~121046271~121246026~121246034&tft=1791692535232&tfd=2459&tids=AW-827333385&fmt=8",
+        "method": "POST",
+        "resourceType": "fetch",
+        "status": 200,
+        "contentType": "",
+        "postData": "",
+        "bodyLength": 17,
+        "keywordHit": false,
+        "botChallenge": false,
+        "bodyFile": "resp_113.txt"
+      },
+      {
+        "url": "https://www.google.com/rmkt/collect/827333385/?random=1791692535226&cv=11&fst=1791692535226&fmt=8&bg=ffffff&guid=ON&async=1&gtm=45be6a72z877524233za20gzb77524233zd77524233xeaxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938465~115938469~118897920~118897930~120385423~120469145~120469153~121046263~121046271~121246026~121246034&u_w=1400&u_h=1000&url=https%3A%2F%2Fshop.tworld.co.kr%2Fnotice&ref=https%3A%2F%2Fshop.tworld.co.kr%2Fnf%2Findex_nf_yp_subscribe.html&rcb=17&frm=0&tiba=%EC%9A%94%EA%B8%88%20%ED%95%A0%EC%9D%B8%C2%B7%ED%9C%B4%EB%8C%80%ED%8F%B0%20%EC%A7%80%EC%9B%90%EA%B8%88%20%EC%A1%B0%ED%9A%8C%20-%20%EA%B3%B5%ED%86%B5%EC%A7%80%EC%9B%90%EA%B8%88%C2%B7%EC%B6%94%EA%B0%80%EC%A7%80%EC%9B%90%EA%B8%88%20%EB%B9%84%EA%B5%90%20%7C%20&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=404461752.1791692534&uaa=x86&uab=64&uafvl=Not%253BA%253DBrand%3B99.0.0.0%7CHeadlessChrome%3B139.0.7258.5%7CChromium%3B139.0.7258.5&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=CA&ept=68&gcp=5",
+        "method": "POST",
+        "resourceType": "fetch",
+        "status": 200,
+        "contentType": "",
+        "postData": "",
+        "bodyLength": 17,
+        "keywordHit": false,
+        "botChallenge": false,
+        "bodyFile": "resp_114.txt"
+      },
+      {
+        "url": "https://astg.widerplanet.com/delivery/wpc.php?v=1&ver=4.0&r=1&md=bs&ty=Home&ti=54428&device=web&charset=UTF-8&tc=1791692534539&ref=https%3A%2F%2Fshop.tworld.co.kr%2Fnf%2Findex_nf_yp_subscribe.html&loc=https%3A%2F%2Fshop.tworld.co.kr%2Fnotice&amver=20260917035426",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript;charset=UTF-8",
+        "postData": ""
+      },
+      {
+        "url": "https://sslwidget.criteo.com/event?a=58841&v=5.51.0&p0=e%3Dexd%26site_type%3Dd&p1=e%3Dvpg%26tms%3Dgtm-template&p2=e%3Ddis&bundle=C0onQV9UNyUyRldIdCUyQnpGc05ocFFSc0lXbE5PNkszVWN0TURjU0JsWHJRallQNEdiVkoxMWQ3TWlRampuVFVwUnRmV3FNMVBQdlllYUpDd25GNSUyRiUyQkN3NzJqVm1aNVJGRzV0M3MlMkZhelpDa1dQcDBlQnpnYlQlMkJSTDdKOEk3amx6VjA0TUt5aEVzZTljdlBJNEZyeHQ1akdsZHQ5S0ElM0QlM0Q&sc=%7B%22fbp%22%3A%22fb.2.1791692534359.82715388262717807%22%7D&tld=tworld.co.kr&fu=https%253A%252F%252Fshop.tworld.co.kr%252Fnotice&pu=https%253A%252F%252Fshop.tworld.co.kr%252Fnf%252Findex_nf_yp_subscribe.html&ceid=c343fd90-5e73-42c1-8ce4-f67ca64edaf5",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 302,
+        "contentType": "",
+        "postData": ""
+      },
+      {
+        "url": "https://sslwidget.criteo.com/event?a=%5B100723%5D&v=5.51.0&p0=e%3Dexd%26site_type%3Dd&p1=e%3Dvh%26tms%3Dgtm-template&p2=e%3Ddis%26a%3D%255B58841%252C100723%255D&bundle=C0onQV9UNyUyRldIdCUyQnpGc05ocFFSc0lXbE5PNkszVWN0TURjU0JsWHJRallQNEdiVkoxMWQ3TWlRampuVFVwUnRmV3FNMVBQdlllYUpDd25GNSUyRiUyQkN3NzJqVm1aNVJGRzV0M3MlMkZhelpDa1dQcDBlQnpnYlQlMkJSTDdKOEk3amx6VjA0TUt5aEVzZTljdlBJNEZyeHQ1akdsZHQ5S0ElM0QlM0Q&sc=%7B%22fbp%22%3A%22fb.2.1791692534359.82715388262717807%22%7D&tld=tworld.co.kr&fu=https%253A%252F%252Fshop.tworld.co.kr%252Fnotice&pu=https%253A%252F%252Fshop.tworld.co.kr%252Fnf%252Findex_nf_yp_subscribe.html&ceid=3a7727b5-2499-4096-97b4-6a0988f74d18",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 302,
+        "contentType": "",
+        "postData": ""
+      },
+      {
+        "url": "https://shop.tworld.co.kr/api/tworld/search/suggestKeyword",
+        "method": "POST",
+        "resourceType": "xhr",
+        "status": 200,
+        "contentType": "",
+        "postData": "{\"keyword\":\"\"}",
+        "bodyLength": 0,
+        "keywordHit": false,
+        "botChallenge": false,
+        "bodyFile": "resp_118.txt"
+      },
+      {
+        "url": "https://shop.tworld.co.kr/api/tworld/search/bestKeyword",
+        "method": "POST",
+        "resourceType": "xhr",
+        "status": 200,
+        "contentType": "",
+        "postData": "{\"keyword\":\"\"}",
+        "bodyLength": 0,
+        "keywordHit": false,
+        "botChallenge": false,
+        "bodyFile": "resp_119.txt"
+      },
+      {
+        "url": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6Lcn7aIdAAAAAAJr0BRie0l5KvzFOm14QW5zTadd&co=aHR0cHM6Ly9zaG9wLnR3b3JsZC5jby5rcjo0NDM.&hl=ko&v=nY0xPItgwtlvjEjk2TqdwOQz&size=invisible&anchor-ms=20000&execute-ms=30000&cb=ekkxexoodp7a",
+        "method": "GET",
+        "resourceType": "document",
+        "status": 200,
+        "contentType": "text/html; charset=utf-8",
+        "postData": ""
+      },
+      {
+        "url": "https://www.gstatic.com/recaptcha/releases/nY0xPItgwtlvjEjk2TqdwOQz/recaptcha__ko.js",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "text/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://analytics.google.com/g/collect?v=2&tid=G-ZFVS6J60C3&gtm=45je6a72v876372466za20ozb9168789752zd9168789752xf1&_p=1791692533612&_gaz=1&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=EAAAAGAC&are=1&cid=1710938880.1791692535&frm=0&ir=1&pscdl=noapi&rcb=3&sr=1400x1000&uaa=x86&uab=64&uafvl=Not%253BA%253DBrand%3B99.0.0.0%7CHeadlessChrome%3B139.0.7258.5%7CChromium%3B139.0.7258.5&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=ko-kr&gaf=2&_s=1&tag_exp=100940059~115938465~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271~121246026~121246034&sid=1791692535&sct=1&seg=0&dl=https%3A%2F%2Fshop.tworld.co.kr%2Fnotice&dr=https%3A%2F%2Fshop.tworld.co.kr%2Fnf%2Findex_nf_yp_subscribe.html&dt=%EC%9A%94%EA%B8%88%20%ED%95%A0%EC%9D%B8%C2%B7%ED%9C%B4%EB%8C%80%ED%8F%B0%20%EC%A7%80%EC%9B%90%EA%B8%88%20%EC%A1%B0%ED%9A%8C%20-%20%EA%B3%B5%ED%86%B5%EC%A7%80%EC%9B%90%EA%B8%88%C2%B7%EC%B6%94%EA%B0%80%EC%A7%80%EC%9B%90%EA%B8%88%20%EB%B9%84%EA%B5%90%20%7C%20T%20%EB%8B%A4%EC%9D%B4%EB%A0%89%ED%8A%B8%EC%83%B5&_tu=QA&en=page_view&_fv=1&_nsi=1&_ss=1&ep.device_code=pc_web&ep.event_domain=PC%EC%9B%B9&ep.login_status=N&ep.page_depth_01=notice&ep.page_depth_02=&ep.page_depth_03=&ep.page_depth_04=&ep.query_string=&ep.content_group=device_subsidy&up.client_id=.&up.login=N&tfd=2633",
+        "method": "POST",
+        "resourceType": "fetch",
+        "status": 204,
+        "contentType": "text/plain",
+        "postData": "",
+        "bodyLength": 17,
+        "keywordHit": true,
+        "botChallenge": false,
+        "bodyFile": "resp_122.txt"
+      },
+      {
+        "url": "https://www.google.com/recaptcha/api2/webworker.js?hl=ko&v=nY0xPItgwtlvjEjk2TqdwOQz",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "text/javascript; charset=utf-8",
+        "postData": ""
+      },
+      {
+        "url": "https://m2a0406a0524-is5qnl632q-uc.a.run.app/events?cee=no",
+        "method": "POST",
+        "resourceType": "fetch",
+        "status": 200,
+        "contentType": "application/json",
+        "postData": "{\"event_name\":\"PageView\",\"smart_setup\":{\"auto_web_details_data\":\"{\\\"availability\\\":[{\\\"rid\\\":\\\"1829502471744193\\\",\\\"v\\\":[\\\"in stock\\\"]}],\\\"price\\\":[{\\\"rid\\\":\\\"1577917773967048\\\",\\\"v\\\":[\\\"지원금\\\"]}],\\\"page_description\\\":[{\\\"rid\\\":\\\"1076391981696169\\\",\\\"v\\\":[\\\"가입 유형\\\\n기기변경\\\\n번호이동\\\\n신규가입\\\"]}],\\\"variant_presence\\\":[{\\\"rid\\\":\\\"1799837954697607\\\",\\\"v\\\":[\\\"no_variant\\\"]}],\\\"free_shipping\\\":[{\\\"rid\\\":\\\"1772536060452103\\\",\\\"v\\\":[\\\"false\\\"]}]}\",\"is_auto_web_details\":true,\"auto_web_details_filtered_fields\":\"{\\\"currency\\\":{\\\"tv\\\":2,\\\"rules\\\":{\\\"1352300576289742\\\":1,\\\"1373487814902320\\\":1}}}\"},\"event_id\":\"ob3_plugin-set_45026fa201f00914ccbbb417920fdb4cb17bd683f01127351d4d1e78e9fbd402\",\"fb.pixel_id\":\"2861648447537422\",\"website_context\":{\"location\":\"https://shop.tworld.co.kr/notice\",\"referrer\":\"https://shop.tworld.co.kr/nf/index_nf_yp_subscribe.html\",\"isInIFrame\":false},\"fb.fbp\":\"fb.2.1791692534359.82715388262717807\"}",
+        "bodyLength": 17,
+        "keywordHit": false,
+        "botChallenge": false,
+        "bodyFile": "resp_124.txt"
+      },
+      {
+        "url": "https://connect.facebook.net/signals/config/1527596801758532?v=2.9.415&r=stable&domain=shop.tworld.co.kr&hme=a4c28c8787325ac3f8f9eac68364f47df2a8c4266e43177443e5d7f6289c9774&ex_m=117%2C240%2C170%2C27%2C81%2C82%2C161%2C77%2C76%2C11%2C180%2C101%2C20%2C152%2C140%2C46%2C84%2C89%2C148%2C175%2C182%2C8%2C4%2C5%2C7%2C6%2C3%2C102%2C114%2C32%2C17%2C31%2C18%2C33%2C34%2C35%2C37%2C55%2C162%2C86%2C125%2C22%2C24%2C51%2C47%2C49%2C48%2C94%2C103%2C107%2C123%2C159%2C163%2C53%2C124%2C29%2C26%2C132%2C78%2C43%2C165%2C164%2C166%2C156%2C154%2C30%2C42%2C66%2C122%2C177%2C79%2C21%2C127%2C92%2C75%2C23%2C96%2C97%2C129%2C95%2C150%2C149%2C153%2C108%2C176%2C179%2C41%2C56%2C126%2C54%2C160%2C71%2C184%2C109%2C183%2C209%2C254%2C83%2C273%2C272%2C271%2C14%2C25%2C28%2C40%2C62%2C116%2C68%2C10%2C72%2C110%2C111%2C112%2C118%2C143%2C38%2C36%2C145%2C146%2C147%2C142%2C141%2C171%2C85%2C174%2C172%2C173%2C57%2C67%2C136%2C19%2C178%2C52%2C322%2C323%2C324%2C321%2C337%2C359%2C247%2C236%2C69%2C237%2C235%2C362%2C353%2C59%2C248%2C120%2C144%2C91%2C134%2C61%2C133%2C139%2C138%2C65%2C73%2C167%2C87%2C88%2C128%2C44%2C39%2C60%2C63%2C113%2C181%2C1%2C137%2C16%2C135%2C12%2C2%2C64%2C104%2C15%2C74%2C70%2C131%2C100%2C99%2C186%2C187%2C105%2C106%2C9%2C115%2C185%2C58%2C157%2C98%2C90%2C80%2C130%2C119%2C168%2C50%2C158%2C0%2C93%2C151%2C155%2C169%2C45%2C121%2C13%2C188%2C267%2C265%2C260%2C262%2C263%2C264%2C261%2C259%2C246%2C266%2C268%2C258%2C216%2C217%2C269%2C270%2C257%2C256%2C351%2C352%2C199%2C201%2C202%2C206%2C205%2C207%2C203%2C204%2C200%2C198%2C197%2C275%2C229%2C224%2C227%2C228%2C222%2C387%2C303%2C307%2C310%2C311%2C312%2C308%2C313%2C306%2C301%2C315%2C316%2C305%2C314%2C318%2C309%2C304%2C317%2C319%2C302%2C239%2C300%2C225%2C226%2C250%2C223%2C221%2C245%2C277%2C241%2C214%2C215%2C211%2C212%2C213%2C210%2C208%2C219%2C220%2C218%2C325%2C380%2C345%2C346%2C348%2C349%2C347%2C344%2C343%2C230%2C280%2C287%2C288%2C281%2C283%2C286%2C284%2C285%2C282%2C279%2C298%2C292%2C295%2C291%2C299%2C296%2C290%2C294%2C297%2C293%2C289%2C339%2C356",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/x-javascript; charset=utf-8",
+        "postData": ""
+      },
+      {
+        "url": "https://rum.beusable.net/script/checker/b190502e140254u234/1e75c800b6?url=https%3A%2F%2Fshop.tworld.co.kr%2Fnotice",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "",
+        "postData": ""
+      },
+      {
+        "url": "https://api3.tnkfactory.com/tnk/js/tnk-webapi-cpatrack.1.4.js",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "text/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://bzr.openai.com/v1/sdk/events?pid=24sXm42tJm5uu1cXEmgnnr&st=oaiq-web&sv=0.1.41&t=1791692535716&ec=2",
+        "method": "POST",
+        "resourceType": "fetch",
+        "status": 202,
+        "contentType": "",
+        "postData": "{\"obref\":\"9d105a6a-edb1-4c0e-a44a-7a7ea660f6cd\",\"events\":[{\"type\":\"openai::sdk_init\",\"timestamp_ms\":1791692534436,\"id\":\"1dd77ef2-62c0-43ca-921b-93901a46cea0\",\"source_url\":\"https://shop.tworld.co.kr/notice\",\"referrer_url\":\"https://shop.tworld.co.kr/nf/index_nf_yp_subscribe.html\",\"data\":{\"type\":\"sdk_lifecycle\"}},{\"type\":\"oai::diagnostic\",\"timestamp_ms\":1791692534436,\"id\":\"e98fedc5-0526-4658-9447-7b306f4b4861\",\"data\":{\"type\":\"diagnostic\",\"schema_version\":1,\"dropped_event_count\":0,\"dropped_event_reason_counts\":{},\"dropped_event_name_counts\":{},\"dropped_event_phase_counts\":{},\"consent\":true,\"is_first_visit_in_session\":true,\"is_first_consent_grant_in_session\":true,\"config\":{\"automatic_advanced_matching\":\"enabled\"}}}]}",
+        "bodyLength": 17,
+        "keywordHit": false,
+        "botChallenge": false,
+        "bodyFile": "resp_128.txt"
+      },
+      {
+        "url": "https://mpc-prod-27-s6uit34pua-uk.a.run.app/events?cee=no",
+        "method": "POST",
+        "resourceType": "fetch",
+        "status": 200,
+        "contentType": "application/json",
+        "postData": "{\"event_name\":\"PageView\",\"smart_setup\":{\"auto_web_details_data\":\"{\\\"availability\\\":[{\\\"rid\\\":\\\"1829502471744193\\\",\\\"v\\\":[\\\"in stock\\\"]}],\\\"price\\\":[{\\\"rid\\\":\\\"1577917773967048\\\",\\\"v\\\":[\\\"지원금\\\"]}],\\\"page_description\\\":[{\\\"rid\\\":\\\"1076391981696169\\\",\\\"v\\\":[\\\"가입 유형\\\\n기기변경\\\\n번호이동\\\\n신규가입\\\"]}],\\\"variant_presence\\\":[{\\\"rid\\\":\\\"1799837954697607\\\",\\\"v\\\":[\\\"no_variant\\\"]}],\\\"free_shipping\\\":[{\\\"rid\\\":\\\"1772536060452103\\\",\\\"v\\\":[\\\"false\\\"]}]}\",\"is_auto_web_details\":true,\"auto_web_details_filtered_fields\":\"{\\\"currency\\\":{\\\"tv\\\":2,\\\"rules\\\":{\\\"1352300576289742\\\":1,\\\"1373487814902320\\\":1}}}\"},\"event_id\":\"ob3_plugin-set_4b5ece7a3551b8b510d3dedfb7b02ebcf4a58a85e36667298841fff8b1090a40\",\"fb.pixel_id\":\"1527596801758532\",\"website_context\":{\"location\":\"https://shop.tworld.co.kr/notice\",\"referrer\":\"https://shop.tworld.co.kr/nf/index_nf_yp_subscribe.html\",\"isInIFrame\":false},\"fb.fbp\":\"fb.2.1791692534359.82715388262717807\"}",
+        "bodyLength": 17,
+        "keywordHit": false,
+        "botChallenge": false,
+        "bodyFile": "resp_129.txt"
+      },
+      {
+        "url": "https://connect.facebook.net/signals/config/1652115363082547?v=2.9.415&r=stable&domain=shop.tworld.co.kr&hme=a4c28c8787325ac3f8f9eac68364f47df2a8c4266e43177443e5d7f6289c9774&ex_m=117%2C240%2C170%2C27%2C81%2C82%2C161%2C77%2C76%2C11%2C180%2C101%2C20%2C152%2C140%2C46%2C84%2C89%2C148%2C175%2C182%2C8%2C4%2C5%2C7%2C6%2C3%2C102%2C114%2C32%2C17%2C31%2C18%2C33%2C34%2C35%2C37%2C55%2C162%2C86%2C125%2C22%2C24%2C51%2C47%2C49%2C48%2C94%2C103%2C107%2C123%2C159%2C163%2C53%2C124%2C29%2C26%2C132%2C78%2C43%2C165%2C164%2C166%2C156%2C154%2C30%2C42%2C66%2C122%2C177%2C79%2C21%2C127%2C92%2C75%2C23%2C96%2C97%2C129%2C95%2C150%2C149%2C153%2C108%2C176%2C179%2C41%2C56%2C126%2C54%2C160%2C71%2C184%2C109%2C183%2C209%2C254%2C83%2C273%2C272%2C271%2C14%2C25%2C28%2C40%2C62%2C116%2C68%2C10%2C72%2C110%2C111%2C112%2C118%2C143%2C38%2C36%2C145%2C146%2C147%2C142%2C141%2C171%2C85%2C174%2C172%2C173%2C57%2C67%2C136%2C19%2C178%2C52%2C322%2C323%2C324%2C321%2C337%2C359%2C247%2C236%2C69%2C237%2C235%2C362%2C353%2C59%2C248%2C120%2C144%2C91%2C134%2C61%2C133%2C139%2C138%2C65%2C73%2C167%2C87%2C88%2C128%2C44%2C39%2C60%2C63%2C113%2C181%2C1%2C137%2C16%2C135%2C12%2C2%2C64%2C104%2C15%2C74%2C70%2C131%2C100%2C99%2C186%2C187%2C105%2C106%2C9%2C115%2C185%2C58%2C157%2C98%2C90%2C80%2C130%2C119%2C168%2C50%2C158%2C0%2C93%2C151%2C155%2C169%2C45%2C121%2C13%2C188%2C267%2C265%2C260%2C262%2C263%2C264%2C261%2C259%2C246%2C266%2C268%2C258%2C216%2C217%2C269%2C270%2C257%2C256%2C351%2C352%2C199%2C201%2C202%2C206%2C205%2C207%2C203%2C204%2C200%2C198%2C197%2C275%2C229%2C224%2C227%2C228%2C222%2C387%2C303%2C307%2C310%2C311%2C312%2C308%2C313%2C306%2C301%2C315%2C316%2C305%2C314%2C318%2C309%2C304%2C317%2C319%2C302%2C239%2C300%2C225%2C226%2C250%2C223%2C221%2C245%2C277%2C241%2C214%2C215%2C211%2C212%2C213%2C210%2C208%2C219%2C220%2C218%2C325%2C380%2C345%2C346%2C348%2C349%2C347%2C344%2C343%2C230%2C280%2C287%2C288%2C281%2C283%2C286%2C284%2C285%2C282%2C279%2C298%2C292%2C295%2C291%2C299%2C296%2C290%2C294%2C297%2C293%2C289%2C339%2C356",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/x-javascript; charset=utf-8",
+        "postData": ""
+      },
+      {
+        "url": "https://astg.widerplanet.com/delivery/storage?request_id=null&wp_uid=2-e38f62761d8741339bae67ec2f266543-s1791692535.183197%7Cwindows_10%7Cwebview-89wt68&qsc=1yukvol",
+        "method": "GET",
+        "resourceType": "document",
+        "status": 200,
+        "contentType": "text/html;charset=UTF-8",
+        "postData": ""
+      },
+      {
+        "url": "https://widget.as.criteo.com/event?a=58841&v=5.51.0&p0=e%3Dexd%26site_type%3Dd&p1=e%3Dvpg%26tms%3Dgtm-template&p2=e%3Ddis&bundle=C0onQV9UNyUyRldIdCUyQnpGc05ocFFSc0lXbE5PNkszVWN0TURjU0JsWHJRallQNEdiVkoxMWQ3TWlRampuVFVwUnRmV3FNMVBQdlllYUpDd25GNSUyRiUyQkN3NzJqVm1aNVJGRzV0M3MlMkZhelpDa1dQcDBlQnpnYlQlMkJSTDdKOEk3amx6VjA0TUt5aEVzZTljdlBJNEZyeHQ1akdsZHQ5S0ElM0QlM0Q&sc=%7B%22fbp%22%3A%22fb.2.1791692534359.82715388262717807%22%7D&tld=tworld.co.kr&fu=https%253A%252F%252Fshop.tworld.co.kr%252Fnotice&pu=https%253A%252F%252Fshop.tworld.co.kr%252Fnf%252Findex_nf_yp_subscribe.html&ceid=c343fd90-5e73-42c1-8ce4-f67ca64edaf5",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/x-javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://widget.as.criteo.com/event?a=%5B100723%5D&v=5.51.0&p0=e%3Dexd%26site_type%3Dd&p1=e%3Dvh%26tms%3Dgtm-template&p2=e%3Ddis%26a%3D%255B58841%252C100723%255D&bundle=C0onQV9UNyUyRldIdCUyQnpGc05ocFFSc0lXbE5PNkszVWN0TURjU0JsWHJRallQNEdiVkoxMWQ3TWlRampuVFVwUnRmV3FNMVBQdlllYUpDd25GNSUyRiUyQkN3NzJqVm1aNVJGRzV0M3MlMkZhelpDa1dQcDBlQnpnYlQlMkJSTDdKOEk3amx6VjA0TUt5aEVzZTljdlBJNEZyeHQ1akdsZHQ5S0ElM0QlM0Q&sc=%7B%22fbp%22%3A%22fb.2.1791692534359.82715388262717807%22%7D&tld=tworld.co.kr&fu=https%253A%252F%252Fshop.tworld.co.kr%252Fnotice&pu=https%253A%252F%252Fshop.tworld.co.kr%252Fnf%252Findex_nf_yp_subscribe.html&ceid=3a7727b5-2499-4096-97b4-6a0988f74d18",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/x-javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/737948529/?random=520983662&cv=11&fst=1791692534952&fmt=8&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be6a72v878374199z877524233za20gzb77524233zd77524233xeaxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271~121246026~121246034&u_w=1400&u_h=1000&url=https%3A%2F%2Fshop.tworld.co.kr%2Fnotice&ref=https%3A%2F%2Fshop.tworld.co.kr%2Fnf%2Findex_nf_yp_subscribe.html&rcb=14&label=ZRyYCNiI4fEBEPHm8N8C&capi=1&frm=0&tiba=%EC%9A%94%EA%B8%88%20%ED%95%A0%EC%9D%B8%C2%B7%ED%9C%B4%EB%8C%80%ED%8F%B0%20%EC%A7%80%EC%9B%90%EA%B8%88%20%EC%A1%B0%ED%9A%8C%20-%20%EA%B3%B5%ED%86%B5%EC%A7%80%EC%9B%90%EA%B8%88%C2%B7%EC%B6%94%EA%B0%80%EC%A7%80%EC%9B%90%EA%B8%88%20%EB%B9%84%EA%B5%90%20%7C%20&value=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=404461752.1791692534&uaa=x86&uab=64&uafvl=Not%253BA%253DBrand%3B99.0.0.0%7CHeadlessChrome%3B139.0.7258.5%7CChromium%3B139.0.7258.5&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&ec_m=body%3E.wrap%3Anth-child(16)%3E.footer%3Anth-child(38)%3E.l-*SPAN%3Atrue%3A25%3Afalse*1&ec_sel=body%3E.wrap%3Anth-child(16)%3E.footer%3Anth-child(38)%3E.l-&ec_meta=SPAN%3Atrue%3A25%3Afalse&ec_lat=0&ec_s=1&ec_mode=a&oidsrc=3&ecsid2=1120818059.1791692535&_tu=CBA&gcl_ctr=1~0~0~0&gap.last_random=0&gap.last_label=0&category=acrcp_v1_512&em=tv.1~em.kcAWPRuvZtZdAkVfGlS5h9jMygNjJ8lO9iNta3jV-xA&emd=tvd.1~i1.fem.ma.r25.n25.lSPAN.s!b64!Ym9keT4ud3JhcDpudGgtY2hpbGQoMTYpPi5mb290ZXI6bnRoLWNoaWxkKDM4KT4ubC0&ept=5&ct_cookie_present=false&eoid=CkQKEAjwxKfWBhCG2snu9uSwsCESMAC2uJsICak3rrUYRWy0s8yfCx4SegoG8p4zMkurRDmCI9YtCk9CRODnI99mYhV91_D_BwE&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCIfbsQII08WxAgjrzLECCO3OsQII1c-xAgiK8rECCIvysQII9NqxAgji6rECCOjusQIIkuuxAgjJ47ECCJfUsQIIyduxAgjN5rECCKbdsQIIsN6xAgiA27ECCM3hsQJKGXRyaWdnZXI9bmF2aWdhdGlvbi1zb3VyY2VaAwoBAWIDCgED&cerd=CgjI7L4tnem3OA&eitems=ChAI8MSn1gYQ6a2f4I_5kMkGEh0Aniu5hDQ0UtNvV6OdA5JdNsxRFO4vdATdoQTlfw&fsk=ChAI8MSn1gYQ6-GJlaqKz_8jEiwAXuLv_buNUnPdtLo7FWoUwwXmgqbO6MKdDNOgN13V9eCwJEhNiZBoCf0QjhoChr8&pscrd=IhMIi4Lh6I6xlwMVtwiOBR22Ogp5OhpodHRwczovL3Nob3AudHdvcmxkLmNvLmtyL0JYQ2hFSThNU24xZ1lRNnFlaThhUHFydE9TQVJJdEFJenUxN2t4Q3FlaTVIOEhZbEE2VGhUeUlkMi1LaDMxSnJRNXpKWk5hSEsxZGRQdDdKT2ZWdWk2VnU2bXoMCAliCAgAEAAYACAA",
+        "method": "POST",
+        "resourceType": "fetch",
+        "status": 302,
+        "contentType": "text/html; charset=UTF-8",
+        "postData": "",
+        "bodyLength": 17,
+        "keywordHit": false,
+        "botChallenge": false,
+        "bodyFile": "resp_134.txt"
+      },
+      {
+        "url": "https://connect.facebook.net/signals/config/2006307010057253?v=2.9.415&r=stable&domain=shop.tworld.co.kr&hme=a4c28c8787325ac3f8f9eac68364f47df2a8c4266e43177443e5d7f6289c9774&ex_m=117%2C240%2C170%2C27%2C81%2C82%2C161%2C77%2C76%2C11%2C180%2C101%2C20%2C152%2C140%2C46%2C84%2C89%2C148%2C175%2C182%2C8%2C4%2C5%2C7%2C6%2C3%2C102%2C114%2C32%2C17%2C31%2C18%2C33%2C34%2C35%2C37%2C55%2C162%2C86%2C125%2C22%2C24%2C51%2C47%2C49%2C48%2C94%2C103%2C107%2C123%2C159%2C163%2C53%2C124%2C29%2C26%2C132%2C78%2C43%2C165%2C164%2C166%2C156%2C154%2C30%2C42%2C66%2C122%2C177%2C79%2C21%2C127%2C92%2C75%2C23%2C96%2C97%2C129%2C95%2C150%2C149%2C153%2C108%2C176%2C179%2C41%2C56%2C126%2C54%2C160%2C71%2C184%2C109%2C183%2C209%2C254%2C83%2C273%2C272%2C271%2C14%2C25%2C28%2C40%2C62%2C116%2C68%2C10%2C72%2C110%2C111%2C112%2C118%2C143%2C38%2C36%2C145%2C146%2C147%2C142%2C141%2C171%2C85%2C174%2C172%2C173%2C57%2C67%2C136%2C19%2C178%2C52%2C322%2C323%2C324%2C321%2C337%2C359%2C247%2C236%2C69%2C237%2C235%2C362%2C353%2C59%2C248%2C120%2C144%2C91%2C134%2C61%2C133%2C139%2C138%2C65%2C73%2C167%2C87%2C88%2C128%2C44%2C39%2C60%2C63%2C113%2C181%2C1%2C137%2C16%2C135%2C12%2C2%2C64%2C104%2C15%2C74%2C70%2C131%2C100%2C99%2C186%2C187%2C105%2C106%2C9%2C115%2C185%2C58%2C157%2C98%2C90%2C80%2C130%2C119%2C168%2C50%2C158%2C0%2C93%2C151%2C155%2C169%2C45%2C121%2C13%2C188%2C267%2C265%2C260%2C262%2C263%2C264%2C261%2C259%2C246%2C266%2C268%2C258%2C216%2C217%2C269%2C270%2C257%2C256%2C351%2C352%2C199%2C201%2C202%2C206%2C205%2C207%2C203%2C204%2C200%2C198%2C197%2C275%2C229%2C224%2C227%2C228%2C222%2C387%2C303%2C307%2C310%2C311%2C312%2C308%2C313%2C306%2C301%2C315%2C316%2C305%2C314%2C318%2C309%2C304%2C317%2C319%2C302%2C239%2C300%2C225%2C226%2C250%2C223%2C221%2C245%2C277%2C241%2C214%2C215%2C211%2C212%2C213%2C210%2C208%2C219%2C220%2C218%2C325%2C380%2C345%2C346%2C348%2C349%2C347%2C344%2C343%2C230%2C280%2C287%2C288%2C281%2C283%2C286%2C284%2C285%2C282%2C279%2C298%2C292%2C295%2C291%2C299%2C296%2C290%2C294%2C297%2C293%2C289%2C339%2C356",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/x-javascript; charset=utf-8",
+        "postData": ""
+      },
+      {
+        "url": "https://shop.tworld.co.kr/api/wireless/trgt-supm/offer-psbl-info",
+        "method": "GET",
+        "resourceType": "xhr",
+        "status": 200,
+        "contentType": "application/json",
+        "postData": "",
+        "bodyLength": 1135,
+        "keywordHit": true,
+        "botChallenge": false,
+        "bodyFile": "resp_136.txt"
+      },
+      {
+        "url": "https://shop.tworld.co.kr/api/wireless/trgt-supm/event-log",
+        "method": "POST",
+        "resourceType": "xhr",
+        "status": 200,
+        "contentType": "application/json;charset=UTF-8",
+        "postData": "evtOccrScrnId=pc_offer_float_triggr&evtOccrObjItm=bt&evtId=pc_offer_flt_triggr&evtTypVal=exp&trgtSupmId=&ofrPopupExpsTypVal=&floBtnExpsLoc=notice&altTrgtSupmId=&altTrgtSupmAmt=&productGrpId=&entryCd=&subscriptionId=&subcommDcMthd=",
+        "bodyLength": 276,
+        "keywordHit": false,
+        "botChallenge": false,
+        "bodyFile": "resp_137.txt"
+      },
+      {
+        "url": "https://nam.veta.naver.com/nac/2",
+        "method": "GET",
+        "resourceType": "xhr",
+        "status": 200,
+        "contentType": "application/json",
+        "postData": "",
+        "bodyLength": 23,
+        "keywordHit": false,
+        "botChallenge": false,
+        "bodyFile": "resp_138.txt"
+      },
+      {
+        "url": "https://www.google.com/pagead/1p-conversion/737948529/?random=520983662&cv=11&fst=1791692534952&fmt=8&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be6a72v878374199z877524233za20gzb77524233zd77524233xeaxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271~121246026~121246034&u_w=1400&u_h=1000&url=https%3A%2F%2Fshop.tworld.co.kr%2Fnotice&ref=https%3A%2F%2Fshop.tworld.co.kr%2Fnf%2Findex_nf_yp_subscribe.html&rcb=14&label=ZRyYCNiI4fEBEPHm8N8C&capi=1&frm=0&tiba=%EC%9A%94%EA%B8%88%20%ED%95%A0%EC%9D%B8%C2%B7%ED%9C%B4%EB%8C%80%ED%8F%B0%20%EC%A7%80%EC%9B%90%EA%B8%88%20%EC%A1%B0%ED%9A%8C%20-%20%EA%B3%B5%ED%86%B5%EC%A7%80%EC%9B%90%EA%B8%88%C2%B7%EC%B6%94%EA%B0%80%EC%A7%80%EC%9B%90%EA%B8%88%20%EB%B9%84%EA%B5%90%20%7C%20&value=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=404461752.1791692534&uaa=x86&uab=64&uafvl=Not%253BA%253DBrand%3B99.0.0.0%7CHeadlessChrome%3B139.0.7258.5%7CChromium%3B139.0.7258.5&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&ec_m=body%3E.wrap%3Anth-child(16)%3E.footer%3Anth-child(38)%3E.l-*SPAN%3Atrue%3A25%3Afalse*1&ec_sel=body%3E.wrap%3Anth-child(16)%3E.footer%3Anth-child(38)%3E.l-&ec_meta=SPAN%3Atrue%3A25%3Afalse&ec_lat=0&ec_s=1&ec_mode=a&oidsrc=3&ecsid2=1120818059.1791692535&_tu=CBA&gcl_ctr=1~0~0~0&gap.last_random=0&gap.last_label=0&category=acrcp_v1_512&em=tv.1~em.kcAWPRuvZtZdAkVfGlS5h9jMygNjJ8lO9iNta3jV-xA&emd=tvd.1~i1.fem.ma.r25.n25.lSPAN.s!b64!Ym9keT4ud3JhcDpudGgtY2hpbGQoMTYpPi5mb290ZXI6bnRoLWNoaWxkKDM4KT4ubC0&ept=5&ct_cookie_present=false&eoid=CkQKEAjwxKfWBhCG2snu9uSwsCESMAC2uJsICak3rrUYRWy0s8yfCx4SegoG8p4zMkurRDmCI9YtCk9CRODnI99mYhV91_D_BwE&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCIfbsQII08WxAgjrzLECCO3OsQII1c-xAgiK8rECCIvysQII9NqxAgji6rECCOjusQIIkuuxAgjJ47ECCJfUsQIIyduxAgjN5rECCKbdsQIIsN6xAgiA27ECCM3hsQJKGXRyaWdnZXI9bmF2aWdhdGlvbi1zb3VyY2VaAwoBAWIDCgED&cerd=CgjI7L4tnem3OA&fsk=ChAI8MSn1gYQ6-GJlaqKz_8jEiwAXuLv_buNUnPdtLo7FWoUwwXmgqbO6MKdDNOgN13V9eCwJEhNiZBoCf0QjhoChr8&pscrd=IhMIi4Lh6I6xlwMVtwiOBR22Ogp5OhpodHRwczovL3Nob3AudHdvcmxkLmNvLmtyL0JYQ2hFSThNU24xZ1lRNnFlaThhUHFydE9TQVJJdEFJenUxN2t4Q3FlaTVIOEhZbEE2VGhUeUlkMi1LaDMxSnJRNXpKWk5hSEsxZGRQdDdKT2ZWdWk2VnU2bXoMCAliCAgAEAAYACAA&is_vtc=1&cid=CAQS4QEAQM4h3D4v3SZSXQgZqghJiF68s8A2Bz5-nYaIaXW0hPZa7M53oVW2LqQjeNxCix8hvCbB_-zlwQEzdLQ85q-hocpVhtxhkD3Cxjawbr5lqmWNP8y3IgWE00_y1kPjpYfpDJd9RNcpbO6izFsCD9etQU7Tq3tPhlMfw2G_nFvdEHf_dNhzIdC-GM0m70H4d-qJjl62lDNtha3RAau_tncl5p2cj-IeELnIlA4NgfbGjO_qhXf-v3EFUVMMz4x3yVPI2FUUAcDQ0td-xQvKpY-IIsap56SEZb48JmwYe8T1lx8&eitems=ChAI8MSn1gYQ6a2f4I_5kMkGEh0Aniu5hIg4qGHxyeYpvlOEsg2g6gATYauamxalMw&random=287543219",
+        "method": "GET",
+        "resourceType": "fetch",
+        "status": 200,
+        "contentType": "",
+        "postData": "",
+        "bodyLength": 17,
+        "keywordHit": false,
+        "botChallenge": false,
+        "bodyFile": "resp_139.txt"
+      },
+      {
+        "url": "https://jscdn.appier.net/aa.js?id=shop.tworld.co.kr",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "text/javascript; charset=utf-8",
+        "postData": ""
+      },
+      {
+        "url": "https://m2a0406a0524-is5qnl632q-uc.a.run.app/events?cee=no",
+        "method": "POST",
+        "resourceType": "fetch",
+        "status": 200,
+        "contentType": "application/json",
+        "postData": "{\"event_name\":\"PageView\",\"smart_setup\":{\"auto_web_details_data\":\"{\\\"availability\\\":[{\\\"rid\\\":\\\"1829502471744193\\\",\\\"v\\\":[\\\"in stock\\\"]}],\\\"price\\\":[{\\\"rid\\\":\\\"1577917773967048\\\",\\\"v\\\":[\\\"지원금\\\"]}],\\\"page_description\\\":[{\\\"rid\\\":\\\"1076391981696169\\\",\\\"v\\\":[\\\"가입 유형\\\\n기기변경\\\\n번호이동\\\\n신규가입\\\"]}],\\\"variant_presence\\\":[{\\\"rid\\\":\\\"1799837954697607\\\",\\\"v\\\":[\\\"no_variant\\\"]}],\\\"free_shipping\\\":[{\\\"rid\\\":\\\"1772536060452103\\\",\\\"v\\\":[\\\"false\\\"]}]}\",\"is_auto_web_details\":true,\"auto_web_details_filtered_fields\":\"{\\\"currency\\\":{\\\"tv\\\":2,\\\"rules\\\":{\\\"1352300576289742\\\":1,\\\"1373487814902320\\\":1}}}\"},\"event_id\":\"ob3_plugin-set_919a91831def69a9ba60abe86d0f1211c5125b40fcb9b68fc2b8981f0aa8ae45\",\"fb.pixel_id\":\"2861648447537422\",\"website_context\":{\"location\":\"https://shop.tworld.co.kr/notice\",\"referrer\":\"https://shop.tworld.co.kr/nf/index_nf_yp_subscribe.html\",\"isInIFrame\":false},\"fb.fbp\":\"fb.2.1791692534359.82715388262717807\"}",
+        "bodyLength": 17,
+        "keywordHit": false,
+        "botChallenge": false,
+        "bodyFile": "resp_141.txt"
+      },
+      {
+        "url": "https://mpc-prod-27-s6uit34pua-uk.a.run.app/events?cee=no",
+        "method": "POST",
+        "resourceType": "fetch",
+        "status": 200,
+        "contentType": "application/json",
+        "postData": "{\"event_name\":\"PageView\",\"smart_setup\":{\"auto_web_details_data\":\"{\\\"availability\\\":[{\\\"rid\\\":\\\"1829502471744193\\\",\\\"v\\\":[\\\"in stock\\\"]}],\\\"price\\\":[{\\\"rid\\\":\\\"1577917773967048\\\",\\\"v\\\":[\\\"지원금\\\"]}],\\\"page_description\\\":[{\\\"rid\\\":\\\"1076391981696169\\\",\\\"v\\\":[\\\"가입 유형\\\\n기기변경\\\\n번호이동\\\\n신규가입\\\"]}],\\\"variant_presence\\\":[{\\\"rid\\\":\\\"1799837954697607\\\",\\\"v\\\":[\\\"no_variant\\\"]}],\\\"free_shipping\\\":[{\\\"rid\\\":\\\"1772536060452103\\\",\\\"v\\\":[\\\"false\\\"]}]}\",\"is_auto_web_details\":true,\"auto_web_details_filtered_fields\":\"{\\\"currency\\\":{\\\"tv\\\":2,\\\"rules\\\":{\\\"1352300576289742\\\":1,\\\"1373487814902320\\\":1}}}\"},\"event_id\":\"ob3_plugin-set_ee4dc8c01fbd038ffc0710467590f817b23bc1611f28b6ab91480e59d0b93a04\",\"fb.pixel_id\":\"1527596801758532\",\"website_context\":{\"location\":\"https://shop.tworld.co.kr/notice\",\"referrer\":\"https://shop.tworld.co.kr/nf/index_nf_yp_subscribe.html\",\"isInIFrame\":false},\"fb.fbp\":\"fb.2.1791692534359.82715388262717807\"}",
+        "bodyLength": 17,
+        "keywordHit": false,
+        "botChallenge": false,
+        "bodyFile": "resp_142.txt"
+      },
+      {
+        "url": "https://v5-b75ccb2b73c54aa4a5098ab7f8533696.ecs.us-east-2.on.aws/events?cee=no",
+        "method": "POST",
+        "resourceType": "fetch",
+        "status": 200,
+        "contentType": "application/json",
+        "postData": "{\"event_name\":\"PageView\",\"smart_setup\":{\"auto_web_details_data\":\"{\\\"availability\\\":[{\\\"rid\\\":\\\"1829502471744193\\\",\\\"v\\\":[\\\"in stock\\\"]}],\\\"price\\\":[{\\\"rid\\\":\\\"1577917773967048\\\",\\\"v\\\":[\\\"지원금\\\"]}],\\\"page_description\\\":[{\\\"rid\\\":\\\"1076391981696169\\\",\\\"v\\\":[\\\"가입 유형\\\\n기기변경\\\\n번호이동\\\\n신규가입\\\"]}],\\\"variant_presence\\\":[{\\\"rid\\\":\\\"1799837954697607\\\",\\\"v\\\":[\\\"no_variant\\\"]}],\\\"free_shipping\\\":[{\\\"rid\\\":\\\"1772536060452103\\\",\\\"v\\\":[\\\"false\\\"]}]}\",\"is_auto_web_details\":true,\"auto_web_details_filtered_fields\":\"{\\\"currency\\\":{\\\"tv\\\":2,\\\"rules\\\":{\\\"1352300576289742\\\":1,\\\"1373487814902320\\\":1}}}\"},\"event_id\":\"ob3_plugin-set_f3233b827229a695de2fbe510f0fbd415d40a7c032cd50121d4a6a6db5efec4e\",\"fb.pixel_id\":\"2006307010057253\",\"website_context\":{\"location\":\"https://shop.tworld.co.kr/notice\",\"referrer\":\"https://shop.tworld.co.kr/nf/index_nf_yp_subscribe.html\",\"isInIFrame\":false},\"fb.fbp\":\"fb.2.1791692534359.82715388262717807\"}",
+        "bodyLength": 17,
+        "keywordHit": false,
+        "botChallenge": false,
+        "bodyFile": "resp_143.txt"
+      },
+      {
+        "url": "https://v5-b75ccb2b73c54aa4a5098ab7f8533696.ecs.us-east-2.on.aws/events?cee=no",
+        "method": "POST",
+        "resourceType": "fetch",
+        "status": 200,
+        "contentType": "application/json",
+        "postData": "{\"event_name\":\"PageView\",\"smart_setup\":{\"auto_web_details_data\":\"{\\\"availability\\\":[{\\\"rid\\\":\\\"1829502471744193\\\",\\\"v\\\":[\\\"in stock\\\"]}],\\\"price\\\":[{\\\"rid\\\":\\\"1577917773967048\\\",\\\"v\\\":[\\\"지원금\\\"]}],\\\"page_description\\\":[{\\\"rid\\\":\\\"1076391981696169\\\",\\\"v\\\":[\\\"가입 유형\\\\n기기변경\\\\n번호이동\\\\n신규가입\\\"]}],\\\"variant_presence\\\":[{\\\"rid\\\":\\\"1799837954697607\\\",\\\"v\\\":[\\\"no_variant\\\"]}],\\\"free_shipping\\\":[{\\\"rid\\\":\\\"1772536060452103\\\",\\\"v\\\":[\\\"false\\\"]}]}\",\"is_auto_web_details\":true,\"auto_web_details_filtered_fields\":\"{\\\"currency\\\":{\\\"tv\\\":2,\\\"rules\\\":{\\\"1352300576289742\\\":1,\\\"1373487814902320\\\":1}}}\"},\"event_id\":\"ob3_plugin-set_fbb4bce9b9289b4ecf6f1faa9a06aa98a082f75411e546ed687a239b0dadfa56\",\"fb.pixel_id\":\"2006307010057253\",\"website_context\":{\"location\":\"https://shop.tworld.co.kr/notice\",\"referrer\":\"https://shop.tworld.co.kr/nf/index_nf_yp_subscribe.html\",\"isInIFrame\":false},\"fb.fbp\":\"fb.2.1791692534359.82715388262717807\"}",
+        "bodyLength": 17,
+        "keywordHit": false,
+        "botChallenge": false,
+        "bodyFile": "resp_144.txt"
+      },
+      {
+        "url": "https://od-18c216b54e2045bdbb2d2f70bc4834b0.ecs.us-east-2.on.aws/events?cee=no",
+        "method": "POST",
+        "resourceType": "fetch",
+        "status": 200,
+        "contentType": "application/json",
+        "postData": "{\"event_name\":\"PageView\",\"smart_setup\":{\"auto_web_details_data\":\"{\\\"availability\\\":[{\\\"rid\\\":\\\"1829502471744193\\\",\\\"v\\\":[\\\"in stock\\\"]}],\\\"price\\\":[{\\\"rid\\\":\\\"1577917773967048\\\",\\\"v\\\":[\\\"지원금\\\"]}],\\\"page_description\\\":[{\\\"rid\\\":\\\"1076391981696169\\\",\\\"v\\\":[\\\"가입 유형\\\\n기기변경\\\\n번호이동\\\\n신규가입\\\"]}],\\\"variant_presence\\\":[{\\\"rid\\\":\\\"1799837954697607\\\",\\\"v\\\":[\\\"no_variant\\\"]}],\\\"free_shipping\\\":[{\\\"rid\\\":\\\"1772536060452103\\\",\\\"v\\\":[\\\"false\\\"]}]}\",\"is_auto_web_details\":true,\"auto_web_details_filtered_fields\":\"{\\\"currency\\\":{\\\"tv\\\":2,\\\"rules\\\":{\\\"1352300576289742\\\":1,\\\"1373487814902320\\\":1}}}\"},\"event_id\":\"ob3_plugin-set_3567033bac8e61c4d7941998fbb14d0b7ca9514213c5462042508223948d18ec\",\"fb.pixel_id\":\"1652115363082547\",\"website_context\":{\"location\":\"https://shop.tworld.co.kr/notice\",\"referrer\":\"https://shop.tworld.co.kr/nf/index_nf_yp_subscribe.html\",\"isInIFrame\":false},\"fb.fbp\":\"fb.2.1791692534359.82715388262717807\"}",
+        "bodyLength": 17,
+        "keywordHit": false,
+        "botChallenge": false,
+        "bodyFile": "resp_145.txt"
+      },
+      {
+        "url": "https://od-18c216b54e2045bdbb2d2f70bc4834b0.ecs.us-east-2.on.aws/events?cee=no",
+        "method": "POST",
+        "resourceType": "fetch",
+        "status": 200,
+        "contentType": "application/json",
+        "postData": "{\"event_name\":\"PageView\",\"smart_setup\":{\"auto_web_details_data\":\"{\\\"availability\\\":[{\\\"rid\\\":\\\"1829502471744193\\\",\\\"v\\\":[\\\"in stock\\\"]}],\\\"price\\\":[{\\\"rid\\\":\\\"1577917773967048\\\",\\\"v\\\":[\\\"지원금\\\"]}],\\\"page_description\\\":[{\\\"rid\\\":\\\"1076391981696169\\\",\\\"v\\\":[\\\"가입 유형\\\\n기기변경\\\\n번호이동\\\\n신규가입\\\"]}],\\\"variant_presence\\\":[{\\\"rid\\\":\\\"1799837954697607\\\",\\\"v\\\":[\\\"no_variant\\\"]}],\\\"free_shipping\\\":[{\\\"rid\\\":\\\"1772536060452103\\\",\\\"v\\\":[\\\"false\\\"]}]}\",\"is_auto_web_details\":true,\"auto_web_details_filtered_fields\":\"{\\\"currency\\\":{\\\"tv\\\":2,\\\"rules\\\":{\\\"1352300576289742\\\":1,\\\"1373487814902320\\\":1}}}\"},\"event_id\":\"ob3_plugin-set_030f4ba439a0974f9de97ac12b4bbdf6069780b6c0a1a5bebec18246860c9bea\",\"fb.pixel_id\":\"1652115363082547\",\"website_context\":{\"location\":\"https://shop.tworld.co.kr/notice\",\"referrer\":\"https://shop.tworld.co.kr/nf/index_nf_yp_subscribe.html\",\"isInIFrame\":false},\"fb.fbp\":\"fb.2.1791692534359.82715388262717807\"}",
+        "bodyLength": 17,
+        "keywordHit": false,
+        "botChallenge": false,
+        "bodyFile": "resp_146.txt"
+      },
+      {
+        "url": "https://anylist.c.appier.net/r2?country=US&enable_cookie_sync=1&url=https%3A%2F%2Fshop.tworld.co.kr%2Fnotice&referer=https%3A%2F%2Fshop.tworld.co.kr%2Fnf%2Findex_nf_yp_subscribe.html&ssid=IBwa56DhDU0ngcz6dPcww5&sessidx=1&siteuid=_qsqGjv_GvhhBeMr&appier_utmz={%22csr%22:%22shop.tworld.co.kr%22,%22timestamp%22:1791692536}&_t=1791692536301&_tz=0&uc=US&tv=2.8.0&eqid=kAAuMjBkEWJxEMhZ&site=shop.tworld.co.kr&fbp=fb.2.1791692534359.82715388262717807&lt=3528",
+        "method": "GET",
+        "resourceType": "xhr",
+        "status": 307,
+        "contentType": "text/html",
+        "postData": "",
+        "bodyLength": 17,
+        "keywordHit": false,
+        "botChallenge": false,
+        "bodyFile": "resp_147.txt"
+      },
+      {
+        "url": "https://s.c.appier.net/aprcm?a_i=%2Fr2%3Fcountry%3DUS%26enable_cookie_sync%3D1%26url%3Dhttps%253A%252F%252Fshop.tworld.co.kr%252Fnotice%26referer%3Dhttps%253A%252F%252Fshop.tworld.co.kr%252Fnf%252Findex_nf_yp_subscribe.html%26ssid%3DIBwa56DhDU0ngcz6dPcww5%26sessidx%3D1%26siteuid%3D_qsqGjv_GvhhBeMr%26appier_utmz%3D%7B%2522csr%2522%3A%2522shop.tworld.co.kr%2522%2C%2522timestamp%2522%3A1791692536%7D%26_t%3D1791692536301%26_tz%3D0%26uc%3DUS%26tv%3D2.8.0%26eqid%3DkAAuMjBkEWJxEMhZ%26site%3Dshop.tworld.co.kr%26fbp%3Dfb.2.1791692534359.82715388262717807%26lt%3D3528&gdpr=0&gdpr_consent=",
+        "method": "GET",
+        "resourceType": "xhr",
+        "status": 302,
+        "contentType": "",
+        "postData": "",
+        "bodyLength": 17,
+        "keywordHit": true,
+        "botChallenge": false,
+        "bodyFile": "resp_148.txt"
+      },
+      {
+        "url": "https://www.clarity.ms/tag/hihvw47l43",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/x-javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://scripts.clarity.ms/0.8.72/clarity.js",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript;charset=utf-8",
+        "postData": ""
+      },
+      {
+        "url": "https://anylist.c.appier.net/r2?country=US&enable_cookie_sync=1&url=https%3A%2F%2Fshop.tworld.co.kr%2Fnotice&referer=https%3A%2F%2Fshop.tworld.co.kr%2Fnf%2Findex_nf_yp_subscribe.html&ssid=IBwa56DhDU0ngcz6dPcww5&sessidx=1&siteuid=_qsqGjv_GvhhBeMr&appier_utmz={%22csr%22:%22shop.tworld.co.kr%22,%22timestamp%22:1791692536}&_t=1791692536301&_tz=0&uc=US&tv=2.8.0&eqid=kAAuMjBkEWJxEMhZ&site=shop.tworld.co.kr&fbp=fb.2.1791692534359.82715388262717807&lt=3528&noredir=1",
+        "method": "GET",
+        "resourceType": "xhr",
+        "status": 200,
+        "contentType": "application/json",
+        "postData": "",
+        "bodyLength": 10,
+        "keywordHit": false,
+        "botChallenge": false,
+        "bodyFile": "resp_151.txt"
+      },
+      {
+        "url": "https://b.clarity.ms/collect",
+        "error": "UnicodeDecodeError"
+      },
+      {
+        "url": "https://b.clarity.ms/collect",
+        "error": "UnicodeDecodeError"
+      },
+      {
+        "url": "https://shop.tworld.co.kr/api/wireless/trgt-supm/trigger-offer",
+        "method": "POST",
+        "resourceType": "xhr",
+        "status": 200,
+        "contentType": "application/json;charset=UTF-8",
+        "postData": "trgrCd=06&productGrpId=",
+        "bodyLength": 899,
+        "keywordHit": true,
+        "botChallenge": false,
+        "bodyFile": "resp_154.txt"
+      },
+      {
+        "url": "https://b.clarity.ms/collect",
+        "error": "UnicodeDecodeError"
+      },
+      {
+        "url": "https://b.clarity.ms/collect",
+        "error": "UnicodeDecodeError"
+      },
+      {
+        "url": "https://b.clarity.ms/collect",
+        "error": "UnicodeDecodeError"
+      }
+    ]
+  },
+  {
+    "carrier": "KT",
+    "url": "https://shop.kt.com/smart/supportAmtList.do",
+    "robotsAllowed": true,
+    "blocked403": 0,
+    "requests": [
+      {
+        "url": "https://shop.kt.com/smart/supportAmtList.do",
+        "method": "GET",
+        "resourceType": "document",
+        "status": 200,
+        "contentType": "text/html;charset=UTF-8",
+        "postData": ""
+      },
+      {
+        "url": "https://www.google.com/recaptcha/api.js?render=6Ldw7PMrAAAAAJm1Z8rImRNUUSMUYZTbfMjGTjlj",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "text/javascript; charset=utf-8",
+        "postData": ""
+      },
+      {
+        "url": "https://shop.kt.com/js/pc/common/redirectMobileWeb.js",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/js; charset=utf-8",
+        "postData": ""
+      },
+      {
+        "url": "https://shop.kt.com/js/pc/common/gaShopMng.js",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/js; charset=utf-8",
+        "postData": ""
+      },
+      {
+        "url": "https://log.onmas.kt.com/js/targetOffer_shop.js",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://log.onmas.kt.com/js/logCollect_shop.js",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://shop.kt.com/js/pc/common/adobeShopMng.js",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/js; charset=utf-8",
+        "postData": ""
+      },
+      {
+        "url": "https://shop.kt.com/common/pc/js/shopLayer.js",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/js; charset=utf-8",
+        "postData": ""
+      },
+      {
+        "url": "https://shop.kt.com/common/pc/js/jquery.bxslider.min.js",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/js; charset=utf-8",
+        "postData": ""
+      },
+      {
+        "url": "https://shop.kt.com/common/pc/js/kt_common.js",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/js; charset=utf-8",
+        "postData": ""
+      },
+      {
+        "url": "https://shop.kt.com/seo/shop_seo.js?version=20261011132233",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/js; charset=utf-8",
+        "postData": ""
+      },
+      {
+        "url": "https://shop.kt.com/common/pc/js/kt_menuUI.js",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/js; charset=utf-8",
+        "postData": ""
+      },
+      {
+        "url": "https://shop.kt.com/common/pc/js/kt_gnbUI.js",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/js; charset=utf-8",
+        "postData": ""
+      },
+      {
+        "url": "https://cfm.kt.com/js/common/global/KTGlobal.js",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://shop.kt.com/wcms/disp/keyword.js",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/js; charset=utf-8",
+        "postData": ""
+      },
+      {
+        "url": "https://shop.kt.com/common/pc/js/autoComplete.js",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/js; charset=utf-8",
+        "postData": ""
+      },
+      {
+        "url": "https://shop.kt.com/common/pc/js/jquery-1.11.3.min.js",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/js; charset=utf-8",
+        "postData": ""
+      },
+      {
+        "url": "https://shop.kt.com/common/pc/js/plugin/jquery.mousewheel.js",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/js; charset=utf-8",
+        "postData": ""
+      },
+      {
+        "url": "https://shop.kt.com/common/pc/js/jquery.cookie.js",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/js; charset=utf-8",
+        "postData": ""
+      },
+      {
+        "url": "https://shop.kt.com/common/pc/js/menuTrack.js",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/js; charset=utf-8",
+        "postData": ""
+      },
+      {
+        "url": "https://shop.kt.com/common/pc/js/plugin/jquery.easing.1.3.js",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/js; charset=utf-8",
+        "postData": ""
+      },
+      {
+        "url": "https://shop.kt.com/js/pc/common/searchMng.js",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/js; charset=utf-8",
+        "postData": ""
+      },
+      {
+        "url": "https://shop.kt.com/js/pc/common/wingbanner.js",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/js; charset=utf-8",
+        "postData": ""
+      },
+      {
+        "url": "https://shop.kt.com/common/pc/js/plugin/mCustomScrollbar/jquery.mCustomScrollbar.min.js",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/js; charset=utf-8",
+        "postData": ""
+      },
+      {
+        "url": "https://shop.kt.com/js/common/ollehShopCommon.js?version=20200128",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/js; charset=utf-8",
+        "postData": ""
+      },
+      {
+        "url": "https://shop.kt.com/js/pc/common/snslink.js",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/js; charset=utf-8",
+        "postData": ""
+      },
+      {
+        "url": "https://shop.kt.com/js/rsa/jsbn.js",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/js; charset=utf-8",
+        "postData": ""
+      },
+      {
+        "url": "https://shop.kt.com/js/common/validator.js?ver=202610111322",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/js; charset=utf-8",
+        "postData": ""
+      },
+      {
+        "url": "https://shop.kt.com/js/rsa/rng.js",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/js; charset=utf-8",
+        "postData": ""
+      },
+      {
+        "url": "https://shop.kt.com/js/rsa/rsa.js",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/js; charset=utf-8",
+        "postData": ""
+      },
+      {
+        "url": "https://shop.kt.com/js/rsa/prng4.js",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/js; charset=utf-8",
+        "postData": ""
+      },
+      {
+        "url": "https://shop.kt.com/js/common/google.recaptcha.js?ver=202610111322",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/js; charset=utf-8",
+        "postData": ""
+      },
+      {
+        "url": "https://shop.kt.com/js/pc/smart/supports/supportAmt.list.js?ver=202610111322",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/js; charset=utf-8",
+        "postData": ""
+      },
+      {
+        "url": "https://shop.kt.com/js/mobile/smart/supports/punoChngNoti.view.js?ver=202610111322",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/js; charset=utf-8",
+        "postData": ""
+      },
+      {
+        "url": "https://shop.kt.com/unify/pc/js/mobile/order/prod_list/prod_list.js?ver=202610111322",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/js; charset=utf-8",
+        "postData": ""
+      },
+      {
+        "url": "https://cfm.kt.com/js/cl/plugin/mCustomScrollbar/jquery.mCustomScrollbar.min.js",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://cfm.kt.com/js/v2/plugin/jquery-3.6.0.min.js",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://cfm.kt.com/js/v2/plugin/jquery.bxslider.js?version=26082001a",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://cfm.kt.com/js/v2/plugin/gsap.min.js",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://cfm.kt.com/js/v2/common/common_log.js?version=26082001a",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://cfm.kt.com/js/v2/common/kt_api.js?version=26082001a",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://cfm.kt.com/js/v2/common/kt_offer_new.js?version=26082001a",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://cfm.kt.com/js/v2/common/kt_common.js?version=26082001a",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://cfm.kt.com/js/v2/common/kt_ui_new.js?version=26082001a",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://cfm.kt.com/js/v2/common/kt_gnb_new.js?version=26082001a",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://cfm.kt.com/js/v2/common/kt_floating_new.js?version=26082001a",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://cfm.kt.com/js/v2/plugin/jquery-ui.min.js",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://cfm.kt.com/js/v2/common/kt_footer.js?version=26082001a",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://cfm.kt.com/js/v2/common/kt_notice_new.js?version=26082001a",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://cfm.kt.com/js/v2/common/kt_search.js?version=26082001a",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://cfm.kt.com/js/sdp/check_utf.js?version=26082001a",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://cfm.kt.com/js/integrate/kLogcode.js?version=26082001a",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://cfm.kt.com/js/GA/staticsLogcodeBuilder.js?version=26082001a",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://cfm.kt.com/js/common/global/oms.js?version=26082001a",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://cfm.kt.com/js/json/code_json_data.js?version=26082001a",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://cfm.kt.com/js/json/cl_gnb_channel.js?version=202610114",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://cfm.kt.com/js/json/cl_gnb_top.js?version=202610114",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://cdn-aitg.widerplanet.com/js/wp_astg_4.0.js",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://cdnjs.cloudflare.com/ajax/libs/jquery-mousewheel/3.1.13/jquery.mousewheel.min.js",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript; charset=utf-8",
+        "postData": ""
+      },
+      {
+        "url": "https://cfm.kt.com/js/json/cl_gnb_menu.js?version=202610114",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://cfm.kt.com/js/json/shop_gnb_direct_before.js?version=202610114",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://cfm.kt.com/js/json/cl_gnb_recommend_new.js?version=202610114",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://cfm.kt.com/js/json/cl_smarttalk_txt.js?version=202610114",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://cfm.kt.com/js/json/shop_footer_html.js?version=202610114",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://cfm.kt.com/js/json/shop-ga_logUse_html.js?version=26043001a",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://cfm.kt.com/js/GA/staticsLogcodeBuilderUrl.js?version=26043001a",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://cfm.kt.com/js/json/shop-oms_logUse_html.js?version=26043001a",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://cfm.kt.com/js/json/shop-gtm_logUse_html.js?version=26043001a",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://cfm.kt.com/js/adobe/s_codeLaunch.js?version=26043001a",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://cfm.kt.com/js/GA/staticsGoogleAnalyticsBuilder.js?version=26043001a",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://cfm.kt.com/js/GA/g_code.js?version=26043001a",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://cfm.kt.com/js/GA/g_basicCode.js?version=26043001a",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://www.google-analytics.com/analytics.js",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "text/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://log.onmas.kt.com/js/targetOffer.js?version=26082001a",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://log.onmas.kt.com/js/logCollect.js?version=26082001a",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://www.googletagmanager.com/gtm.js?id=GTM-58C5PQKT",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript; charset=UTF-8",
+        "postData": ""
+      },
+      {
+        "url": "https://www.google.com/ccm/collect?rcb=18&frm=0&apvc=1&ae=g&auid=239577225.1791692559&dt=%ED%9C%B4%EB%8C%80%ED%8F%B0%20%EC%A7%80%EC%9B%90%EA%B8%88%20%7C%20%EB%B3%B8%EC%82%AC%EC%A7%81%EC%98%81%20%EC%98%A8%EB%9D%BC%EC%9D%B8%EC%83%B5%20%7C%20KT%20%EB%8B%A4%EC%9D%B4%EB%A0%89%ED%8A%B8%EC%83%B5&en=page_view&dl=https%3A%2F%2Fshop.kt.com%2Fsmart%2FsupportAmtList.do&scrsrc=www.googletagmanager.com&rnd=1634249269.1791692559&navt=n&npa=0&ep.ads_data_redaction=0&gtm=45He6a72v9232329743za200zd9232329743xeaxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~117776795~118897920~118897930~120385422~120469145~120469153~121046263~121046271~121246026~121246034&tft=1791692558831&tfd=5286&_gsid=MsvCITwh8-0WecW6YGpy3WtQ_fogcZDiLQ&fmt=8",
+        "method": "POST",
+        "resourceType": "fetch",
+        "status": 200,
+        "contentType": "",
+        "postData": "",
+        "bodyLength": 17,
+        "keywordHit": true,
+        "botChallenge": false,
+        "bodyFile": "resp_076.txt"
+      },
+      {
+        "url": "https://ad.doubleclick.net/ccm/s/collect?_gsid=MsvCITwh8-0WecW6YGpy3WtQ_fogcZDiLQ&auid=239577225.1791692559&gtm=45He6a72v9232329743za200zd9232329743xeaxf1&fmt=8",
+        "method": "POST",
+        "resourceType": "fetch",
+        "status": 204,
+        "contentType": "",
+        "postData": "",
+        "bodyLength": 17,
+        "keywordHit": false,
+        "botChallenge": false,
+        "bodyFile": "resp_077.txt"
+      },
+      {
+        "url": "https://www.google-analytics.com/gtm/js?id=GTM-KZPKL2N&cid=960954799.1791692559",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript; charset=UTF-8",
+        "postData": ""
+      },
+      {
+        "url": "https://connect.facebook.net/en_US/fbevents.js",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/x-javascript; charset=utf-8",
+        "postData": ""
+      },
+      {
+        "url": "https://www.gstatic.com/recaptcha/releases/nY0xPItgwtlvjEjk2TqdwOQz/recaptcha__ko.js",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "text/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://karrot-pixel.business.daangn.com/0.4/karrot-pixel.umd.js",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "text/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://dynamic.criteo.com/js/ld/ld.js?a=103126",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript; charset=utf-8",
+        "postData": ""
+      },
+      {
+        "url": "https://tags.creativecdn.com/QxEHbDjKnWt4C63LUvUH.js",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://www.googletagmanager.com/gtag/js?id=G-2PNK2NP9YW&cx=c&gtm=4e6a72",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript; charset=UTF-8",
+        "postData": ""
+      },
+      {
+        "url": "https://www.googletagmanager.com/gtag/js?id=AW-447459740&cx=c&gtm=4e6a72",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript; charset=UTF-8",
+        "postData": ""
+      },
+      {
+        "url": "https://t1.daumcdn.net/kas/static/kp.js",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "text/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://shop.kt.com/common/menuCodePop.json",
+        "method": "POST",
+        "resourceType": "xhr",
+        "status": 200,
+        "contentType": "text/plain;charset=UTF-8",
+        "postData": "codePop=STOR010501",
+        "bodyLength": 20,
+        "keywordHit": false,
+        "botChallenge": false,
+        "bodyFile": "resp_087.txt"
+      },
+      {
+        "url": "https://wcs.naver.net/wcslog.js",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://www.google-analytics.com/j/collect?v=1&_v=j102&a=1247032724&t=pageview&_s=1&dl=https%3A%2F%2Fshop.kt.com%2Fsmart%2FsupportAmtList.do&ul=ko-kr&dt=%ED%9C%B4%EB%8C%80%ED%8F%B0%20%EC%A7%80%EC%9B%90%EA%B8%88%20%7C%20%EB%B3%B8%EC%82%AC%EC%A7%81%EC%98%81%20%EC%98%A8%EB%9D%BC%EC%9D%B8%EC%83%B5%20%7C%20KT%20%EB%8B%A4%EC%9D%B4%EB%A0%89%ED%8A%B8%EC%83%B5&sr=1400x1000&vp=1400x1000&_u=aGDACEADRAAAACAAI~&jid=2081252090&gjid=223086470&cid=960954799.1791692559&tid=UA-100874847-2&_gid=959146230.1791692559&_r=1&_slc=1&cd1=N&cd20=960954799.1791692559&z=1775225679",
+        "method": "POST",
+        "resourceType": "xhr",
+        "status": 200,
+        "contentType": "text/plain",
+        "postData": "",
+        "bodyLength": 15,
+        "keywordHit": true,
+        "botChallenge": false,
+        "bodyFile": "resp_089.txt"
+      },
+      {
+        "url": "https://connect.facebook.net/signals/config/579557616872416?v=2.9.415&r=stable&domain=shop.kt.com&hme=a4c28c8787325ac3f8f9eac68364f47df2a8c4266e43177443e5d7f6289c9774&ex_m=117%2C240%2C170%2C27%2C81%2C82%2C161%2C77%2C76%2C11%2C180%2C101%2C20%2C152%2C140%2C46%2C84%2C89%2C148%2C175%2C182%2C8%2C4%2C5%2C7%2C6%2C3%2C102%2C114%2C32%2C17%2C31%2C18%2C33%2C34%2C35%2C37%2C55%2C162%2C86%2C125%2C22%2C24%2C51%2C47%2C49%2C48%2C94%2C103%2C107%2C123%2C159%2C163%2C53%2C124%2C29%2C26%2C132%2C78%2C43%2C165%2C164%2C166%2C156%2C154%2C30%2C42%2C66%2C122%2C177%2C79%2C21%2C127%2C92%2C75%2C23%2C96%2C97%2C129%2C95%2C150%2C149%2C153%2C108%2C176%2C179%2C41%2C56%2C126%2C54%2C160%2C71%2C184%2C109%2C183%2C209%2C254%2C83%2C273%2C272%2C271%2C14%2C25%2C28%2C40%2C62%2C116%2C68%2C10%2C72%2C110%2C111%2C112%2C118%2C143%2C38%2C36%2C145%2C146%2C147%2C142%2C141%2C171%2C85%2C174%2C172%2C173%2C57%2C67%2C136%2C19%2C178%2C52%2C322%2C323%2C324%2C321%2C337%2C359%2C247%2C236%2C69%2C237%2C235%2C362%2C353%2C59%2C248%2C120%2C144%2C91%2C134%2C61%2C133%2C139%2C138%2C65%2C73%2C167%2C87%2C88%2C128%2C44%2C39%2C60%2C63%2C113%2C181%2C1%2C137%2C16%2C135%2C12%2C2%2C64%2C104%2C15%2C74%2C70%2C131%2C100%2C99%2C186%2C187%2C105%2C106%2C9%2C115%2C185%2C58%2C157%2C98%2C90%2C80%2C130%2C119%2C168%2C50%2C158%2C0%2C93%2C151%2C155%2C169%2C45%2C121%2C13%2C188",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/x-javascript; charset=utf-8",
+        "postData": ""
+      },
+      {
+        "url": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6Ldw7PMrAAAAAJm1Z8rImRNUUSMUYZTbfMjGTjlj&co=aHR0cHM6Ly9zaG9wLmt0LmNvbTo0NDM.&hl=ko&v=nY0xPItgwtlvjEjk2TqdwOQz&size=invisible&anchor-ms=20000&execute-ms=30000&cb=d1oi6va9c7ay",
+        "method": "GET",
+        "resourceType": "document",
+        "status": 200,
+        "contentType": "text/html; charset=utf-8",
+        "postData": ""
+      },
+      {
+        "url": "https://pixelfnt-us.dsp-api.moloco.com/v1/cm/init?source=MOLOCO_PIXEL?mlc_cm",
+        "method": "GET",
+        "resourceType": "document",
+        "status": 200,
+        "contentType": "text/html; charset=utf-8",
+        "postData": ""
+      },
+      {
+        "url": "https://www.google-analytics.com/j/collect?v=1&_v=j102&a=1247032724&t=pageview&_s=1&dl=https%3A%2F%2Fshop.kt.com%2Fsmart%2FsupportAmtList.do&ul=ko-kr&dt=%ED%9C%B4%EB%8C%80%ED%8F%B0%20%EC%A7%80%EC%9B%90%EA%B8%88%20%7C%20%EB%B3%B8%EC%82%AC%EC%A7%81%EC%98%81%20%EC%98%A8%EB%9D%BC%EC%9D%B8%EC%83%B5%20%7C%20KT%20%EB%8B%A4%EC%9D%B4%EB%A0%89%ED%8A%B8%EC%83%B5&sr=1400x1000&vp=1400x1000&_u=aGDACEADRAAAACAAI~&jid=1426665377&gjid=2001832130&cid=960954799.1791692559&tid=UA-100874847-1&_gid=959146230.1791692559&_r=1&_slc=1&cd1=N&cd20=960954799.1791692559&z=1618144982",
+        "method": "POST",
+        "resourceType": "xhr",
+        "status": 200,
+        "contentType": "text/plain",
+        "postData": "",
+        "bodyLength": 15,
+        "keywordHit": true,
+        "botChallenge": false,
+        "bodyFile": "resp_093.txt"
+      },
+      {
+        "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/447459740/?random=1791692559527&cv=11&fst=1791692559527&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a72v9135494934za20ozb9232329743zd9232329743xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~117776795~118897920~118897930~120213116~120385423~120420416~120469145~120469153~121046263~121046271~121246026~121246034&u_w=1400&u_h=1000&url=https%3A%2F%2Fshop.kt.com%2Fsmart%2FsupportAmtList.do&rcb=9&frm=0&tiba=%ED%9C%B4%EB%8C%80%ED%8F%B0%20%EC%A7%80%EC%9B%90%EA%B8%88%20%7C%20%EB%B3%B8%EC%82%AC%EC%A7%81%EC%98%81%20%EC%98%A8%EB%9D%BC%EC%9D%B8%EC%83%B5%20%7C%20KT%20%EB%8B%A4%EC%9D%B4%EB%A0%89%ED%8A%B8%EC%83%B5&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=239577225.1791692559&uaa=x86&uab=64&uafvl=Not%253BA%253DBrand%3B99.0.0.0%7CHeadlessChrome%3B139.0.7258.5%7CChromium%3B139.0.7258.5&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "text/javascript; charset=UTF-8",
+        "postData": ""
+      },
+      {
+        "url": "https://gum.criteo.com/syncframe?topUrl=shop.kt.com&origin=onetag&ceid=4fe0c20d-63be-45f3-aa9a-32226ef16134",
+        "method": "GET",
+        "resourceType": "document",
+        "status": 200,
+        "contentType": "text/html; charset=utf-8",
+        "postData": ""
+      },
+      {
+        "url": "https://www.googletagmanager.com/gtag/js?id=G-Y4MDR6DY4Q&cx=c&_slc=1",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript; charset=UTF-8",
+        "postData": ""
+      },
+      {
+        "url": "https://www.google.com/ccm/collect?rcb=9&frm=0&apvc=0&auid=239577225.1791692559&dt=%ED%9C%B4%EB%8C%80%ED%8F%B0%20%EC%A7%80%EC%9B%90%EA%B8%88%20%7C%20%EB%B3%B8%EC%82%AC%EC%A7%81%EC%98%81%20%EC%98%A8%EB%9D%BC%EC%9D%B8%EC%83%B5%20%7C%20KT%20%EB%8B%A4%EC%9D%B4%EB%A0%89%ED%8A%B8%EC%83%B5&tid=AW-447459740&en=page_view&dl=https%3A%2F%2Fshop.kt.com%2Fsmart%2FsupportAmtList.do&scrsrc=www.googletagmanager.com&rnd=1634249269.1791692559&navt=n&npa=0&gtm=45be6a72v9135494934za20ozb9232329743zd9232329743xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~117776795~118897920~118897930~120213116~120385423~120420416~120469145~120469153~121046263~121046271~121246026~121246034&tft=1791692559590&tfd=6045&_gsid=MsvCITwh8-0WecW6YGpy3WtQ_fogcZDiLQ&tids=AW-447459740&fmt=8",
+        "method": "POST",
+        "resourceType": "fetch",
+        "status": 200,
+        "contentType": "",
+        "postData": "",
+        "bodyLength": 17,
+        "keywordHit": true,
+        "botChallenge": false,
+        "bodyFile": "resp_097.txt"
+      },
+      {
+        "url": "https://www.google.com/rmkt/collect/447459740/?random=1791692559527&cv=11&fst=1791692559527&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a72v9135494934za20ozb9232329743zd9232329743xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~117776795~118897920~118897930~120213116~120385423~120420416~120469145~120469153~121046263~121046271~121246026~121246034&u_w=1400&u_h=1000&url=https%3A%2F%2Fshop.kt.com%2Fsmart%2FsupportAmtList.do&rcb=9&frm=0&tiba=%ED%9C%B4%EB%8C%80%ED%8F%B0%20%EC%A7%80%EC%9B%90%EA%B8%88%20%7C%20%EB%B3%B8%EC%82%AC%EC%A7%81%EC%98%81%20%EC%98%A8%EB%9D%BC%EC%9D%B8%EC%83%B5%20%7C%20KT%20%EB%8B%A4%EC%9D%B4%EB%A0%89%ED%8A%B8%EC%83%B5&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=239577225.1791692559&uaa=x86&uab=64&uafvl=Not%253BA%253DBrand%3B99.0.0.0%7CHeadlessChrome%3B139.0.7258.5%7CChromium%3B139.0.7258.5&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=68&gcp=5",
+        "method": "POST",
+        "resourceType": "fetch",
+        "status": 200,
+        "contentType": "",
+        "postData": "",
+        "bodyLength": 17,
+        "keywordHit": true,
+        "botChallenge": false,
+        "bodyFile": "resp_098.txt"
+      },
+      {
+        "url": "https://www.gstatic.com/recaptcha/releases/nY0xPItgwtlvjEjk2TqdwOQz/recaptcha__ko.js",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "text/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://www.googletagmanager.com/gtag/js?id=G-9BBNKR783C&cx=c&_slc=1",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript; charset=UTF-8",
+        "postData": ""
+      },
+      {
+        "url": "https://connect.facebook.net/signals/config/886586232189360?v=2.9.415&r=stable&domain=shop.kt.com&hme=a4c28c8787325ac3f8f9eac68364f47df2a8c4266e43177443e5d7f6289c9774&ex_m=117%2C240%2C170%2C27%2C81%2C82%2C161%2C77%2C76%2C11%2C180%2C101%2C20%2C152%2C140%2C46%2C84%2C89%2C148%2C175%2C182%2C8%2C4%2C5%2C7%2C6%2C3%2C102%2C114%2C32%2C17%2C31%2C18%2C33%2C34%2C35%2C37%2C55%2C162%2C86%2C125%2C22%2C24%2C51%2C47%2C49%2C48%2C94%2C103%2C107%2C123%2C159%2C163%2C53%2C124%2C29%2C26%2C132%2C78%2C43%2C165%2C164%2C166%2C156%2C154%2C30%2C42%2C66%2C122%2C177%2C79%2C21%2C127%2C92%2C75%2C23%2C96%2C97%2C129%2C95%2C150%2C149%2C153%2C108%2C176%2C179%2C41%2C56%2C126%2C54%2C160%2C71%2C184%2C109%2C183%2C209%2C254%2C83%2C273%2C272%2C271%2C14%2C25%2C28%2C40%2C62%2C116%2C68%2C10%2C72%2C110%2C111%2C112%2C118%2C143%2C38%2C36%2C145%2C146%2C147%2C142%2C141%2C171%2C85%2C174%2C172%2C173%2C57%2C67%2C136%2C19%2C178%2C52%2C322%2C323%2C324%2C321%2C337%2C359%2C247%2C236%2C69%2C237%2C235%2C362%2C353%2C59%2C248%2C120%2C144%2C91%2C134%2C61%2C133%2C139%2C138%2C65%2C73%2C167%2C87%2C88%2C128%2C44%2C39%2C60%2C63%2C113%2C181%2C1%2C137%2C16%2C135%2C12%2C2%2C64%2C104%2C15%2C74%2C70%2C131%2C100%2C99%2C186%2C187%2C105%2C106%2C9%2C115%2C185%2C58%2C157%2C98%2C90%2C80%2C130%2C119%2C168%2C50%2C158%2C0%2C93%2C151%2C155%2C169%2C45%2C121%2C13%2C188%2C267%2C265%2C260%2C262%2C263%2C264%2C261%2C259%2C246%2C266%2C268%2C258%2C216%2C217%2C269%2C270%2C257%2C256%2C351%2C352%2C275%2C229%2C224%2C227%2C228%2C206%2C222%2C387%2C205%2C225%2C226%2C250%2C223%2C221%2C245%2C378%2C277%2C241%2C214%2C215%2C211%2C212%2C213%2C210%2C208%2C219%2C220%2C218%2C325%2C380%2C345%2C346%2C348%2C349%2C347%2C344%2C343%2C230%2C280%2C287%2C288%2C281%2C283%2C286%2C284%2C285%2C282%2C279%2C298%2C292%2C295%2C291%2C299%2C296%2C290%2C294%2C297%2C293%2C289%2C339%2C356",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/x-javascript; charset=utf-8",
+        "postData": ""
+      },
+      {
+        "url": "https://www.google.com/recaptcha/api2/webworker.js?hl=ko&v=nY0xPItgwtlvjEjk2TqdwOQz",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "text/javascript; charset=utf-8",
+        "postData": ""
+      },
+      {
+        "url": "https://cdn.onetag.co.kr/0/tcs.js?eid=qecoi75luoh0qecoi75luo",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "text/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://gum.criteo.com/sid/json?origin=onetag&domain=kt.com&sn=ChromeSyncframe&so=undefined&topUrl=shop.kt.com&ceid=4fe0c20d-63be-45f3-aa9a-32226ef16134",
+        "method": "GET",
+        "resourceType": "fetch",
+        "status": 200,
+        "contentType": "application/json; charset=utf-8",
+        "postData": "",
+        "bodyLength": 433,
+        "keywordHit": false,
+        "botChallenge": false,
+        "bodyFile": "resp_104.txt"
+      },
+      {
+        "url": "https://ssl.pstatic.net/melona/libs/gfp-nac-module/synchronizer.js",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://analytics.google.com/g/collect?v=2&tid=G-Y4MDR6DY4Q&gtm=45je6a72v9135219179za20gxf1&_p=1791692558548&_gaz=1&gcd=13l3l3l3l2l1&npa=0&dma=0&_eu=EBAIAGAC&are=1&cid=960954799.1791692559&frm=0&ir=1&pscdl=noapi&rcb=8&sr=1400x1000&uaa=x86&uab=64&uafvl=Not%253BA%253DBrand%3B99.0.0.0%7CHeadlessChrome%3B139.0.7258.5%7CChromium%3B139.0.7258.5&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=ko-kr&gaf=2&_s=1&tag_exp=115938465~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271~121246026~121246034&dl=https%3A%2F%2Fshop.kt.com%2Fsmart%2FsupportAmtList.do&dt=%ED%9C%B4%EB%8C%80%ED%8F%B0%20%EC%A7%80%EC%9B%90%EA%B8%88%20%7C%20%EB%B3%B8%EC%82%AC%EC%A7%81%EC%98%81%20%EC%98%A8%EB%9D%BC%EC%9D%B8%EC%83%B5%20%7C%20KT%20%EB%8B%A4%EC%9D%B4%EB%A0%89%ED%8A%B8%EC%83%B5&sid=1791692559&sct=1&seg=0&en=page_view&_fv=1&_ss=1&_ee=1&ep.ua_dimension_1=N&ep.ua_dimension_20=960954799.1791692559&tfd=6263",
+        "method": "POST",
+        "resourceType": "fetch",
+        "status": 204,
+        "contentType": "text/plain",
+        "postData": "",
+        "bodyLength": 17,
+        "keywordHit": true,
+        "botChallenge": false,
+        "bodyFile": "resp_106.txt"
+      },
+      {
+        "url": "https://analytics.google.com/g/collect?v=2&tid=G-9BBNKR783C&gtm=45je6a72v9134490562za20gxf1&_p=1791692558548&_gaz=1&gcd=13l3l3l3l2l1&npa=0&dma=0&_eu=EBAIAGAC&are=1&cid=960954799.1791692559&frm=0&ir=1&pscdl=noapi&rcb=16&sr=1400x1000&uaa=x86&uab=64&uafvl=Not%253BA%253DBrand%3B99.0.0.0%7CHeadlessChrome%3B139.0.7258.5%7CChromium%3B139.0.7258.5&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=ko-kr&gaf=2&_s=1&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120412526~120469145~120469153~121046263~121046271~121246026~121246034&dl=https%3A%2F%2Fshop.kt.com%2Fsmart%2FsupportAmtList.do&dt=%ED%9C%B4%EB%8C%80%ED%8F%B0%20%EC%A7%80%EC%9B%90%EA%B8%88%20%7C%20%EB%B3%B8%EC%82%AC%EC%A7%81%EC%98%81%20%EC%98%A8%EB%9D%BC%EC%9D%B8%EC%83%B5%20%7C%20KT%20%EB%8B%A4%EC%9D%B4%EB%A0%89%ED%8A%B8%EC%83%B5&sid=1791692560&sct=1&seg=0&en=page_view&_fv=1&_ss=1&_ee=1&ep.ua_dimension_1=N&ep.ua_dimension_20=960954799.1791692559&tfd=6533",
+        "method": "POST",
+        "resourceType": "fetch",
+        "status": 204,
+        "contentType": "text/plain",
+        "postData": "",
+        "bodyLength": 17,
+        "keywordHit": true,
+        "botChallenge": false,
+        "bodyFile": "resp_107.txt"
+      },
+      {
+        "url": "https://mpc2-prod-29-is5qnl632q-uc.a.run.app/events?cee=no",
+        "method": "POST",
+        "resourceType": "fetch",
+        "status": 200,
+        "contentType": "application/json",
+        "postData": "{\"event_name\":\"PageView\",\"smart_setup\":{\"auto_web_details_data\":\"{\\\"page_title\\\":[{\\\"rid\\\":\\\"1584652183165622\\\",\\\"v\\\":[\\\"다른 요금제 선택\\\"]},{\\\"rid\\\":\\\"1648282663359395\\\",\\\"v\\\":[\\\"필수\\\"]}],\\\"page_description\\\":[{\\\"rid\\\":\\\"1968371390542968\\\",\\\"v\\\":[\\\"개인정보 수집 및 이용목적\\\\n\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t공시지원금(단말할인) 변경 시 정보 제공 (사전예약 오픈, 상품 정보, 혜택, 이벤트 등)\\\\n\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t\\\\n\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t\\\\n\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t수집하는 개인정보 항목\\\\n\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t휴대폰 번호\\\\n\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t\\\\n\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t\\\\n\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t개인정보 보유 및 이용기간\\\\n\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t공시 변경 알림 신청 후 30일 이내 폐기 (단, 관계법령의 규정에 의하여 보존할 필요가 있는 경우 관련 법령에 따라 보관)\\\"]}],\\\"variant_presence\\\":[{\\\"rid\\\":\\\"979714371168033\\\",\\\"v\\\":[\\\"no_variant\\\"]}]}\",\"is_auto_web_details\":true,\"auto_web_details_filtered_fields\":\"{\\\"currency\\\":{\\\"tv\\\":4,\\\"rules\\\":{\\\"1014518181537014\\\":1,\\\"1703500447361662\\\":1,\\\"1356121616442590\\\":1,\\\"963301662765422\\\":1}}}\"},\"event_id\":\"ob3_plugin-set_0ed7c59435a6d34fafea2741559682354f9bf52cffd5d45606b10b16a377ff0e\",\"fb.pixel_id\":\"886586232189360\",\"website_context\":{\"location\":\"https://shop.kt.com/smart/supportAmtList.do\",\"referrer\":\"\",\"isInIFrame\":false},\"fb.fbp\":\"fb.1.1791692559723.133850116988447243\"}",
+        "bodyLength": 17,
+        "keywordHit": false,
+        "botChallenge": false,
+        "bodyFile": "resp_108.txt"
+      },
+      {
+        "url": "https://www.googletagmanager.com/gtag/destination?id=AW-859292050&cx=c&gtm=4e6a72",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/javascript; charset=UTF-8",
+        "postData": ""
+      },
+      {
+        "url": "https://rdi.kt.com/kt/menuinfo/v1.0/channels/01/menus/FAL000/stats/screen?_=1791692558918",
+        "method": "GET",
+        "resourceType": "xhr",
+        "status": 200,
+        "contentType": "application/json;charset=UTF-8",
+        "postData": "",
+        "bodyLength": 303,
+        "keywordHit": true,
+        "botChallenge": false,
+        "bodyFile": "resp_110.txt"
+      },
+      {
+        "url": "https://rdi.kt.com/kt/banners/v1.0/gnbbanner?_=1791692558917",
+        "method": "GET",
+        "resourceType": "xhr",
+        "status": 200,
+        "contentType": "application/json;charset=UTF-8",
+        "postData": "",
+        "bodyLength": 2035,
+        "keywordHit": true,
+        "botChallenge": false,
+        "bodyFile": "resp_111.txt"
+      },
+      {
+        "url": "https://nam.veta.naver.com/nac/2",
+        "method": "GET",
+        "resourceType": "xhr",
+        "status": 200,
+        "contentType": "application/json",
+        "postData": "",
+        "bodyLength": 24,
+        "keywordHit": false,
+        "botChallenge": false,
+        "bodyFile": "resp_112.txt"
+      },
+      {
+        "url": "https://analytics.google.com/g/collect?v=2&tid=G-2PNK2NP9YW&gtm=45je6a72v9234258364z89232329743za20gzb9232329743zd9232329743xf1&_p=1791692558548&_gaz=1&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAAAAGAC&_prs=ok&are=1&cid=960954799.1791692559&frm=0&pscdl=noapi&rcb=10&sr=1400x1000&uaa=x86&uab=64&uafvl=Not%253BA%253DBrand%3B99.0.0.0%7CHeadlessChrome%3B139.0.7258.5%7CChromium%3B139.0.7258.5&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=ko-kr&gaf=2&_s=1&tag_exp=115616985~115938465~115938469~117776795~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271~121246026~121246034&dt=KT%EB%8B%B7%EC%BB%B4_PC%3EShop%3E%EB%AA%A8%EB%B0%94%EC%9D%BC%EA%B8%B0%EA%B8%B0%3E%EA%B3%B5%EC%8B%9C%EC%A7%80%EC%9B%90%EA%B8%88&dl=https%3A%2F%2Fshop.kt.com%2Fsmart%2FsupportAmtList.do&sid=1791692560&sct=1&seg=0&en=page_view&_fv=1&_ss=2&_c=1&ep.ep_page_id=FAL000&ep.ep_page_0depth=KT%EB%8B%B7%EC%BB%B4_PC&ep.ep_page_1depth=KT%EB%8B%B7%EC%BB%B4_PC%3EShop&ep.ep_page_2depth=KT%EB%8B%B7%EC%BB%B4_PC%3EShop%3E%EB%AA%A8%EB%B0%94%EC%9D%BC%EA%B8%B0%EA%B8%B0&ep.ep_page_3depth=KT%EB%8B%B7%EC%BB%B4_PC%3EShop%3E%EB%AA%A8%EB%B0%94%EC%9D%BC%EA%B8%B0%EA%B8%B0%3E%EA%B3%B5%EC%8B%9C%EC%A7%80%EC%9B%90%EA%B8%88&ep.ep_page_adobetitle=%5Ewww%5EShop%5E%EB%AA%A8%EB%B0%94%EC%9D%BC%EA%B8%B0%EA%B8%B0%5E%EA%B3%B5%EC%8B%9C%EC%A7%80%EC%9B%90%EA%B8%88&ep.ep_page_day=%EC%9D%BC&up.up_cid=960954799.1791692559&up.up_platform=Web&up.up_device_model=Windows%20PC&up.up_device_category=desktop&up.up_os_version=Windows&up.up_browser=Chrome&up.up_resolution=1400x1000&up.up_channel=KT%EB%8B%B7%EC%BB%B4&up.up_login_yn=N&tfd=6766",
+        "method": "POST",
+        "resourceType": "fetch",
+        "status": 204,
+        "contentType": "text/plain",
+        "postData": "",
+        "bodyLength": 17,
+        "keywordHit": true,
+        "botChallenge": false,
+        "bodyFile": "resp_113.txt"
+      },
+      {
+        "url": "https://www.google.com/measurement/conversion?random=1791692560281&cv=11&tid=G-2PNK2NP9YW&fst=1791692560281&fmt=8&en=page_view&gtm=45je6a72v9234258364z89232329743za20gzb9232329743zd9232329743xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938465~115938469~117776795~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271~121246026~121246034&u_w=1400&u_h=1000&url=https%3A%2F%2Fshop.kt.com%2Fsmart%2FsupportAmtList.do&gacid=960954799.1791692559&hn=www.googleadservices.com&frm=0&tiba=%ED%9C%B4%EB%8C%80%ED%8F%B0%20%EC%A7%80%EC%9B%90%EA%B8%88%20%7C%20%EB%B3%B8%EC%82%AC%EC%A7%81%EC%98%81%20%EC%98%A8%EB%9D%BC%EC%9D%B8%EC%83%B5%20%7C%20KT%20%EB%8B%A4%EC%9D%B4%EB%A0%89%ED%8A%B8%EC%83%B5&npa=0&pscdl=noapi&auid=239577225.1791692559&capi=1&uaa=x86&uab=64&uafvl=Not%253BA%253DBrand%3B99.0.0.0%7CHeadlessChrome%3B139.0.7258.5%7CChromium%3B139.0.7258.5&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&rcb=10",
+        "method": "POST",
+        "resourceType": "fetch",
+        "status": 200,
+        "contentType": "",
+        "postData": "",
+        "bodyLength": 17,
+        "keywordHit": true,
+        "botChallenge": false,
+        "bodyFile": "resp_114.txt"
+      },
+      {
+        "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/859292050/?random=1791692560357&cv=11&fst=1791692560357&bg=ffffff&guid=ON&async=1&gtm=45be6a72v888865136z89232329743za20gzb9232329743zd9232329743xeaxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~117776795~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271~121246026~121246034&u_w=1400&u_h=1000&url=https%3A%2F%2Fshop.kt.com%2Fsmart%2FsupportAmtList.do&rcb=2&frm=0&tiba=%ED%9C%B4%EB%8C%80%ED%8F%B0%20%EC%A7%80%EC%9B%90%EA%B8%88%20%7C%20%EB%B3%B8%EC%82%AC%EC%A7%81%EC%98%81%20%EC%98%A8%EB%9D%BC%EC%9D%B8%EC%83%B5%20%7C%20KT%20%EB%8B%A4%EC%9D%B4%EB%A0%89%ED%8A%B8%EC%83%B5&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=239577225.1791692559&uaa=x86&uab=64&uafvl=Not%253BA%253DBrand%3B99.0.0.0%7CHeadlessChrome%3B139.0.7258.5%7CChromium%3B139.0.7258.5&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=CA&ept=9&rfmt=3&fmt=4",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "text/javascript; charset=UTF-8",
+        "postData": ""
+      },
+      {
+        "url": "https://www.google.com/measurement/conversion?random=1791692560281&cv=11&tid=G-2PNK2NP9YW&fst=1791692560281&fmt=8&en=session_start&gtm=45je6a72v9234258364z89232329743za20gzb9232329743zd9232329743xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938465~115938469~117776795~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271~121246026~121246034&u_w=1400&u_h=1000&url=https%3A%2F%2Fshop.kt.com%2Fsmart%2FsupportAmtList.do&gacid=960954799.1791692559&hn=www.googleadservices.com&frm=0&tiba=%ED%9C%B4%EB%8C%80%ED%8F%B0%20%EC%A7%80%EC%9B%90%EA%B8%88%20%7C%20%EB%B3%B8%EC%82%AC%EC%A7%81%EC%98%81%20%EC%98%A8%EB%9D%BC%EC%9D%B8%EC%83%B5%20%7C%20KT%20%EB%8B%A4%EC%9D%B4%EB%A0%89%ED%8A%B8%EC%83%B5&npa=0&pscdl=noapi&auid=239577225.1791692559&capi=1&uaa=x86&uab=64&uafvl=Not%253BA%253DBrand%3B99.0.0.0%7CHeadlessChrome%3B139.0.7258.5%7CChromium%3B139.0.7258.5&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&rcb=10",
+        "method": "POST",
+        "resourceType": "fetch",
+        "status": 302,
+        "contentType": "text/html; charset=UTF-8",
+        "postData": "",
+        "bodyLength": 17,
+        "keywordHit": true,
+        "botChallenge": false,
+        "bodyFile": "resp_116.txt"
+      },
+      {
+        "url": "https://log.onmas.kt.com/log/v1.0/shop/scollect",
+        "method": "POST",
+        "resourceType": "xhr",
+        "status": 200,
+        "contentType": "application/json",
+        "postData": "svcNm=shop&u%5BktId%5D=&u%5BgaId%5D=&m%5BmuCd%5D=FAL000&pg%5BpgType%5D=M&co%5BcoVal1%5D=VI&co%5BcoVal2%5D=&ca%5BcaVal1%5D=&ca%5BcaVal2%5D=&ca%5BcaVal3%5D=&ca%5BexeType%5D=&ca%5BsgnlType%5D=&ca%5BrtdEvtId%5D=&ca%5BevSorcId%5D=&b%5BbaVal1%5D=&b%5BbaVal2%5D=&p%5B0%5D%5BprVal1%5D=&p%5B0%5D%5BprVal2%5D=&p%5B0%5D%5BprVal3%5D=&p%5B0%5D%5BprVal4%5D=&p%5B0%5D%5BprVal5%5D=&p%5B0%5D%5BprVal6%5D=&p%5B0%5D%5BprVal7%5D=&p%5B0%5D%5BprVal8%5D=&p%5B1%5D%5BprVal1%5D=&p%5B1%5D%5BprVal2%5D=&p%5B1%5D%5BprVal3%5D=&p%5B1%5D%5BprVal4%5D=&p%5B1%5D%5BprVal5%5D=&p%5B1%5D%5BprVal6%5D=&p%5B1%5D%5BprVal7%5D=&p%5B1%5D%5BprVal8%5D=&p%5B2%5D%5BprVal1%5D=&p%5B2%5D%5BprVal2%5D=&p%5B2%5D%5BprVal3%5D=&p%5B2%5D%5BprVal4%5D=&p%5B2%5D%5BprVal5%5D=&p%5B2%5D%5BprVal6%5D=&p%5B2%5D%5BprVal7%5D=&p%5B2%5D%5BprVal8%5D=&a%5BapVal1%5D=W&a%5BapVal2%5D=&a%5BapVal3%5D=&a%5BapVal4%5D=&a%5BapVal5%5D=&a%5BapVal6%5D=&a%5BapVal7%5D=S&a%5BapVal8%5D=&s%5BseVal1%5D=&s%5BseVal2%5D=&s%5BseVal3%5D=&s%5BseVal4%5D=&s%5BseVal5%5D=&e%5BcmpId%5D=&e%5BadId%5D=",
+        "bodyLength": 19,
+        "keywordHit": false,
+        "botChallenge": false,
+        "bodyFile": "resp_117.txt"
+      },
+      {
+        "url": "https://www.google.com/rmkt/collect/859292050/?random=1791692560357&cv=11&fst=1791692560357&fmt=8&bg=ffffff&guid=ON&async=1&gtm=45be6a72v888865136z89232329743za20gzb9232329743zd9232329743xeaxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~117776795~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271~121246026~121246034&u_w=1400&u_h=1000&url=https%3A%2F%2Fshop.kt.com%2Fsmart%2FsupportAmtList.do&rcb=2&frm=0&tiba=%ED%9C%B4%EB%8C%80%ED%8F%B0%20%EC%A7%80%EC%9B%90%EA%B8%88%20%7C%20%EB%B3%B8%EC%82%AC%EC%A7%81%EC%98%81%20%EC%98%A8%EB%9D%BC%EC%9D%B8%EC%83%B5%20%7C%20KT%20%EB%8B%A4%EC%9D%B4%EB%A0%89%ED%8A%B8%EC%83%B5&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=239577225.1791692559&uaa=x86&uab=64&uafvl=Not%253BA%253DBrand%3B99.0.0.0%7CHeadlessChrome%3B139.0.7258.5%7CChromium%3B139.0.7258.5&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=CA&ept=68&gcp=5",
+        "method": "POST",
+        "resourceType": "fetch",
+        "status": 200,
+        "contentType": "",
+        "postData": "",
+        "bodyLength": 17,
+        "keywordHit": true,
+        "botChallenge": false,
+        "bodyFile": "resp_118.txt"
+      },
+      {
+        "url": "https://www.google.com/ccm/collect?rcb=2&frm=0&apvc=0&ae=g&auid=239577225.1791692559&dt=%ED%9C%B4%EB%8C%80%ED%8F%B0%20%EC%A7%80%EC%9B%90%EA%B8%88%20%7C%20%EB%B3%B8%EC%82%AC%EC%A7%81%EC%98%81%20%EC%98%A8%EB%9D%BC%EC%9D%B8%EC%83%B5%20%7C%20KT%20%EB%8B%A4%EC%9D%B4%EB%A0%89%ED%8A%B8%EC%83%B5&tid=AW-859292050&dl=https%3A%2F%2Fshop.kt.com%2Fsmart%2FsupportAmtList.do&scrsrc=www.googletagmanager.com&rnd=1634249269.1791692559&navt=n&npa=0&_tu=CA&gtm=45be6a72v888865136z89232329743za20gzb9232329743zd9232329743xeaxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~117776795~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271~121246026~121246034&tft=1791692560413&tfd=6868&_gsid=MsvCITwh8-0WecW6YGpy3WtQ_fogcZDiLQ&tids=AW-859292050&fmt=8",
+        "method": "POST",
+        "resourceType": "fetch",
+        "status": 200,
+        "contentType": "",
+        "postData": "",
+        "bodyLength": 17,
+        "keywordHit": true,
+        "botChallenge": false,
+        "bodyFile": "resp_119.txt"
+      },
+      {
+        "url": "https://www.google.com/measurement/1p-conversion/?random=1272255260&cv=11&tid=G-2PNK2NP9YW&fst=1791692560281&fmt=8&en=session_start&gtm=45je6a72v9234258364z89232329743za20gzb9232329743zd9232329743xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938465~115938469~117776795~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271~121246026~121246034&u_w=1400&u_h=1000&url=https%3A%2F%2Fshop.kt.com%2Fsmart%2FsupportAmtList.do&gacid=960954799.1791692559&hn=www.googleadservices.com&frm=0&tiba=%ED%9C%B4%EB%8C%80%ED%8F%B0%20%EC%A7%80%EC%9B%90%EA%B8%88%20%7C%20%EB%B3%B8%EC%82%AC%EC%A7%81%EC%98%81%20%EC%98%A8%EB%9D%BC%EC%9D%B8%EC%83%B5%20%7C%20KT%20%EB%8B%A4%EC%9D%B4%EB%A0%89%ED%8A%B8%EC%83%B5&npa=0&pscdl=noapi&auid=239577225.1791692559&capi=1&uaa=x86&uab=64&uafvl=Not%253BA%253DBrand%3B99.0.0.0%7CHeadlessChrome%3B139.0.7258.5%7CChromium%3B139.0.7258.5&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&rcb=10&ct_cookie_present=false&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCIfbsQII08WxAgjrzLECCO3OsQII1c-xAgiK8rECCPTasQII4uqxAgjo7rECCJLrsQIIyeOxAgiX1LECCMnbsQIIzeaxAgim3bECCLDesQIIgNuxAgjN4bEC&cerd=Cgi5674tnem3OA&fsk=ChAI8MSn1gYQ6-GJlaqKz_8jEiwAXuLv_fOLNJquuNH3RGeE7AMne4OgF5CI4BTfk8-6sJJt-jTExqP9cO8X5xoCrD0&pscrd=IhMI_N7q9I6xlwMVmXlvBB0DlDBVOhRodHRwczovL3Nob3Aua3QuY29tL0JXQ2hFSThNU24xZ1lRNnFlaThhUHFydE9TQVJJc0FJenUxN2tNTlNEX2oxVlh0Vm1ic3FOZlNCNktsWE5IdTIzTFdFelRUR2VfVFF3M3BqMEVrSElkaGJVegwICWIICAAQABgAIAA",
+        "method": "GET",
+        "resourceType": "fetch",
+        "status": 200,
+        "contentType": "",
+        "postData": "",
+        "bodyLength": 17,
+        "keywordHit": true,
+        "botChallenge": false,
+        "bodyFile": "resp_120.txt"
+      },
+      {
+        "url": "https://cdn.onetag.co.kr/tcs/cf/p/qecoi75luoh0qecoi75luo.json?v=10110422",
+        "method": "GET",
+        "resourceType": "xhr",
+        "status": 200,
+        "contentType": "application/json",
+        "postData": "",
+        "bodyLength": 484,
+        "keywordHit": false,
+        "botChallenge": false,
+        "bodyFile": "resp_121.txt"
+      },
+      {
+        "url": "https://asia.creativecdn.com/tags/v2?type=json",
+        "method": "POST",
+        "resourceType": "fetch",
+        "status": 307,
+        "contentType": "",
+        "postData": "{\"v\":\"v0.2.1\",\"sr\":\"\",\"su\":\"https://shop.kt.com/smart/supportAmtList.do\",\"th\":\"QxEHbDjKnWt4C63LUvUH\",\"tags\":[{\"eventType\":\"placebo\"},{\"eventType\":\"home\"},{\"eventType\":\"uid\",\"id\":\"GA1.2.960954799.1791692559\",\"expiryDate\":\"2027-10-11T04:22:39.461Z\"},{\"eventType\":\"lid\",\"id\":\"bWtVMzE9gRNglsao53jL\",\"expiryDate\":\"2027-10-11T04:22:39.461Z\"}]}",
+        "bodyLength": 17,
+        "keywordHit": false,
+        "botChallenge": false,
+        "bodyFile": "resp_122.txt"
+      },
+      {
+        "url": "https://rdi.kt.com/corp/magma/v1.0/send",
+        "method": "POST",
+        "resourceType": "fetch",
+        "status": 200,
+        "contentType": "",
+        "postData": "{\"KT_SSO_USER_ID\":null,\"SESSION_ID\":\"GA.960954799.1791692559.\",\"CLIENT_ID\":\"GA1.2.960954799.1791692559\",\"EVENT_NAME\":\"page_view\",\"PLATFORM\":\"Web\",\"DEVICE\":\"Windows PC\",\"DEVICE_CATEGORY\":\"desktop\",\"OS\":\"Windows\",\"BROWSER\":\"Chrome\",\"RESOLUTION\":\"1400x1000\",\"CHANNEL\":\"KT닷컴\",\"LOGIN_YN\":\"N\",\"PAGE_TITLE\":\"KT닷컴_PC>Shop>모바일기기>공시지원금\",\"PAGE_CLASS\":\"https://shop.kt.com/smart/supportAmtList.do\",\"PAGE_ID\":\"FAL000\",\"PAGE_0DEPTH\":\"KT닷컴_PC\",\"PAGE_1DEPTH\":\"KT닷컴_PC>Shop\",\"PAGE_2DEPTH\":\"KT닷컴_PC>Shop>모바일기기\",\"PAGE_3DEPTH\":\"KT닷컴_PC>Shop>모바일기기>공시지원금\",\"ADOBE_TITLE\":\"^www^Shop^모바일기기^공시지원금\",\"DAY\":\"일\",\"PAGE_EVENT_NAME\":null,\"PAGE_EVENT_ID\":null,\"PROMOTION_NAME\":null,\"PROMOTION_ID\":null,\"PROMOTION_CATEGORY\":null,\"EVENT_PAGE\":null,\"EVENT_AREA\":null,\"EVNET_LABEL\":null,\"CLICK_INFO\":null,\"LINK_NAME\":null,\"CAMPAIGN_NAME\":null,\"CAMPAIGN_ID\":null,\"CAMPAIGN_TYPE\":null,\"OFFER_AREA\":null,\"OFFER_ID\":null,\"SO_CATEGORY\":null,\"SO_NAME\":null,\"SO_TYPE\":null,\"SEARCH_TYPE\":null,\"SEARCH_KEYWORD\":null,\"SEARCH_RESULT_YN\":null,\"SEARCH_DEPTH\":null,\"SEARCH_DocID\":null,\"SEARCH_RANK\":null,\"PRODUCT_NAME\":null,\"PRODUCT_ID\":null,\"PRODUCT_CATEGORY\":null,\"SIGN_UP_TYPE\":null,\"OPTIONAL_CONSENT_LEVEL\":null,\"AUTH_METHOD\":null,\"ERROR_MESSAGE\":null,\"POPUP_MESSAGE\":null,\"UTM_CAMPAIGN\":null,\"UTM_MEDIUM\":null,\"UTM_SOURCE\":null,\"UTM_CONTENT\":null,\"UTM_TERM\":null,\"GA_SHORT_URL\":null,\"GA_REFERRER_URL\":null,\"GA_SHORT_URL_KEY\":null,\"GA_SHORT_URL_YN\":null,\"CURRENCY\":null,\"TRANSACTION_ID\":null,\"VALUE\":null,\"ORDER_COUPON\":null,\"ORDER_PAYMENTTYPE\":null,\"ORDER_METHOD\":null,\"ORDER_MONTHLYPLANPRICE\":null,\"ORDER_SUBSCRIBE\":null,\"ORDER_LOGINYN\":null,\"ORDER_PLAN_DISCOUNT\":null,\"ORDER_DUALNUMBER_YN\":null,\"ORDER_OFFICIAL_DISCOUNT\":null,\"ORDER_ADDITIONAL_DISCOUNT\":null,\"ORDER_SUPERSTAR_DISCOUNT\":null,\"items\":[{\"ITEM_ID\":null,\"ITEM_NAME\":null,\"ITEM_BRAND\":null,\"ITEM_CATEGORY\":null,\"ITEM_CATEGORY2\":null,\"ITEM_CATEGORY3\":null,\"ITEM_CATEGORY4\":null,\"ITEM_VARIANT\":null,\"ITEM_COUPON\":null,\"PRICE\":null,\"QUANTITY\":null,\"DISCOUNT\":null,\"AFFILIATION\":null,\"SERVICE_NAME\":null,\"ADDITIONAL_DISCOUNT\":null,\"SERVICE_PLAN\":null,\"CONTRACT_DISCOUNTOPTION\":null,\"PLAN_BENEFIT\":null,\"USER_TYPE\":null,\"ADD_SERVICE\":null,\"INSTALLMENT\":null,\"SERVICE_TYPE\":null,\"DEVICE_GIFT\":null,\"DEVICE_TYPE\":null,\"SERVICE_CATEGORY\":null,\"SERVICE_SUBCATEGORY\":null,\"SPEED\":null,\"WIFI_DEVICE\":null,\"CHANNEL_TYPE\":null}],\"EVENT_LABEL\":null,\"event\":\"ga_page\"}",
+        "bodyLength": 17,
+        "keywordHit": false,
+        "botChallenge": false,
+        "bodyFile": "resp_123.txt"
+      },
+      {
+        "url": "https://logapi.kt.com/v1.0/log/trace",
+        "method": "POST",
+        "resourceType": "xhr",
+        "status": 200,
+        "contentType": "application/json;charset=UTF-8",
+        "postData": "l=p&c=FAL000",
+        "bodyLength": 19,
+        "keywordHit": false,
+        "botChallenge": false,
+        "bodyFile": "resp_124.txt"
+      },
+      {
+        "url": "https://asia.creativecdn.com/tags/v2?type=json&tc=1",
+        "method": "POST",
+        "resourceType": "fetch",
+        "status": 200,
+        "contentType": "application/json;charset=utf-8",
+        "postData": "{\"v\":\"v0.2.1\",\"sr\":\"\",\"su\":\"https://shop.kt.com/smart/supportAmtList.do\",\"th\":\"QxEHbDjKnWt4C63LUvUH\",\"tags\":[{\"eventType\":\"placebo\"},{\"eventType\":\"home\"},{\"eventType\":\"uid\",\"id\":\"GA1.2.960954799.1791692559\",\"expiryDate\":\"2027-10-11T04:22:39.461Z\"},{\"eventType\":\"lid\",\"id\":\"bWtVMzE9gRNglsao53jL\",\"expiryDate\":\"2027-10-11T04:22:39.461Z\"}]}",
+        "bodyLength": 271,
+        "keywordHit": false,
+        "botChallenge": false,
+        "bodyFile": "resp_125.txt"
+      },
+      {
+        "url": "https://cdn.megadata.co.kr/dist/prod/utilKit.js?adverId=madcorp1",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "text/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://cdn.megadata.co.kr/dist/prod/aiBanner.js?adverId=madcorp1",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "text/javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://tk.mediacategory.com/aggregate/util",
+        "method": "POST",
+        "resourceType": "fetch",
+        "status": 200,
+        "contentType": "application/json",
+        "postData": "{\"adverId\":\"madcorp1\",\"identKey\":\"\",\"identNumber\":\"\",\"url\":\"https://shop.kt.com/smart/supportAmtList.do\",\"referrer\":\"\",\"adminId\":\"\"}",
+        "bodyLength": 149,
+        "keywordHit": false,
+        "botChallenge": false,
+        "bodyFile": "resp_128.txt"
+      },
+      {
+        "url": "https://sslwidget.criteo.com/event?a=%5B103126%5D&v=5.51.0&p0=e%3Dvpg&bundle=0P8bLl90WHNKVHBWSzgzNkRkNEE4WjhMRkV5djFib1M5RmVXbGZlWUdsenpWZ0FSMjJHJTJGRkczWGlxWXZGdnZSJTJCMEJYOXJxTEt2dmlVNldmcXgwTHlDc0slMkZEaEI2OU5QaWlsam1VYWpRUEcxZERsN0YlMkZVMWpySEtubXBRVUJGMGNrd2lJcm9NZlowZSUyRm5LSGZvajE5TjFWc1ZRJTNEJTNE&sc=%7B%22fbp%22%3A%22fb.1.1791692559723.133850116988447243%22%7D&tld=kt.com&dy=1&fu=https%253A%252F%252Fshop.kt.com%252Fsmart%252FsupportAmtList.do&ceid=4fe0c20d-63be-45f3-aa9a-32226ef16134",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 302,
+        "contentType": "",
+        "postData": ""
+      },
+      {
+        "url": "https://widget.as.criteo.com/event?a=%5B103126%5D&v=5.51.0&p0=e%3Dvpg&bundle=0P8bLl90WHNKVHBWSzgzNkRkNEE4WjhMRkV5djFib1M5RmVXbGZlWUdsenpWZ0FSMjJHJTJGRkczWGlxWXZGdnZSJTJCMEJYOXJxTEt2dmlVNldmcXgwTHlDc0slMkZEaEI2OU5QaWlsam1VYWpRUEcxZERsN0YlMkZVMWpySEtubXBRVUJGMGNrd2lJcm9NZlowZSUyRm5LSGZvajE5TjFWc1ZRJTNEJTNE&sc=%7B%22fbp%22%3A%22fb.1.1791692559723.133850116988447243%22%7D&tld=kt.com&dy=1&fu=https%253A%252F%252Fshop.kt.com%252Fsmart%252FsupportAmtList.do&ceid=4fe0c20d-63be-45f3-aa9a-32226ef16134",
+        "method": "GET",
+        "resourceType": "script",
+        "status": 200,
+        "contentType": "application/x-javascript",
+        "postData": ""
+      },
+      {
+        "url": "https://shop.kt.com/oneMinuteReform/defaultRecommPplList.json",
+        "method": "POST",
+        "resourceType": "xhr",
+        "status": 200,
+        "contentType": "text/plain;charset=UTF-8",
+        "postData": "prodType=30",
+        "bodyLength": 1941,
+        "keywordHit": true,
+        "botChallenge": false,
+        "bodyFile": "resp_131.txt"
+      },
+      {
+        "url": "https://api.doem-0tpdlqj.com/rtb/redirectUrl",
+        "method": "POST",
+        "resourceType": "fetch",
+        "status": 200,
+        "contentType": "application/json",
+        "postData": "{}",
+        "bodyLength": 116,
+        "keywordHit": false,
+        "botChallenge": false,
+        "bodyFile": "resp_132.txt"
+      },
+      {
+        "url": "https://www.google.com/recaptcha/api2/reload?k=6Ldw7PMrAAAAAJm1Z8rImRNUUSMUYZTbfMjGTjlj",
+        "error": "UnicodeDecodeError"
+      },
+      {
+        "url": "https://shop.kt.com/mobile/retvSuFuList.json",
+        "method": "POST",
+        "resourceType": "xhr",
+        "status": 200,
+        "contentType": "application/json;charset=UTF-8",
+        "postData": "prodNm=mobile&prdcCd=PL2649752&prodType=30&deviceType=HDP&makrCd=&sortProd=oBspnsrPunoDateDesc&spnsMonsType=undefined&dscnOptnCd=HT&sbscTypeCd=04&reCAPTCHAToken=0cAFcWeA4jCVjoRy-D2U7-g7p59hZ7X8x0hYb62mEz7FP0KLOcLukUw-QPovCAvKc8VMMsOIJd4g95-7NjVtPSNc8GWw56QJDBgpWRtSSj6lmTK10kMTWQKv-nIG2Ka_JhbZHf7fKfXWY4k6CyFTDcPenGOHSq6mikfI-Ye4McWRHzjGsriXuIUZQK0aSgiJ4YwAenGsEaZeMr8JqU40Ok444xxsFJttdHk35EsmtTpc7C9ECKiuWRH1atHElCW7FatCEbj0vy0_u4_Fp7b2-9hgQDhquOSmiKDsmuKI69xwQMEIodVEg2nycc4B-8HvKjitCwcafTBeiXgZwLrWunPJEUX0HCoF9wvT3EzPkLwjYhI3mJqRdzMt8ySUtRNhurZI6LGsa9IvzzPeU8UT2BsQ0qSoMOGPyFoF5oKWo6ae5FWHsaJ9nptraB11d8HK2Ukvv86GcsdAisquNL3M-WTeoXghS3buJo0bxT8bztNdhZ-I85QycfLKylEVvAUz2-r1LH0Usu4SP3diEyg6syniv_nZpp1tWCKGwkUpnUkq7B28N5ROaX_OSEfe_yh5qWxkzej2KeUpMDk062T0JMUTxJ7XEktYdGj1uiija0RSEPOb9MmSpML-JAlVUT3Slh4wLIMK5Hci3I8oB6fbRKLkbRlMJFifJ_98TUdJAGCb9ibbxp-iz2EilNw_zs1IhZyKQPB5Sr6YoO5YJMlJETTjCJgI7HayubbyCczliNtDia7VS1ma1ybFuHgH3PxYVUc25PTWW5XR9rj3pnEUHOI30ycnxpV8sQbj8xGWLAv5RU8nnq32Ml4_F4rFlnwcaV66oLEfo1cJxGDIcOWHYZo6wVtG3K_V0aLpqD0w9GhXrRnsGblF1Fom8K766qtavQppCWAFWE5V_3a40mH0-VH3-Ghn7gUhzytKqPw8nPWw1GMK1TQBeviE_38Hd5CTYMNEWOztQTSFy8Bt8sC0V1FL3qZaDZeHCz_87erj-nGYY14OUF5h1EdePj1NaNGtOOM2RahI-ZBURthHHWRIVS-d8WYSdkO9assEHoVSyU6Xj_5WXV8-2IeEKOIewo2B96RylRATAFBfZZClB4KeReyr-7NgRub6DW2ON0vWhsUTMoEbN-KxDEGrTHqTXGxYsqX2fOMtY1seXjyJPz_VEZQVDdcp_oUmNS8clEnPkLDBJcaIFXFngliR2ytB2tMK11RfUAEW1VsXbLjIUyfi0xGoCh_KF26Ir4Yn7fVrugxnl4BZ9nTM-8pH7VKpdql5C5scwGpAdau4cslezEgVTmxoDDr3IrP0H-YnYTCgXMqwjq9ssIqSB5aqv6z_lccjazFJkcbaCgiGRGjU3e3xvRVBZmrA12VO3aVzBbpvOuLT1XyIpCjcP46rlChgXRVyetag04JZftuf_qjfWBk0UrFfvxmdyyz7ePcXJIKRV4AP3PdThf2x0P0yFzAbdl_xrMMKDsOu2LiQ4MH_yBEbjXIlHCA4Jlv93ExwxkmmrLsHVt194LJsG_B2-TiQdpPNrCUFwOqV9aoaXyWRAred1iU9-8uWipZ7AFoIcJPTRqL5dqFOh6QG7bj2K4enqp8ajyLKspezA9pRQjOXQneFpKdk3wPzdcWlV107aZqij1ZONJywMkwJVv2By93SlgC7r8EDhtOpVKHpcfTsdrG1MVhjJN2To8iu_2wvjxQjJS3Gpu8zcxCxFTz8CtJQrM4vrcoqqnp_lMrw8X0EjqJgqGOjiGOCeNlfDMR7VSimqJRZPuEcyzz-hm0PjmtjahqBhTQq-UersBIN-GQmSASlErjNuT0-MkJVIyGqitluL3Idx358eeOue1adVrmpf-IAMwlmgU3L8EjwpzcTpUrEuKdPGgbF06dJ8eII4t8T2igAF25-NxyE6gMK6Mzq5VgBuP4qoJOpzJmwwJ8E5hTd6IQiIHof-FZTthihpK0W47kHYwMBUFkDAwsYQWyYpwMqf4HoE7eR80zEdJbJf0eYD8Evq_GUVonZTZizOkdnG1ziCfL8oNaKId3uMxycb_YGxXxNfqvyb5FUWMNhye984KroQ0Px68gW7EtYXont0WwIgzEsLvGeMbkeis_po9uYkW8KGXuobMKUN7kMo9SUPjLCB9z9thWWBsZxx27kT72P0GuY2K0riNJ2w-QmaMO3hh5jU3Ehg5vUs0d-xJ4hsEuQcg2J5b61Tlx5NM-KhT7aLO8vlJIcwhakoEINa1Js1YQKlygUHOyrOA300Vdz0fnm8s50AIEMF_7l7bYiS-gP-EK9h0Rh7MkAIlqie9ZQRtaZKrQkLNWL31C0GWn8dMutvwhOoyCHokYzWK5ViG2HWuS8Mg6GD2mrEeRh9gSAAeGrEEIQnbazoYiqVlS-yV90I8wsbA-vDEA48wpW2z7eSeb5XKFXKmzmf9UMDXEgmBQW67GFX88QXeiIYoE85ySH4SrXCwebJHy3ldIU6c8427JNCZB6f9OilBGR2qUJz0N_BPyiZPDIjAFN7EfLPSNtmqnvuU4HeEOgkGVVSNHBlUGI1Eh5LuXIUf73JBBtahAaRN0BWSvz31QRZ4XnXkwQ5N_OpoOCPN6YvZBoqB46iUaE-FcAxCor3pepqDNDsQ23BeEXYt_b39vvubvHczmJdAbHqrwSBVX0XtGh6BwPWivB7CqQFLdVY&pageNo=1",
+        "bodyLength": 119,
+        "keywordHit": false,
+        "botChallenge": false,
+        "bodyFile": "resp_134.txt"
+      },
+      {
+        "url": "https://www.google.com/recaptcha/api2/clr?k=6Ldw7PMrAAAAAJm1Z8rImRNUUSMUYZTbfMjGTjlj",
+        "error": "UnicodeDecodeError"
+      }
+    ]
+  }
+]
