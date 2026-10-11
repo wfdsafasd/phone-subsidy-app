@@ -25,7 +25,8 @@ from playwright.sync_api import sync_playwright
 TARGETS = {
     "SKT": "https://shop.tworld.co.kr/notice",
     "KT": "https://shop.kt.com/smart/supportAmtList.do",
-    "LGU": "https://www.lguplus.com/mobile/financing-model",
+    # LG U+ 는 Cloudflare 자동접속 차단(봇 확인 화면)을 쓰고 있어 대상에서 제외합니다.
+    # 차단 장치를 우회하는 수집은 법적 위험이 크게 높아지므로 하지 않습니다.
 }
 
 CONTACT = os.environ.get("CONTACT_EMAIL", "contact-not-set")
@@ -60,6 +61,26 @@ def robots_allows(url: str) -> tuple[bool, str]:
     return rp.can_fetch(BOT_TAG.split("/")[0], url) and rp.can_fetch("*", url), text
 
 
+def read_body(resp) -> str:
+    """응답 본문을 안전하게 문자열로 (EUC-KR 등 한글 인코딩 대응)"""
+    try:
+        raw = resp.body()
+    except BaseException as e:  # noqa: BLE001 — 브라우저가 본문을 버린 경우 등
+        return f"(본문 읽기 실패: {type(e).__name__})"
+    m = re.search(r"charset=([\w-]+)", resp.headers.get("content-type", ""), re.IGNORECASE)
+    for enc in ([m.group(1)] if m else []) + ["utf-8", "cp949"]:
+        try:
+            return raw.decode(enc)
+        except (UnicodeDecodeError, LookupError):
+            continue
+    return raw.decode("utf-8", errors="replace")
+
+
+def blocked_by_bot_protection(text: str) -> bool:
+    """Cloudflare 등 자동접속 차단 화면인지"""
+    return any(k in text for k in ("Just a moment...", "_cf_chl_opt", "Enable JavaScript and cookies to continue"))
+
+
 def discover(carrier: str, url: str, browser) -> dict:
     out_dir = OUT / carrier
     out_dir.mkdir(parents=True, exist_ok=True)
@@ -75,6 +96,12 @@ def discover(carrier: str, url: str, browser) -> dict:
     records: list[dict] = []
 
     def on_response(resp):
+        try:
+            handle_response(resp)
+        except BaseException as e:  # noqa: BLE001 — 응답 하나 때문에 전체가 멈추지 않게
+            records.append({"url": getattr(resp, "url", "?"), "error": type(e).__name__})
+
+    def handle_response(resp):
         req = resp.request
         if req.resource_type not in ("xhr", "fetch", "document", "script"):
             return
@@ -89,12 +116,10 @@ def discover(carrier: str, url: str, browser) -> dict:
             "postData": (req.post_data or "")[:5000],
         }
         if req.resource_type in ("xhr", "fetch"):
-            try:
-                body = resp.text()
-            except Exception as e:
-                body = f"(본문 읽기 실패: {e})"
+            body = read_body(resp)
             rec["bodyLength"] = len(body)
             rec["keywordHit"] = bool(KEYWORDS.search(resp.url + body[:20000]))
+            rec["botChallenge"] = blocked_by_bot_protection(body[:5000])
             idx = len(records)
             body_file = out_dir / f"resp_{idx:03d}.txt"
             body_file.write_text(body[:MAX_BODY], encoding="utf-8")
@@ -111,24 +136,34 @@ def discover(carrier: str, url: str, browser) -> dict:
 
     # 목록이 스크롤로 더 불려오는 경우를 위해 천천히 스크롤 (서버 부담 최소화)
     for _ in range(6):
-        page.mouse.wheel(0, 2500)
+        try:
+            page.mouse.wheel(0, 2500)
+        except BaseException:  # noqa: BLE001
+            break
         time.sleep(1.5)
     try:
         page.wait_for_load_state("networkidle", timeout=15_000)
     except Exception:
         pass
 
-    (out_dir / "page.html").write_text(page.content(), encoding="utf-8")
+    for name, fn in (
+        ("page.html", lambda: page.content()),
+        ("page_text.txt", lambda: page.inner_text("body")[:MAX_BODY]),
+    ):
+        try:
+            (out_dir / name).write_text(fn(), encoding="utf-8")
+        except BaseException as e:  # noqa: BLE001
+            print(f"[{carrier}] {name} 저장 실패: {type(e).__name__}")
     try:
-        (out_dir / "page_text.txt").write_text(page.inner_text("body")[:MAX_BODY], encoding="utf-8")
-    except Exception:
-        pass
-    page.screenshot(path=str(out_dir / "screenshot.png"), full_page=True)
+        page.screenshot(path=str(out_dir / "screenshot.png"), full_page=True)
+    except BaseException as e:  # noqa: BLE001
+        print(f"[{carrier}] 스크린샷 실패: {type(e).__name__}")
 
     ctx.close()
+    blocked = sum(1 for r in records if r.get("status") == 403)
     hits = [r for r in records if r.get("keywordHit")]
-    print(f"[{carrier}] 요청 {len(records)}건 기록, 데이터 후보 {len(hits)}건")
-    return {"carrier": carrier, "url": url, "robotsAllowed": True, "requests": records}
+    print(f"[{carrier}] 요청 {len(records)}건 기록, 데이터 후보 {len(hits)}건, 차단(403) {blocked}건")
+    return {"carrier": carrier, "url": url, "robotsAllowed": True, "blocked403": blocked, "requests": records}
 
 
 def main() -> None:
