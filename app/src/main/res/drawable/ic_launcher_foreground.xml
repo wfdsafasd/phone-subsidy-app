@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 간단한 기본 아이콘: 휴대폰 + 세 개의 비교 막대. 출시 전 원하는 디자인으로 교체 가능 -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- 휴대폰 외곽 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M42,30h24a5,5 0,0 1,5 5v38a5,5 0,0 1,-5 5h-24a5,5 0,0 1,-5 -5v-38a5,5 0,0 1,5 -5z" />
+    <!-- 화면 -->
+    <path
+        android:fillColor="#1F3A5F"
+        android:pathData="M41,36h26v34h-26z" />
+    <!-- 비교 막대 3개 -->
+    <path android:fillColor="#7CC4FF" android:pathData="M44,58h5v9h-5z" />
+    <path android:fillColor="#FFD166" android:pathData="M51.5,50h5v17h-5z" />
+    <path android:fillColor="#06D6A0" android:pathData="M59,43h5v24h-5z" />
+</vector>

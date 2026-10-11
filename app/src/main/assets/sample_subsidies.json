@@ -1,0 +1,436 @@
+{
+  "updatedAt": "2026-10-07T06:00:00+09:00",
+  "source": "샘플 데이터 (실제 아님)",
+  "sourceUrl": "",
+  "isSample": true,
+  "plans": [
+    {
+      "id": "skt_a",
+      "carrier": "SKT",
+      "name": "SKT 샘플요금제 A",
+      "monthlyFee": 39000,
+      "dataDesc": "8GB"
+    },
+    {
+      "id": "skt_b",
+      "carrier": "SKT",
+      "name": "SKT 샘플요금제 B",
+      "monthlyFee": 59000,
+      "dataDesc": "30GB"
+    },
+    {
+      "id": "skt_c",
+      "carrier": "SKT",
+      "name": "SKT 샘플요금제 C",
+      "monthlyFee": 79000,
+      "dataDesc": "110GB"
+    },
+    {
+      "id": "skt_d",
+      "carrier": "SKT",
+      "name": "SKT 샘플요금제 D",
+      "monthlyFee": 99000,
+      "dataDesc": "무제한"
+    },
+    {
+      "id": "kt_a",
+      "carrier": "KT",
+      "name": "KT 샘플요금제 A",
+      "monthlyFee": 38000,
+      "dataDesc": "8GB"
+    },
+    {
+      "id": "kt_b",
+      "carrier": "KT",
+      "name": "KT 샘플요금제 B",
+      "monthlyFee": 58000,
+      "dataDesc": "30GB"
+    },
+    {
+      "id": "kt_c",
+      "carrier": "KT",
+      "name": "KT 샘플요금제 C",
+      "monthlyFee": 78000,
+      "dataDesc": "110GB"
+    },
+    {
+      "id": "kt_d",
+      "carrier": "KT",
+      "name": "KT 샘플요금제 D",
+      "monthlyFee": 98000,
+      "dataDesc": "무제한"
+    },
+    {
+      "id": "lgu_a",
+      "carrier": "LGU",
+      "name": "LG U+ 샘플요금제 A",
+      "monthlyFee": 37000,
+      "dataDesc": "8GB"
+    },
+    {
+      "id": "lgu_b",
+      "carrier": "LGU",
+      "name": "LG U+ 샘플요금제 B",
+      "monthlyFee": 57000,
+      "dataDesc": "30GB"
+    },
+    {
+      "id": "lgu_c",
+      "carrier": "LGU",
+      "name": "LG U+ 샘플요금제 C",
+      "monthlyFee": 77000,
+      "dataDesc": "110GB"
+    },
+    {
+      "id": "lgu_d",
+      "carrier": "LGU",
+      "name": "LG U+ 샘플요금제 D",
+      "monthlyFee": 97000,
+      "dataDesc": "무제한"
+    }
+  ],
+  "devices": [
+    {
+      "id": "sample_flag_ultra",
+      "name": "예시폰 Ultra",
+      "maker": "샘플제조사A",
+      "storage": "512GB",
+      "releasePrice": 1798000,
+      "subsidies": [
+        {
+          "planId": "skt_a",
+          "amount": 180000
+        },
+        {
+          "planId": "skt_b",
+          "amount": 290000
+        },
+        {
+          "planId": "skt_c",
+          "amount": 420000
+        },
+        {
+          "planId": "skt_d",
+          "amount": 550000
+        },
+        {
+          "planId": "kt_a",
+          "amount": 194000
+        },
+        {
+          "planId": "kt_b",
+          "amount": 313000
+        },
+        {
+          "planId": "kt_c",
+          "amount": 454000
+        },
+        {
+          "planId": "kt_d",
+          "amount": 594000
+        },
+        {
+          "planId": "lgu_a",
+          "amount": 207000
+        },
+        {
+          "planId": "lgu_b",
+          "amount": 334000
+        },
+        {
+          "planId": "lgu_c",
+          "amount": 483000
+        },
+        {
+          "planId": "lgu_d",
+          "amount": 632000
+        }
+      ]
+    },
+    {
+      "id": "sample_flag",
+      "name": "예시폰 Pro",
+      "maker": "샘플제조사A",
+      "storage": "256GB",
+      "releasePrice": 1155000,
+      "subsidies": [
+        {
+          "planId": "skt_a",
+          "amount": 153000
+        },
+        {
+          "planId": "skt_b",
+          "amount": 246000
+        },
+        {
+          "planId": "skt_c",
+          "amount": 357000
+        },
+        {
+          "planId": "skt_d",
+          "amount": 468000
+        },
+        {
+          "planId": "kt_a",
+          "amount": 165000
+        },
+        {
+          "planId": "kt_b",
+          "amount": 266000
+        },
+        {
+          "planId": "kt_c",
+          "amount": 386000
+        },
+        {
+          "planId": "kt_d",
+          "amount": 505000
+        },
+        {
+          "planId": "lgu_a",
+          "amount": 176000
+        },
+        {
+          "planId": "lgu_b",
+          "amount": 283000
+        },
+        {
+          "planId": "lgu_c",
+          "amount": 411000
+        },
+        {
+          "planId": "lgu_d",
+          "amount": 538000
+        }
+      ]
+    },
+    {
+      "id": "sample_fold",
+      "name": "예시폰 Fold",
+      "maker": "샘플제조사A",
+      "storage": "256GB",
+      "releasePrice": 2380000,
+      "subsidies": [
+        {
+          "planId": "skt_a",
+          "amount": 198000
+        },
+        {
+          "planId": "skt_b",
+          "amount": 319000
+        },
+        {
+          "planId": "skt_c",
+          "amount": 462000
+        },
+        {
+          "planId": "skt_d",
+          "amount": 605000
+        },
+        {
+          "planId": "kt_a",
+          "amount": 214000
+        },
+        {
+          "planId": "kt_b",
+          "amount": 345000
+        },
+        {
+          "planId": "kt_c",
+          "amount": 499000
+        },
+        {
+          "planId": "kt_d",
+          "amount": 653000
+        },
+        {
+          "planId": "lgu_a",
+          "amount": 228000
+        },
+        {
+          "planId": "lgu_b",
+          "amount": 367000
+        },
+        {
+          "planId": "lgu_c",
+          "amount": 531000
+        },
+        {
+          "planId": "lgu_d",
+          "amount": 696000
+        }
+      ]
+    },
+    {
+      "id": "sample_mid",
+      "name": "예시폰 Lite",
+      "maker": "샘플제조사A",
+      "storage": "128GB",
+      "releasePrice": 599000,
+      "subsidies": [
+        {
+          "planId": "skt_a",
+          "amount": 108000
+        },
+        {
+          "planId": "skt_b",
+          "amount": 174000
+        },
+        {
+          "planId": "skt_c",
+          "amount": 252000
+        },
+        {
+          "planId": "skt_d",
+          "amount": 330000
+        },
+        {
+          "planId": "kt_a",
+          "amount": 117000
+        },
+        {
+          "planId": "kt_b",
+          "amount": 188000
+        },
+        {
+          "planId": "kt_c",
+          "amount": 272000
+        },
+        {
+          "planId": "kt_d",
+          "amount": 356000
+        },
+        {
+          "planId": "lgu_a",
+          "amount": 124000
+        },
+        {
+          "planId": "lgu_b",
+          "amount": 200000
+        },
+        {
+          "planId": "lgu_c",
+          "amount": 290000
+        },
+        {
+          "planId": "lgu_d",
+          "amount": 379000
+        }
+      ]
+    },
+    {
+      "id": "sample_b_pro",
+      "name": "샘플폰 X Pro",
+      "maker": "샘플제조사B",
+      "storage": "256GB",
+      "releasePrice": 1550000,
+      "subsidies": [
+        {
+          "planId": "skt_a",
+          "amount": 81000
+        },
+        {
+          "planId": "skt_b",
+          "amount": 130000
+        },
+        {
+          "planId": "skt_c",
+          "amount": 188000
+        },
+        {
+          "planId": "skt_d",
+          "amount": 246000
+        },
+        {
+          "planId": "kt_a",
+          "amount": 78000
+        },
+        {
+          "planId": "kt_b",
+          "amount": 125000
+        },
+        {
+          "planId": "kt_c",
+          "amount": 181000
+        },
+        {
+          "planId": "kt_d",
+          "amount": 238000
+        },
+        {
+          "planId": "lgu_a",
+          "amount": 83000
+        },
+        {
+          "planId": "lgu_b",
+          "amount": 133000
+        },
+        {
+          "planId": "lgu_c",
+          "amount": 193000
+        },
+        {
+          "planId": "lgu_d",
+          "amount": 253000
+        }
+      ]
+    },
+    {
+      "id": "sample_b",
+      "name": "샘플폰 X",
+      "maker": "샘플제조사B",
+      "storage": "128GB",
+      "releasePrice": 1250000,
+      "subsidies": [
+        {
+          "planId": "skt_a",
+          "amount": 54000
+        },
+        {
+          "planId": "skt_b",
+          "amount": 87000
+        },
+        {
+          "planId": "skt_c",
+          "amount": 126000
+        },
+        {
+          "planId": "skt_d",
+          "amount": 165000
+        },
+        {
+          "planId": "kt_a",
+          "amount": 58000
+        },
+        {
+          "planId": "kt_b",
+          "amount": 94000
+        },
+        {
+          "planId": "kt_c",
+          "amount": 136000
+        },
+        {
+          "planId": "kt_d",
+          "amount": 178000
+        },
+        {
+          "planId": "lgu_a",
+          "amount": 62000
+        },
+        {
+          "planId": "lgu_b",
+          "amount": 100000
+        },
+        {
+          "planId": "lgu_c",
+          "amount": 145000
+        },
+        {
+          "planId": "lgu_d",
+          "amount": 190000
+        }
+      ]
+    }
+  ]
+}

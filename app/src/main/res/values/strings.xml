@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 앱 이름: 통신사 이름이나 '공식'이 들어가지 않게 정하세요 -->
+    <string name="app_name">폰값비교</string>
+</resources>
