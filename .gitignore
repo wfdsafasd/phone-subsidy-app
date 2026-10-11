@@ -1,0 +1,14 @@
+*.iml
+.gradle/
+/local.properties
+/.idea/
+.DS_Store
+/build/
+/app/build/
+/captures
+.externalNativeBuild
+.cxx
+# 서명 키는 절대 GitHub에 올리지 마세요
+*.jks
+*.keystore
+__pycache__/
